@@ -55,6 +55,22 @@
     "symbol": "CATIUSDT",
     "tf": "4h"
   },
+  "CUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-04T21:18:18.648505+00:00",
+    "symbol": "CUSDT",
+    "tf": "4h"
+  },
+  "CUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-04T21:18:17.975922+00:00",
+    "symbol": "CUSDT",
+    "tf": "4h"
+  },
   "DEXEUSDT_4h_short__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "short",

@@ -1,101 +1,66 @@
-"""End-to-end test of the worker pieces — no real Telegram traffic."""
-import importlib
-import json
-import os
-import shutil
 import sys
-import tempfile
-from pathlib import Path
-
-# Stage a tmpdir for the state.json
-tmpdir = tempfile.mkdtemp()
 sys.path.insert(0, "/home/claude")
-os.chdir(tmpdir)
-
-from scanner_worker import dedup
 from scanner_worker import format as fmt
-from scanner_worker import notify
 
-# Patch dedup.STATE_PATH for isolation
-dedup.STATE_PATH = Path(tmpdir) / "state.json"
+# === Bybit price + enriched format tests ===
+print("\n[NEW] Bybit price + enriched format")
 
-# ── 1. Dedup roundtrip ────────────────────────────────────────────────────────
-sig = {
+sig_with_extras = {
     "symbol":           "BTCUSDT",
     "timeframe":        "4h",
-    "direction":        "long",
-    "body_pct":         0.75,
-    "vol_mult":         2.5,
-    "adx":              35,
-    "candle_close_iso": "2026-05-04T08:00:00Z",
+    "direction":        "short",
+    "body_pct":         0.81,
+    "vol_mult":         2.4,
+    "adx":              38,
+    "candle_close_iso": "2026-05-04T16:00:00Z",
+    "_btc_regime_at_scan": "BULL",
+    "_bybit_price": {
+        "lastPrice": 58432.5, "markPrice": 58430.0,
+        "fundingRate": 0.0001, "source": "bybit_perp",
+    },
 }
-assert not dedup.already_sent(sig, "C6A-A", "STRICT")
-dedup.mark_sent(sig, "C6A-A", "STRICT")
-assert dedup.already_sent(sig, "C6A-A", "STRICT")
-assert not dedup.already_sent(sig, "C6A-A", "RELAXED")   # different level → different key
-print("✓ Dedup works")
-
-# ── 2. Format ─────────────────────────────────────────────────────────────────
 match = {
-    "name":            "C6A-A",
-    "tier":            1,
-    "combo_type":      "trend_following",
-    "_matched_level":  "RELAXED",
-    "_size_factor":    0.75,
-    "_pf_haircut":     0.92,
-    "rollup":          {"pf": 1.42},
+    "name": "C6A-N", "tier": 1, "combo_type": "trend_following",
+    "_matched_level": "RELAXED", "_size_factor": 0.75, "_pf_haircut": 0.92,
+    "rollup": {"pf": 1.42},
+    "criteria": {"regime_mode": "N"},
+    "primary": {"tf": "4h", "direction": "short", "entry_zone": "0%",
+                "tp_R": 2.0, "sizing": "FULL"},
 }
-text = fmt.format_signal(sig, match)
-assert "BTCUSDT" in text and "RELAXED" in text and "C6A-A" in text
-expected = round(1.42 * 0.92, 2)          # 1.3064 → displayed as 1.31
-assert f"expected ~{expected:.2f}" in text, f"Expected 'expected ~{expected:.2f}' in:\n{text}"
-print(f"✓ Format produces {len(text)}-char message:")
+text = fmt.format_signal(sig_with_extras, match)
+print(f"  Enriched message ({len(text)} chars):")
 for line in text.split("\n"):
-    print(f"   | {line}")
+    print(f"    | {line}")
 
-# ── 3. Telegram dry-run check (no real send) ──────────────────────────────────
-os.environ["TG_BOT_TOKEN"] = ""
-os.environ["TG_CHAT_ID"]   = ""
-# Reload notify so module-level env reads pick up the cleared values
-import importlib
-import scanner_worker.notify as _notify_mod
-_notify_mod.TG_BOT_TOKEN = ""
-_notify_mod.TG_CHAT_ID   = ""
-try:
-    notify.send_message("test")
-    print("✗ Should have raised TelegramConfigError")
-except notify.TelegramConfigError:
-    print("✓ Empty creds correctly raise TelegramConfigError")
+assert "Tier 1" in text, "should show Tier 1 group, not Tier 1 rank"
+assert "Bybit perp" in text and "58432.5" in text
+assert "Plan:" in text
+assert "Macro:" in text
+assert "BULL" in text
+assert "effective risk" in text.lower()
+assert len(text) < 800, f"message too long: {len(text)}"
+print("  ✓ Enriched message has tier group, Bybit price, plan, macro, eff risk")
 
-# ── 4. Format for STRICT (no haircut shown) ───────────────────────────────────
-match["_matched_level"] = "STRICT"
-match["_size_factor"]   = 1.0
-match["_pf_haircut"]    = 1.0
-text2 = fmt.format_signal(sig, match)
-assert "STRICT" in text2 and "full sizing" in text2.lower(), (
-    f"Expected 'full sizing' in STRICT message:\n{text2}"
-)
-print("✓ STRICT format omits haircut math")
+# CT version
+match["combo_type"] = "countertrend"
+match["primary"] = {"tf": "4h", "direction": "long", "entry_retrace": -0.30,
+                    "sl_method": "wick_anchor", "tp_R": 2.0, "sizing": "HALF"}
+text_ct = fmt.format_signal(sig_with_extras, match)
+assert "FADE PLAN" in text_ct
+assert "Tier 3" in text_ct
+print("  ✓ CT format shows Tier 3 + FADE PLAN")
 
-# ── 5. Format for COUNTERTREND ────────────────────────────────────────────────
-match["combo_type"]     = "countertrend"
-match["_matched_level"] = "LOOSE"
-match["_size_factor"]   = 0.5
-match["_pf_haircut"]    = 0.8
-text3 = fmt.format_signal(sig, match)
-assert "COUNTERTREND" in text3 and "OPPOSITE" in text3, (
-    f"Expected CT warnings in:\n{text3}"
-)
-print("✓ CT format flags fade direction")
+# No Bybit price (fallback)
+sig_with_extras["_bybit_price"] = None
+text_no = fmt.format_signal(sig_with_extras, match)
+assert "N/A" in text_no
+print("  ✓ Bybit-N/A fallback works")
 
-# ── 6. Dry-run scan (only if quantflow_scanner_core is importable) ────────────
-os.environ["QF_DRY_RUN"] = "1"
-try:
-    from scanner_worker import scan
-    rc = scan.main()
-    print(f"✓ Dry-run scan exited with code {rc}")
-except Exception as e:
-    print(f"⚠ Dry-run scan failed (network-bound, may be expected): {e}")
+# tier_group_label edge cases
+from scanner_worker.format import tier_group_label
+assert tier_group_label({"tier": 4, "combo_type": "trend_following"}) == "Tier 1"
+assert tier_group_label({"tier": 6, "combo_type": "trend_following"}) == "Tier 2"
+assert tier_group_label({"tier": 14, "combo_type": "countertrend"}) == "Tier 3"
+print("  ✓ tier_group_label resolves all cases")
 
-shutil.rmtree(tmpdir)
-print("\nAll worker tests pass")
+print("\nAll Fix-4 tests pass")

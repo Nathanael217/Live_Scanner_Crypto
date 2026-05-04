@@ -169,9 +169,16 @@ def _qf_signal_matches_at_level(sig: dict, combo: dict, btc_regime: str,
             return False
 
     try:
-        body_abs = abs(float(sig.get("body_pct", 0)))
-        vol_mult = float(sig.get("vol_mult", 0))
-        adx      = float(sig.get("adx", 0))
+        # AUTO-NORMALIZE body_pct units. The app's _scanner_score_signal
+        # stores body_pct as percent (0-100), but combo bands are fractions
+        # (0-1, e.g. body_min=0.7, body_max=0.8). The headless worker stores
+        # body_pct as fraction. Detect the format and normalize to fraction.
+        # A body_pct value > 1.5 is unambiguously percent (no candle has a
+        # body more than 100% of its range; in fraction form max is 1.0).
+        _raw_body = abs(float(sig.get("body_pct", 0)))
+        body_abs  = _raw_body / 100.0 if _raw_body > 1.5 else _raw_body
+        vol_mult  = float(sig.get("vol_mult", 0))
+        adx       = float(sig.get("adx", 0))
     except (TypeError, ValueError):
         return False
     if not (crit["body_min"] <= body_abs   < crit["body_max"]):  return False

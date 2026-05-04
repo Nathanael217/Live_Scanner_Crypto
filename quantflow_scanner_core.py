@@ -914,6 +914,40 @@ def get_matching_combos(sig: dict, enabled_combos: list[str],
     return matches
 
 
+def fetch_bybit_price(symbol: str) -> dict | None:
+    """
+    Fetch perpetual (linear) price for a symbol from Bybit V5 public API.
+
+    Returns dict with keys: lastPrice, markPrice, fundingRate (or None on failure).
+    The Bybit symbol is the same string as Binance (BTCUSDT, ETHUSDT, etc) for
+    USDT-margined perpetual contracts.
+
+    Public endpoint, no auth needed. ~50ms per request typical latency.
+    Returns None on any error so the caller can fall back to Binance price.
+    """
+    url = "https://api.bybit.com/v5/market/tickers"
+    try:
+        resp = requests.get(url, params={"category": "linear", "symbol": symbol},
+                            timeout=10)
+        if resp.status_code != 200:
+            return None
+        data = resp.json()
+        if data.get("retCode") != 0:
+            return None
+        items = (data.get("result") or {}).get("list") or []
+        if not items:
+            return None
+        t = items[0]
+        return {
+            "lastPrice":   float(t.get("lastPrice", 0)) or None,
+            "markPrice":   float(t.get("markPrice", 0)) or None,
+            "fundingRate": float(t.get("fundingRate", 0)) if t.get("fundingRate") else None,
+            "source":      "bybit_perp",
+        }
+    except Exception:
+        return None
+
+
 def fetch_universe(min_volume_usdt: float = 500_000,
                    top_n: int = 300) -> list[str]:
     """

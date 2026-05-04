@@ -1,0 +1,60 @@
+name: QuantFlow Scanner Cron
+
+on:
+  schedule:
+    # 6× per day at the 4H candle closes (UTC). 4H bars close at
+    # 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC.
+    # Run 5 minutes after close so the candle data is settled.
+    - cron: '5 0,4,8,12,16,20 * * *'
+  workflow_dispatch:   # manual trigger from GitHub UI
+
+# Single run at a time — don't pile up if a run takes >4h
+concurrency:
+  group: scanner-cron
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write   # needed to commit dedup state.json back
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # need history to push back
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scan
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID:   ${{ secrets.TG_CHAT_ID }}
+          QF_TIMEFRAMES: '4h,1d'
+          QF_TOP_N: '300'
+          QF_MIN_VOLUME_USDT: '500000'
+        run: python -m scanner_worker.scan
+
+      - name: Commit updated dedup state
+        if: always()   # commit even if scan fails so we don't repeat alerts
+        run: |
+          git config user.name  "quantflow-scanner-bot"
+          git config user.email "scanner-bot@users.noreply.github.com"
+          git add scanner_worker/state.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "scanner: update dedup state $(date -u +%FT%TZ)"
+            git pull --rebase --autostash
+            git push
+          else
+            echo "No state changes to commit."
+          fi

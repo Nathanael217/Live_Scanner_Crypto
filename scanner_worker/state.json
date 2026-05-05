@@ -462,5 +462,21 @@
     "sent_at": "2026-05-04T14:27:00.942420+00:00",
     "symbol": "ZAMAUSDT",
     "tf": "4h"
+  },
+  "ZECUSDT_4h_long__C5B-A_RELAXED": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-05T21:14:06.735860+00:00",
+    "symbol": "ZECUSDT",
+    "tf": "4h"
+  },
+  "ZECUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-05T21:14:07.205676+00:00",
+    "symbol": "ZECUSDT",
+    "tf": "4h"
   }
 }

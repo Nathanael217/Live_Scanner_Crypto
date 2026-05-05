@@ -271,6 +271,14 @@
     "symbol": "SUNUSDT",
     "tf": "1d"
   },
+  "SUPERUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-05T06:27:55.219234+00:00",
+    "symbol": "SUPERUSDT",
+    "tf": "4h"
+  },
   "SXTUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",

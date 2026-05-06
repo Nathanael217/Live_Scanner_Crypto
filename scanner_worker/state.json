@@ -207,6 +207,38 @@
     "symbol": "FORMUSDT",
     "tf": "4h"
   },
+  "FORMUSDT_4h_short__CT4_LOOSE": {
+    "combo": "CT4",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-06T10:27:50.999719+00:00",
+    "symbol": "FORMUSDT",
+    "tf": "4h"
+  },
+  "HIGHUSDT_4h_short__CT1_LOOSE": {
+    "combo": "CT1",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-06T10:27:49.557188+00:00",
+    "symbol": "HIGHUSDT",
+    "tf": "4h"
+  },
+  "HIGHUSDT_4h_short__CT2_LOOSE": {
+    "combo": "CT2",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-06T10:27:50.038443+00:00",
+    "symbol": "HIGHUSDT",
+    "tf": "4h"
+  },
+  "HIGHUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-06T10:27:50.520692+00:00",
+    "symbol": "HIGHUSDT",
+    "tf": "4h"
+  },
   "HMSTRUSDT_1d_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",
@@ -319,6 +351,14 @@
     "symbol": "NOTUSDT",
     "tf": "4h"
   },
+  "ONTUSDT_4h_short__CT4_STRICT": {
+    "combo": "CT4",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-05-06T10:27:49.086087+00:00",
+    "symbol": "ONTUSDT",
+    "tf": "4h"
+  },
   "OPENUSDT_1d_short__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "short",
@@ -391,6 +431,14 @@
     "symbol": "POLYXUSDT",
     "tf": "4h"
   },
+  "PORTALUSDT_4h_short__CT4_STRICT": {
+    "combo": "CT4",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-05-06T10:27:51.474395+00:00",
+    "symbol": "PORTALUSDT",
+    "tf": "4h"
+  },
   "RSRUSDT_4h_long__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "long",
@@ -405,6 +453,22 @@
     "level": "LOOSE",
     "sent_at": "2026-05-06T04:00:57.876011+00:00",
     "symbol": "RSRUSDT",
+    "tf": "4h"
+  },
+  "SCRTUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-06T10:27:51.963709+00:00",
+    "symbol": "SCRTUSDT",
+    "tf": "4h"
+  },
+  "SCRTUSDT_4h_long__CT6_STRICT": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-06T10:27:52.467578+00:00",
+    "symbol": "SCRTUSDT",
     "tf": "4h"
   },
   "SIGNUSDT_4h_long__CT6_STRICT": {

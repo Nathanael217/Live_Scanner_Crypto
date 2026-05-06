@@ -180,7 +180,16 @@ def _signal_matches_at_level(sig: dict, combo: dict,
 
     sig_dir = sig.get('direction', '')
     if combo_type == 'countertrend':
-        if sig_dir != crit.get('signal_direction_required', ''):
+        # signal_direction_required can be:
+        #   - a string ('long' or 'short') for the 17 individual CT combos,
+        #     which require the candle direction to match exactly
+        #   - None for the unified TIER_3 synth combo, meaning "accept both
+        #     directions, the tier's bands are direction-agnostic"
+        # The previous check `sig_dir != crit.get('signal_direction_required', '')`
+        # treated None as a value that no string equals, silently rejecting every
+        # signal — caused TIER_3 to never match in the worker either.
+        sdr = crit.get('signal_direction_required')
+        if sdr is not None and sig_dir != sdr:
             return False
     else:
         if sig_dir not in crit['directions']:

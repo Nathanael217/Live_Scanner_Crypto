@@ -495,6 +495,14 @@
     "symbol": "PORTALUSDT",
     "tf": "4h"
   },
+  "PORTOUSDT_4h_long__CT6_STRICT": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-06T21:21:19.976924+00:00",
+    "symbol": "PORTOUSDT",
+    "tf": "4h"
+  },
   "RENDERUSDT_4h_long__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "long",

@@ -343,6 +343,14 @@
     "symbol": "HOLOUSDT",
     "tf": "4h"
   },
+  "HUMAUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-07T06:49:20.438241+00:00",
+    "symbol": "HUMAUSDT",
+    "tf": "4h"
+  },
   "INJUSDT_4h_short__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "short",
@@ -775,6 +783,14 @@
     "symbol": "WLFIUSDT",
     "tf": "4h"
   },
+  "WUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-07T06:49:19.910201+00:00",
+    "symbol": "WUSDT",
+    "tf": "4h"
+  },
   "XAUTUSDT_1d_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -796,6 +812,14 @@
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-05-04T14:27:00.942420+00:00",
+    "symbol": "ZAMAUSDT",
+    "tf": "4h"
+  },
+  "ZAMAUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-07T06:49:19.376723+00:00",
     "symbol": "ZAMAUSDT",
     "tf": "4h"
   },

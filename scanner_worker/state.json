@@ -599,6 +599,22 @@
     "symbol": "PENDLEUSDT",
     "tf": "4h"
   },
+  "PLUMEUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-07T17:57:51.048171+00:00",
+    "symbol": "PLUMEUSDT",
+    "tf": "4h"
+  },
+  "PLUMEUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-07T17:57:50.377735+00:00",
+    "symbol": "PLUMEUSDT",
+    "tf": "4h"
+  },
   "POLUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",

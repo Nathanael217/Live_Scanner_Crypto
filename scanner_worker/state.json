@@ -79,6 +79,14 @@
     "symbol": "BANANAS31USDT",
     "tf": "4h"
   },
+  "BANANAUSDT_4h_short__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-05-07T14:45:28.328314+00:00",
+    "symbol": "BANANAUSDT",
+    "tf": "4h"
+  },
   "BTCUSDT_4h_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",
@@ -375,6 +383,22 @@
     "symbol": "INJUSDT",
     "tf": "4h"
   },
+  "JTOUSDT_4h_long__C5B-A_RELAXED": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-07T14:45:26.946882+00:00",
+    "symbol": "JTOUSDT",
+    "tf": "4h"
+  },
+  "JTOUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-07T14:45:27.619177+00:00",
+    "symbol": "JTOUSDT",
+    "tf": "4h"
+  },
   "KAITOUSDT_4h_short__C5B-N_STRICT": {
     "combo": "C5B-N",
     "dir": "short",
@@ -630,6 +654,22 @@
     "sent_at": "2026-05-07T10:34:25.984446+00:00",
     "symbol": "PROVEUSDT",
     "tf": "1d"
+  },
+  "PROVEUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-07T14:45:29.780965+00:00",
+    "symbol": "PROVEUSDT",
+    "tf": "4h"
+  },
+  "PROVEUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-07T14:45:29.064462+00:00",
+    "symbol": "PROVEUSDT",
+    "tf": "4h"
   },
   "PUMPUSDT_4h_long__C6A-A_LOOSE": {
     "combo": "C6A-A",

@@ -55,11 +55,27 @@
     "symbol": "ALLOUSDT",
     "tf": "4h"
   },
+  "ARBUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-08T21:15:20.549173+00:00",
+    "symbol": "ARBUSDT",
+    "tf": "4h"
+  },
   "ARBUSDT_4h_long__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-05-08T14:13:06.334777+00:00",
+    "symbol": "ARBUSDT",
+    "tf": "4h"
+  },
+  "ARBUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-08T21:15:20.061882+00:00",
     "symbol": "ARBUSDT",
     "tf": "4h"
   },
@@ -117,6 +133,14 @@
     "level": "STRICT",
     "sent_at": "2026-05-07T14:45:28.328314+00:00",
     "symbol": "BANANAUSDT",
+    "tf": "4h"
+  },
+  "BIOUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-08T21:15:21.035260+00:00",
+    "symbol": "BIOUSDT",
     "tf": "4h"
   },
   "BTCUSDT_4h_long__C6A-A_LOOSE": {
@@ -351,11 +375,27 @@
     "symbol": "FFUSDT",
     "tf": "4h"
   },
+  "FOGOUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-08T21:15:24.394836+00:00",
+    "symbol": "FOGOUSDT",
+    "tf": "4h"
+  },
   "FOGOUSDT_4h_long__C6A-A_STRICT": {
     "combo": "C6A-A",
     "dir": "long",
     "level": "STRICT",
     "sent_at": "2026-05-08T17:43:15.635601+00:00",
+    "symbol": "FOGOUSDT",
+    "tf": "4h"
+  },
+  "FOGOUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-08T21:15:23.917224+00:00",
     "symbol": "FOGOUSDT",
     "tf": "4h"
   },
@@ -509,6 +549,14 @@
     "level": "RELAXED",
     "sent_at": "2026-05-07T14:45:27.619177+00:00",
     "symbol": "JTOUSDT",
+    "tf": "4h"
+  },
+  "JUPUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-08T21:15:21.508640+00:00",
+    "symbol": "JUPUSDT",
     "tf": "4h"
   },
   "KAITOUSDT_4h_short__C5B-N_STRICT": {
@@ -807,6 +855,22 @@
     "symbol": "PENDLEUSDT",
     "tf": "4h"
   },
+  "PLUMEUSDT_4h_long__C5B-A_LOOSE": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-08T21:15:22.956534+00:00",
+    "symbol": "PLUMEUSDT",
+    "tf": "4h"
+  },
+  "PLUMEUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-08T21:15:23.432991+00:00",
+    "symbol": "PLUMEUSDT",
+    "tf": "4h"
+  },
   "PLUMEUSDT_4h_long__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "long",
@@ -815,11 +879,27 @@
     "symbol": "PLUMEUSDT",
     "tf": "4h"
   },
+  "PLUMEUSDT_4h_long__C6A-A_STRICT": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-08T21:15:22.467927+00:00",
+    "symbol": "PLUMEUSDT",
+    "tf": "4h"
+  },
   "PLUMEUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-05-07T17:57:50.377735+00:00",
+    "symbol": "PLUMEUSDT",
+    "tf": "4h"
+  },
+  "PLUMEUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-08T21:15:21.982417+00:00",
     "symbol": "PLUMEUSDT",
     "tf": "4h"
   },
@@ -1191,11 +1271,27 @@
     "symbol": "UNIUSDT",
     "tf": "4h"
   },
+  "UNIUSDT_4h_long__C6A-A_STRICT": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-08T21:15:19.589405+00:00",
+    "symbol": "UNIUSDT",
+    "tf": "4h"
+  },
   "UNIUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-05-06T14:42:25.241113+00:00",
+    "symbol": "UNIUSDT",
+    "tf": "4h"
+  },
+  "UNIUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-08T21:15:19.105046+00:00",
     "symbol": "UNIUSDT",
     "tf": "4h"
   },

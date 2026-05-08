@@ -863,6 +863,22 @@
     "symbol": "RENDERUSDT",
     "tf": "4h"
   },
+  "RIFUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-08T06:07:43.872525+00:00",
+    "symbol": "RIFUSDT",
+    "tf": "4h"
+  },
+  "RIFUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-08T06:07:43.348736+00:00",
+    "symbol": "RIFUSDT",
+    "tf": "4h"
+  },
   "ROBOUSDT_1d_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",

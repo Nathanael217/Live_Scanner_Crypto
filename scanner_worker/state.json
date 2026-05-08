@@ -127,6 +127,22 @@
     "symbol": "CATIUSDT",
     "tf": "4h"
   },
+  "CHIPUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-08T09:49:56.159891+00:00",
+    "symbol": "CHIPUSDT",
+    "tf": "4h"
+  },
+  "CHIPUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-08T09:49:55.667561+00:00",
+    "symbol": "CHIPUSDT",
+    "tf": "4h"
+  },
   "CITYUSDT_4h_short__CT1_RELAXED": {
     "combo": "CT1",
     "dir": "short",

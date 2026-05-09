@@ -15,6 +15,14 @@
     "symbol": "1000CHEEMSUSDT",
     "tf": "4h"
   },
+  "1000SATSUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-05-09T17:08:15.624368+00:00",
+    "symbol": "1000SATSUSDT",
+    "tf": "4h"
+  },
   "ACEUSDT_4h_long__CT7_LOOSE": {
     "combo": "CT7",
     "dir": "long",
@@ -1303,6 +1311,14 @@
     "symbol": "PYTHUSDT",
     "tf": "4h"
   },
+  "RAREUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-05-09T17:08:14.549082+00:00",
+    "symbol": "RAREUSDT",
+    "tf": "4h"
+  },
   "RENDERUSDT_4h_long__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "long",
@@ -1692,6 +1708,14 @@
     "dir": "long",
     "level": "STRICT",
     "sent_at": "2026-05-09T13:48:05.718118+00:00",
+    "symbol": "WINUSDT",
+    "tf": "4h"
+  },
+  "WINUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-09T17:08:15.088535+00:00",
     "symbol": "WINUSDT",
     "tf": "4h"
   },

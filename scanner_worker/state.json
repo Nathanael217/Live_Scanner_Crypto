@@ -15,6 +15,14 @@
     "symbol": "1000CHEEMSUSDT",
     "tf": "4h"
   },
+  "ACEUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-09T09:42:20.751286+00:00",
+    "symbol": "ACEUSDT",
+    "tf": "4h"
+  },
   "ACHUSDT_1d_long__C5B-A_STRICT": {
     "combo": "C5B-A",
     "dir": "long",
@@ -37,6 +45,22 @@
     "level": "LOOSE",
     "sent_at": "2026-05-07T04:00:01.237824+00:00",
     "symbol": "ACMUSDT",
+    "tf": "4h"
+  },
+  "AIXBTUSDT_4h_long__C6A-A_STRICT": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-09T09:42:22.719015+00:00",
+    "symbol": "AIXBTUSDT",
+    "tf": "4h"
+  },
+  "AIXBTUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-09T09:42:22.058985+00:00",
+    "symbol": "AIXBTUSDT",
     "tf": "4h"
   },
   "ALGOUSDT_4h_long__C6A-A_LOOSE": {
@@ -1565,6 +1589,14 @@
     "level": "STRICT",
     "sent_at": "2026-05-08T21:15:19.105046+00:00",
     "symbol": "UNIUSDT",
+    "tf": "4h"
+  },
+  "VETUSDT_4h_short__CT3_STRICT": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-05-09T09:42:21.420821+00:00",
+    "symbol": "VETUSDT",
     "tf": "4h"
   },
   "VIRTUALUSDT_4h_long__C6A-A_LOOSE": {

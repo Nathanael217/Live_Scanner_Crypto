@@ -247,6 +247,22 @@
     "symbol": "CHIPUSDT",
     "tf": "4h"
   },
+  "CHIPUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-09T13:48:02.723146+00:00",
+    "symbol": "CHIPUSDT",
+    "tf": "4h"
+  },
+  "CHIPUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-05-09T13:48:02.226064+00:00",
+    "symbol": "CHIPUSDT",
+    "tf": "4h"
+  },
   "CITYUSDT_4h_short__CT1_RELAXED": {
     "combo": "CT1",
     "dir": "short",
@@ -943,6 +959,22 @@
     "symbol": "NXPCUSDT",
     "tf": "4h"
   },
+  "OGUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-09T13:48:03.727948+00:00",
+    "symbol": "OGUSDT",
+    "tf": "4h"
+  },
+  "OGUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-09T13:48:03.229323+00:00",
+    "symbol": "OGUSDT",
+    "tf": "4h"
+  },
   "ONDOUSDT_1d_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",
@@ -1351,6 +1383,22 @@
     "symbol": "RONINUSDT",
     "tf": "1d"
   },
+  "RONINUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-09T13:48:04.706665+00:00",
+    "symbol": "RONINUSDT",
+    "tf": "4h"
+  },
+  "RONINUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-09T13:48:04.222155+00:00",
+    "symbol": "RONINUSDT",
+    "tf": "4h"
+  },
   "RSRUSDT_4h_long__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "long",
@@ -1629,6 +1677,22 @@
     "level": "RELAXED",
     "sent_at": "2026-05-06T04:00:56.508746+00:00",
     "symbol": "WIFUSDT",
+    "tf": "4h"
+  },
+  "WINUSDT_4h_long__C5B-A_STRICT": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-09T13:48:05.226505+00:00",
+    "symbol": "WINUSDT",
+    "tf": "4h"
+  },
+  "WINUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-09T13:48:05.718118+00:00",
+    "symbol": "WINUSDT",
     "tf": "4h"
   },
   "WLFIUSDT_4h_long__C5B-A_STRICT": {

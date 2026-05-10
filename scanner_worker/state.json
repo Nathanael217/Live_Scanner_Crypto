@@ -647,6 +647,22 @@
     "symbol": "HUMAUSDT",
     "tf": "4h"
   },
+  "IDUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-10T09:47:10.939398+00:00",
+    "symbol": "IDUSDT",
+    "tf": "4h"
+  },
+  "IDUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-10T09:47:10.463078+00:00",
+    "symbol": "IDUSDT",
+    "tf": "4h"
+  },
   "INITUSDT_1d_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",
@@ -812,6 +828,14 @@
     "dir": "long",
     "level": "STRICT",
     "sent_at": "2026-05-09T20:59:24.169661+00:00",
+    "symbol": "LUMIAUSDT",
+    "tf": "4h"
+  },
+  "LUMIAUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-05-10T09:47:09.453266+00:00",
     "symbol": "LUMIAUSDT",
     "tf": "4h"
   },
@@ -1527,6 +1551,22 @@
     "symbol": "RSRUSDT",
     "tf": "4h"
   },
+  "SANTOSUSDT_4h_long__C5B-A_RELAXED": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-10T09:47:11.432958+00:00",
+    "symbol": "SANTOSUSDT",
+    "tf": "4h"
+  },
+  "SANTOSUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-10T09:47:11.902172+00:00",
+    "symbol": "SANTOSUSDT",
+    "tf": "4h"
+  },
   "SCRTUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
@@ -1695,6 +1735,14 @@
     "symbol": "TRBUSDT",
     "tf": "4h"
   },
+  "TREEUSDT_4h_long__CT5_RELAXED": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-10T09:47:09.925720+00:00",
+    "symbol": "TREEUSDT",
+    "tf": "4h"
+  },
   "TSTUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
@@ -1748,6 +1796,14 @@
     "dir": "long",
     "level": "STRICT",
     "sent_at": "2026-05-08T21:15:19.105046+00:00",
+    "symbol": "UNIUSDT",
+    "tf": "4h"
+  },
+  "UNIUSDT_4h_long__CT7_STRICT": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-10T09:47:08.901303+00:00",
     "symbol": "UNIUSDT",
     "tf": "4h"
   },

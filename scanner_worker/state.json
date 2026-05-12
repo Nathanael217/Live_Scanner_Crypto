@@ -87,6 +87,14 @@
     "symbol": "ADAUSDT",
     "tf": "4h"
   },
+  "AEVOUSDT_4h_long__CT6_STRICT": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-12T10:41:29.323474+00:00",
+    "symbol": "AEVOUSDT",
+    "tf": "4h"
+  },
   "AIXBTUSDT_4h_long__C6A-A_STRICT": {
     "combo": "C6A-A",
     "dir": "long",
@@ -407,6 +415,38 @@
     "symbol": "COMPUSDT",
     "tf": "4h"
   },
+  "CTKUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-12T10:41:31.734486+00:00",
+    "symbol": "CTKUSDT",
+    "tf": "4h"
+  },
+  "CTKUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-12T10:41:31.131279+00:00",
+    "symbol": "CTKUSDT",
+    "tf": "4h"
+  },
+  "CVXUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-12T10:41:28.728323+00:00",
+    "symbol": "CVXUSDT",
+    "tf": "4h"
+  },
+  "CVXUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-12T10:41:28.134322+00:00",
+    "symbol": "CVXUSDT",
+    "tf": "4h"
+  },
   "DUSDT_4h_short__CT2_STRICT": {
     "combo": "CT2",
     "dir": "short",
@@ -421,22 +461,6 @@
     "level": "LOOSE",
     "sent_at": "2026-05-05T17:47:10.402438+00:00",
     "symbol": "DUSDT",
-    "tf": "4h"
-  },
-  "DYMUSDT_4h_long__C6A-A_RELAXED": {
-    "combo": "C6A-A",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-05-05T10:11:40.921672+00:00",
-    "symbol": "DYMUSDT",
-    "tf": "4h"
-  },
-  "DYMUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-05-05T10:11:40.414527+00:00",
-    "symbol": "DYMUSDT",
     "tf": "4h"
   },
   "EDENUSDT_4h_long__CT5_LOOSE": {
@@ -831,14 +855,6 @@
     "symbol": "JUPUSDT",
     "tf": "4h"
   },
-  "KAITOUSDT_4h_short__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-05-05T10:11:41.461350+00:00",
-    "symbol": "KAITOUSDT",
-    "tf": "4h"
-  },
   "KATUSDT_4h_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",
@@ -1005,6 +1021,22 @@
     "level": "RELAXED",
     "sent_at": "2026-05-10T13:51:52.747589+00:00",
     "symbol": "LUNCUSDT",
+    "tf": "4h"
+  },
+  "MANAUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-12T10:41:30.526335+00:00",
+    "symbol": "MANAUSDT",
+    "tf": "4h"
+  },
+  "MANAUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-12T10:41:29.927044+00:00",
+    "symbol": "MANAUSDT",
     "tf": "4h"
   },
   "METUSDT_4h_long__C5B-A_STRICT": {
@@ -1373,6 +1405,38 @@
     "level": "LOOSE",
     "sent_at": "2026-05-11T11:34:54.387942+00:00",
     "symbol": "PHAUSDT",
+    "tf": "4h"
+  },
+  "PIXELUSDT_4h_long__C5B-A_STRICT": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-12T10:41:26.949281+00:00",
+    "symbol": "PIXELUSDT",
+    "tf": "4h"
+  },
+  "PIXELUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-12T10:41:27.545972+00:00",
+    "symbol": "PIXELUSDT",
+    "tf": "4h"
+  },
+  "PIXELUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-12T10:41:26.338588+00:00",
+    "symbol": "PIXELUSDT",
+    "tf": "4h"
+  },
+  "PIXELUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-12T10:41:25.750675+00:00",
+    "symbol": "PIXELUSDT",
     "tf": "4h"
   },
   "PLUMEUSDT_1d_long__C6A-A_STRICT": {
@@ -1759,11 +1823,27 @@
     "symbol": "RSRUSDT",
     "tf": "4h"
   },
+  "SAGAUSDT_4h_long__C5B-A_RELAXED": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-12T10:41:23.937355+00:00",
+    "symbol": "SAGAUSDT",
+    "tf": "4h"
+  },
   "SAGAUSDT_4h_long__C5B-A_STRICT": {
     "combo": "C5B-A",
     "dir": "long",
     "level": "STRICT",
     "sent_at": "2026-05-11T21:39:13.733208+00:00",
+    "symbol": "SAGAUSDT",
+    "tf": "4h"
+  },
+  "SAGAUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-12T10:41:24.535812+00:00",
     "symbol": "SAGAUSDT",
     "tf": "4h"
   },
@@ -1831,12 +1911,12 @@
     "symbol": "SOLUSDT",
     "tf": "4h"
   },
-  "SUPERUSDT_4h_long__CT5_LOOSE": {
-    "combo": "CT5",
+  "SOLVUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
     "dir": "long",
     "level": "LOOSE",
-    "sent_at": "2026-05-05T06:27:55.219234+00:00",
-    "symbol": "SUPERUSDT",
+    "sent_at": "2026-05-12T10:41:25.127671+00:00",
+    "symbol": "SOLVUSDT",
     "tf": "4h"
   },
   "SUSDT_4h_long__CT5_LOOSE": {

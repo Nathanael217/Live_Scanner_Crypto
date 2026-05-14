@@ -31,6 +31,38 @@
     "symbol": "1MBABYDOGEUSDT",
     "tf": "4h"
   },
+  "2ZUSDT_4h_long__C5B-A_RELAXED": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-14T10:30:49.482206+00:00",
+    "symbol": "2ZUSDT",
+    "tf": "4h"
+  },
+  "2ZUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-14T10:30:50.245977+00:00",
+    "symbol": "2ZUSDT",
+    "tf": "4h"
+  },
+  "2ZUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-14T10:30:48.870061+00:00",
+    "symbol": "2ZUSDT",
+    "tf": "4h"
+  },
+  "2ZUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-14T10:30:48.330490+00:00",
+    "symbol": "2ZUSDT",
+    "tf": "4h"
+  },
   "ACEUSDT_4h_long__CT7_LOOSE": {
     "combo": "CT7",
     "dir": "long",
@@ -799,11 +831,19 @@
     "symbol": "HOLOUSDT",
     "tf": "1d"
   },
-  "HUMAUSDT_4h_short__CT3_LOOSE": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-05-07T06:49:20.438241+00:00",
+  "HUMAUSDT_4h_long__C5B-A_STRICT": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-14T10:30:47.216277+00:00",
+    "symbol": "HUMAUSDT",
+    "tf": "4h"
+  },
+  "HUMAUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-14T10:30:47.753374+00:00",
     "symbol": "HUMAUSDT",
     "tf": "4h"
   },
@@ -2319,14 +2359,6 @@
     "symbol": "WUSDT",
     "tf": "4h"
   },
-  "WUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-05-07T06:49:19.910201+00:00",
-    "symbol": "WUSDT",
-    "tf": "4h"
-  },
   "XAIUSDT_4h_long__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "long",
@@ -2397,14 +2429,6 @@
     "level": "RELAXED",
     "sent_at": "2026-05-09T20:59:26.122911+00:00",
     "symbol": "XVSUSDT",
-    "tf": "4h"
-  },
-  "ZAMAUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-05-07T06:49:19.376723+00:00",
-    "symbol": "ZAMAUSDT",
     "tf": "4h"
   },
   "ZECUSDT_4h_short__C5B-N_LOOSE": {

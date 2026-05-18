@@ -1471,6 +1471,14 @@
     "symbol": "WUSDT",
     "tf": "4h"
   },
+  "XAIUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-18T21:23:30.379443+00:00",
+    "symbol": "XAIUSDT",
+    "tf": "4h"
+  },
   "XAIUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",

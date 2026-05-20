@@ -335,6 +335,14 @@
     "symbol": "FETUSDT",
     "tf": "4h"
   },
+  "FIDAUSDT_4h_long__CT6_STRICT": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-20T11:18:41.966185+00:00",
+    "symbol": "FIDAUSDT",
+    "tf": "4h"
+  },
   "FLOKIUSDT_4h_short__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "short",
@@ -1093,6 +1101,14 @@
     "level": "RELAXED",
     "sent_at": "2026-05-15T21:17:47.304969+00:00",
     "symbol": "ZAMAUSDT",
+    "tf": "4h"
+  },
+  "ZENUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-20T11:18:42.565256+00:00",
+    "symbol": "ZENUSDT",
     "tf": "4h"
   },
   "ZENUSDT_4h_short__C6A-N_RELAXED": {

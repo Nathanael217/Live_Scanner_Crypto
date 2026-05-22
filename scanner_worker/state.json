@@ -287,14 +287,6 @@
     "symbol": "EDENUSDT",
     "tf": "4h"
   },
-  "EURUSDT_4h_short__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-05-15T10:36:47.893447+00:00",
-    "symbol": "EURUSDT",
-    "tf": "4h"
-  },
   "EURUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -807,6 +799,14 @@
     "symbol": "REZUSDT",
     "tf": "4h"
   },
+  "RIFUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-22T11:15:26.765118+00:00",
+    "symbol": "RIFUSDT",
+    "tf": "4h"
+  },
   "ROSEUSDT_4h_short__CT3_STRICT": {
     "combo": "CT3",
     "dir": "short",
@@ -893,14 +893,6 @@
     "level": "STRICT",
     "sent_at": "2026-05-19T04:22:40.960172+00:00",
     "symbol": "STGUSDT",
-    "tf": "4h"
-  },
-  "STOUSDT_4h_short__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-05-15T10:36:48.386126+00:00",
-    "symbol": "STOUSDT",
     "tf": "4h"
   },
   "SUSDT_4h_long__C5B-N_LOOSE": {
@@ -1045,6 +1037,14 @@
     "level": "LOOSE",
     "sent_at": "2026-05-15T17:51:54.208860+00:00",
     "symbol": "VIRTUALUSDT",
+    "tf": "4h"
+  },
+  "WLDUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-22T11:15:26.142284+00:00",
+    "symbol": "WLDUSDT",
     "tf": "4h"
   },
   "XAIUSDT_4h_long__C5B-N_STRICT": {

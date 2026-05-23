@@ -223,6 +223,14 @@
     "symbol": "CHRUSDT",
     "tf": "4h"
   },
+  "CHZUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-23T14:01:10.931265+00:00",
+    "symbol": "CHZUSDT",
+    "tf": "4h"
+  },
   "COMPUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -509,6 +517,14 @@
     "level": "RELAXED",
     "sent_at": "2026-05-21T04:41:01.111753+00:00",
     "symbol": "JSTUSDT",
+    "tf": "4h"
+  },
+  "KITEUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-23T14:01:11.424585+00:00",
+    "symbol": "KITEUSDT",
     "tf": "4h"
   },
   "KITEUSDT_4h_short__C6A-N_RELAXED": {

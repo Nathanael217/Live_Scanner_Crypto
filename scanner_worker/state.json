@@ -183,6 +183,14 @@
     "symbol": "BEAMXUSDT",
     "tf": "4h"
   },
+  "BICOUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-23T21:06:14.073027+00:00",
+    "symbol": "BICOUSDT",
+    "tf": "4h"
+  },
   "BIOUSDT_4h_long__CT7_RELAXED": {
     "combo": "CT7",
     "dir": "long",
@@ -1037,22 +1045,6 @@
     "level": "RELAXED",
     "sent_at": "2026-05-19T15:46:51.811883+00:00",
     "symbol": "TUTUSDT",
-    "tf": "4h"
-  },
-  "TWTUSDT_4h_long__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-05-16T21:01:59.545665+00:00",
-    "symbol": "TWTUSDT",
-    "tf": "4h"
-  },
-  "TWTUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-05-16T21:01:58.864434+00:00",
-    "symbol": "TWTUSDT",
     "tf": "4h"
   },
   "VETUSDT_4h_long__C5B-N_RELAXED": {

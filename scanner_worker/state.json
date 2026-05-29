@@ -215,6 +215,22 @@
     "symbol": "DEXEUSDT",
     "tf": "1d"
   },
+  "DEXEUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-29T11:39:36.435773+00:00",
+    "symbol": "DEXEUSDT",
+    "tf": "4h"
+  },
+  "DEXEUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-05-29T11:39:35.775723+00:00",
+    "symbol": "DEXEUSDT",
+    "tf": "4h"
+  },
   "DEXEUSDT_4h_short__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "short",
@@ -389,6 +405,14 @@
     "level": "LOOSE",
     "sent_at": "2026-05-22T15:18:45.013119+00:00",
     "symbol": "HFTUSDT",
+    "tf": "4h"
+  },
+  "HUMAUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-05-29T11:39:37.140029+00:00",
+    "symbol": "HUMAUSDT",
     "tf": "4h"
   },
   "HYPERUSDT_4h_short__C5B-A_RELAXED": {
@@ -759,14 +783,6 @@
     "symbol": "RIFUSDT",
     "tf": "1d"
   },
-  "RIFUSDT_4h_short__CT3_LOOSE": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-05-22T11:15:26.765118+00:00",
-    "symbol": "RIFUSDT",
-    "tf": "4h"
-  },
   "RIFUSDT_4h_short__CT3_RELAXED": {
     "combo": "CT3",
     "dir": "short",
@@ -991,14 +1007,6 @@
     "symbol": "VICUSDT",
     "tf": "1d"
   },
-  "WLDUSDT_4h_long__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-05-22T11:15:26.142284+00:00",
-    "symbol": "WLDUSDT",
-    "tf": "4h"
-  },
   "XRPUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -1030,6 +1038,22 @@
     "sent_at": "2026-05-24T21:10:08.081469+00:00",
     "symbol": "YBUSDT",
     "tf": "4h"
+  },
+  "YFIUSDT_1d_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-29T11:39:38.428867+00:00",
+    "symbol": "YFIUSDT",
+    "tf": "1d"
+  },
+  "YFIUSDT_1d_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-05-29T11:39:37.779701+00:00",
+    "symbol": "YFIUSDT",
+    "tf": "1d"
   },
   "ZAMAUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",

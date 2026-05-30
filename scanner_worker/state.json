@@ -47,28 +47,12 @@
     "symbol": "BATUSDT",
     "tf": "4h"
   },
-  "BICOUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-05-23T21:06:14.073027+00:00",
-    "symbol": "BICOUSDT",
-    "tf": "4h"
-  },
   "C98USDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-05-26T21:57:05.825584+00:00",
     "symbol": "C98USDT",
-    "tf": "4h"
-  },
-  "CHZUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-05-23T14:01:10.931265+00:00",
-    "symbol": "CHZUSDT",
     "tf": "4h"
   },
   "CHZUSDT_4h_short__CT3_LOOSE": {
@@ -231,6 +215,14 @@
     "symbol": "FOGOUSDT",
     "tf": "4h"
   },
+  "GIGGLEUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-30T21:13:00.816373+00:00",
+    "symbol": "GIGGLEUSDT",
+    "tf": "4h"
+  },
   "GUNUSDT_4h_long__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "long",
@@ -317,14 +309,6 @@
     "level": "LOOSE",
     "sent_at": "2026-05-24T04:26:05.259736+00:00",
     "symbol": "KAITOUSDT",
-    "tf": "4h"
-  },
-  "KITEUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-05-23T14:01:11.424585+00:00",
-    "symbol": "KITEUSDT",
     "tf": "4h"
   },
   "KSMUSDT_1d_short__C5B-N_STRICT": {

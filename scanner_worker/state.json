@@ -15,14 +15,6 @@
     "symbol": "ALLOUSDT",
     "tf": "4h"
   },
-  "AVNTUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-05-24T04:26:05.729023+00:00",
-    "symbol": "AVNTUSDT",
-    "tf": "4h"
-  },
   "BARDUSDT_4h_short__CT3_RELAXED": {
     "combo": "CT3",
     "dir": "short",
@@ -143,22 +135,6 @@
     "symbol": "DUSDT",
     "tf": "4h"
   },
-  "EIGENUSDT_1d_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-05-24T04:26:04.774845+00:00",
-    "symbol": "EIGENUSDT",
-    "tf": "1d"
-  },
-  "EIGENUSDT_1d_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-05-24T04:26:04.285854+00:00",
-    "symbol": "EIGENUSDT",
-    "tf": "1d"
-  },
   "ENSOUSDT_4h_short__CT2_RELAXED": {
     "combo": "CT2",
     "dir": "short",
@@ -182,6 +158,14 @@
     "sent_at": "2026-05-25T21:21:17.252991+00:00",
     "symbol": "ERAUSDT",
     "tf": "4h"
+  },
+  "FETUSDT_1d_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-05-31T04:48:13.314864+00:00",
+    "symbol": "FETUSDT",
+    "tf": "1d"
   },
   "FETUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
@@ -303,14 +287,6 @@
     "symbol": "KAIAUSDT",
     "tf": "4h"
   },
-  "KAITOUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-05-24T04:26:05.259736+00:00",
-    "symbol": "KAITOUSDT",
-    "tf": "4h"
-  },
   "KSMUSDT_1d_short__C5B-N_STRICT": {
     "combo": "C5B-N",
     "dir": "short",
@@ -430,14 +406,6 @@
     "sent_at": "2026-05-26T16:04:53.809038+00:00",
     "symbol": "MOVRUSDT",
     "tf": "4h"
-  },
-  "NEARUSDT_1d_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-05-24T04:26:03.788182+00:00",
-    "symbol": "NEARUSDT",
-    "tf": "1d"
   },
   "NEXOUSDT_4h_short__CT3_LOOSE": {
     "combo": "CT3",

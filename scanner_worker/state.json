@@ -479,6 +479,14 @@
     "symbol": "RIFUSDT",
     "tf": "1d"
   },
+  "RUNEUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-01T13:46:43.128601+00:00",
+    "symbol": "RUNEUSDT",
+    "tf": "4h"
+  },
   "SKYUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",

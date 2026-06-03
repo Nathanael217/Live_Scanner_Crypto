@@ -167,6 +167,22 @@
     "symbol": "CRVUSDT",
     "tf": "4h"
   },
+  "CVXUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-03T22:32:58.761722+00:00",
+    "symbol": "CVXUSDT",
+    "tf": "4h"
+  },
+  "CVXUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-03T22:32:58.275205+00:00",
+    "symbol": "CVXUSDT",
+    "tf": "4h"
+  },
   "DASHUSDT_4h_short__CT2_RELAXED": {
     "combo": "CT2",
     "dir": "short",

@@ -79,22 +79,6 @@
     "symbol": "ARBUSDT",
     "tf": "1d"
   },
-  "BATUSDT_4h_long__CT5_RELAXED": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-05-28T16:23:38.974114+00:00",
-    "symbol": "BATUSDT",
-    "tf": "4h"
-  },
-  "BATUSDT_4h_long__CT7_RELAXED": {
-    "combo": "CT7",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-05-28T16:23:39.609884+00:00",
-    "symbol": "BATUSDT",
-    "tf": "4h"
-  },
   "BNBUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -343,6 +327,14 @@
     "symbol": "LQTYUSDT",
     "tf": "1d"
   },
+  "MAGICUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-04T18:29:08.379262+00:00",
+    "symbol": "MAGICUSDT",
+    "tf": "4h"
+  },
   "NOMUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
@@ -421,6 +413,14 @@
     "level": "LOOSE",
     "sent_at": "2026-06-01T20:24:57.903467+00:00",
     "symbol": "PONDUSDT",
+    "tf": "4h"
+  },
+  "PROVEUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-04T18:29:07.756600+00:00",
+    "symbol": "PROVEUSDT",
     "tf": "4h"
   },
   "PUMPUSDT_4h_long__CT7_RELAXED": {
@@ -687,6 +687,14 @@
     "symbol": "WALUSDT",
     "tf": "1d"
   },
+  "WLDUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-06-04T18:29:07.123238+00:00",
+    "symbol": "WLDUSDT",
+    "tf": "4h"
+  },
   "WLDUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -726,21 +734,5 @@
     "sent_at": "2026-05-29T11:39:37.779701+00:00",
     "symbol": "YFIUSDT",
     "tf": "1d"
-  },
-  "ZROUSDT_4h_short__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-05-28T16:23:38.348438+00:00",
-    "symbol": "ZROUSDT",
-    "tf": "4h"
-  },
-  "ZROUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-05-28T16:23:37.698932+00:00",
-    "symbol": "ZROUSDT",
-    "tf": "4h"
   }
 }

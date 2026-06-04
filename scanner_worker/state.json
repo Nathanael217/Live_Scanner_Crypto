@@ -95,6 +95,22 @@
     "symbol": "BATUSDT",
     "tf": "4h"
   },
+  "BNBUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-04T11:25:17.370141+00:00",
+    "symbol": "BNBUSDT",
+    "tf": "4h"
+  },
+  "BNBUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-04T11:25:16.835594+00:00",
+    "symbol": "BNBUSDT",
+    "tf": "4h"
+  },
   "BNSOLUSDT_4h_short__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "short",
@@ -606,6 +622,14 @@
     "sent_at": "2026-05-29T04:39:17.363886+00:00",
     "symbol": "SUNUSDT",
     "tf": "1d"
+  },
+  "SUNUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-04T11:25:17.899501+00:00",
+    "symbol": "SUNUSDT",
+    "tf": "4h"
   },
   "TRXUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",

@@ -383,6 +383,14 @@
     "symbol": "KATUSDT",
     "tf": "4h"
   },
+  "KNCUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-05T21:43:05.717087+00:00",
+    "symbol": "KNCUSDT",
+    "tf": "4h"
+  },
   "LINKUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",

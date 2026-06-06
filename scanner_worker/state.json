@@ -127,6 +127,14 @@
     "symbol": "ASRUSDT",
     "tf": "4h"
   },
+  "ATMUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-06T14:05:37.892194+00:00",
+    "symbol": "ATMUSDT",
+    "tf": "4h"
+  },
   "BANKUSDT_4h_short__CT4_STRICT": {
     "combo": "CT4",
     "dir": "short",
@@ -389,14 +397,6 @@
     "level": "LOOSE",
     "sent_at": "2026-05-30T21:13:00.816373+00:00",
     "symbol": "GIGGLEUSDT",
-    "tf": "4h"
-  },
-  "HFTUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-05-30T10:10:47.398359+00:00",
-    "symbol": "HFTUSDT",
     "tf": "4h"
   },
   "HIGHUSDT_4h_short__C5B-A_LOOSE": {

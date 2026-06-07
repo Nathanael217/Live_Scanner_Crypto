@@ -671,6 +671,14 @@
     "symbol": "MOVRUSDT",
     "tf": "4h"
   },
+  "MOVRUSDT_4h_short__CT3_RELAXED": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-07T17:38:34.452524+00:00",
+    "symbol": "MOVRUSDT",
+    "tf": "4h"
+  },
   "NEOUSDT_1d_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "short",

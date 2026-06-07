@@ -63,6 +63,22 @@
     "symbol": "AAVEUSDT",
     "tf": "1d"
   },
+  "ALLOUSDT_1d_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-07T04:53:08.372572+00:00",
+    "symbol": "ALLOUSDT",
+    "tf": "1d"
+  },
+  "ALLOUSDT_1d_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-07T04:53:07.860841+00:00",
+    "symbol": "ALLOUSDT",
+    "tf": "1d"
+  },
   "ALLOUSDT_4h_short__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "short",
@@ -255,6 +271,22 @@
     "symbol": "C98USDT",
     "tf": "4h"
   },
+  "CHRUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-07T04:53:09.950618+00:00",
+    "symbol": "CHRUSDT",
+    "tf": "4h"
+  },
+  "CHRUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-07T04:53:09.418723+00:00",
+    "symbol": "CHRUSDT",
+    "tf": "4h"
+  },
   "CRVUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -319,14 +351,6 @@
     "symbol": "EULUSDT",
     "tf": "4h"
   },
-  "FETUSDT_1d_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-05-31T04:48:13.314864+00:00",
-    "symbol": "FETUSDT",
-    "tf": "1d"
-  },
   "FFUSDT_4h_short__C5B-A_RELAXED": {
     "combo": "C5B-A",
     "dir": "short",
@@ -390,14 +414,6 @@
     "sent_at": "2026-06-05T04:44:26.377559+00:00",
     "symbol": "FLOWUSDT",
     "tf": "1d"
-  },
-  "GIGGLEUSDT_4h_long__CT6_LOOSE": {
-    "combo": "CT6",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-05-30T21:13:00.816373+00:00",
-    "symbol": "GIGGLEUSDT",
-    "tf": "4h"
   },
   "HIGHUSDT_4h_short__C5B-A_LOOSE": {
     "combo": "C5B-A",
@@ -900,6 +916,14 @@
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-06-01T05:10:45.743388+00:00",
+    "symbol": "SKYUSDT",
+    "tf": "4h"
+  },
+  "SKYUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-06-07T04:53:08.885464+00:00",
     "symbol": "SKYUSDT",
     "tf": "4h"
   },

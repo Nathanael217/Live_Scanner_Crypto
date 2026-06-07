@@ -655,6 +655,22 @@
     "symbol": "MORPHOUSDT",
     "tf": "4h"
   },
+  "MOVRUSDT_4h_long__CT5_RELAXED": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-07T14:17:40.982141+00:00",
+    "symbol": "MOVRUSDT",
+    "tf": "4h"
+  },
+  "MOVRUSDT_4h_long__CT6_STRICT": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-06-07T14:17:41.684317+00:00",
+    "symbol": "MOVRUSDT",
+    "tf": "4h"
+  },
   "NEOUSDT_1d_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "short",

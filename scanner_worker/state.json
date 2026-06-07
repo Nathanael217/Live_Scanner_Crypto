@@ -191,6 +191,14 @@
     "symbol": "BIGTIMEUSDT",
     "tf": "1d"
   },
+  "BIOUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-07T10:36:06.841550+00:00",
+    "symbol": "BIOUSDT",
+    "tf": "4h"
+  },
   "BNBUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -637,6 +645,14 @@
     "level": "RELAXED",
     "sent_at": "2026-06-05T04:44:25.907420+00:00",
     "symbol": "MIRAUSDT",
+    "tf": "4h"
+  },
+  "MORPHOUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-07T10:36:07.349793+00:00",
+    "symbol": "MORPHOUSDT",
     "tf": "4h"
   },
   "NEOUSDT_1d_short__C6A-A_RELAXED": {

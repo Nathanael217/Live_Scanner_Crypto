@@ -167,14 +167,6 @@
     "symbol": "ALLOUSDT",
     "tf": "4h"
   },
-  "APEUSDT_4h_long__CT6_STRICT": {
-    "combo": "CT6",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-06-01T05:10:45.267996+00:00",
-    "symbol": "APEUSDT",
-    "tf": "4h"
-  },
   "ARBUSDT_1d_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "short",
@@ -269,6 +261,22 @@
     "level": "LOOSE",
     "sent_at": "2026-06-08T04:59:23.680684+00:00",
     "symbol": "BCHUSDT",
+    "tf": "4h"
+  },
+  "BFUSDUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-08T12:42:16.499979+00:00",
+    "symbol": "BFUSDUSDT",
+    "tf": "4h"
+  },
+  "BFUSDUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-08T12:42:15.799015+00:00",
+    "symbol": "BFUSDUSDT",
     "tf": "4h"
   },
   "BICOUSDT_4h_short__C5B-A_LOOSE": {
@@ -389,6 +397,14 @@
     "level": "STRICT",
     "sent_at": "2026-06-05T18:06:31.320791+00:00",
     "symbol": "C98USDT",
+    "tf": "4h"
+  },
+  "CAKEUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-08T12:42:14.321154+00:00",
+    "symbol": "CAKEUSDT",
     "tf": "4h"
   },
   "CHRUSDT_4h_long__C5B-N_LOOSE": {
@@ -631,6 +647,14 @@
     "symbol": "HYPERUSDT",
     "tf": "4h"
   },
+  "IMXUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-08T12:42:15.127028+00:00",
+    "symbol": "IMXUSDT",
+    "tf": "4h"
+  },
   "KATUSDT_4h_short__C5B-A_STRICT": {
     "combo": "C5B-A",
     "dir": "short",
@@ -686,14 +710,6 @@
     "sent_at": "2026-06-05T04:44:23.522644+00:00",
     "symbol": "LPTUSDT",
     "tf": "4h"
-  },
-  "LQTYUSDT_1d_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-01T05:10:46.239544+00:00",
-    "symbol": "LQTYUSDT",
-    "tf": "1d"
   },
   "MAGICUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
@@ -1134,14 +1150,6 @@
     "sent_at": "2026-06-05T04:44:24.475793+00:00",
     "symbol": "SKLUSDT",
     "tf": "1d"
-  },
-  "SKYUSDT_4h_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-06-01T05:10:45.743388+00:00",
-    "symbol": "SKYUSDT",
-    "tf": "4h"
   },
   "SKYUSDT_4h_long__C5B-N_STRICT": {
     "combo": "C5B-N",

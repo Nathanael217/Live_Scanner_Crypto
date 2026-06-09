@@ -1007,14 +1007,6 @@
     "symbol": "OPNUSDT",
     "tf": "4h"
   },
-  "OPNUSDT_4h_short__CT3_LOOSE": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-02T04:58:12.013612+00:00",
-    "symbol": "OPNUSDT",
-    "tf": "4h"
-  },
   "OPUSDT_4h_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "short",
@@ -1070,6 +1062,14 @@
     "sent_at": "2026-06-03T05:08:10.349795+00:00",
     "symbol": "PEPEUSDT",
     "tf": "1d"
+  },
+  "PNUTUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-09T11:28:51.563300+00:00",
+    "symbol": "PNUTUSDT",
+    "tf": "4h"
   },
   "POLUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",

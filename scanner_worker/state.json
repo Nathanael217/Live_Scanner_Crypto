@@ -319,28 +319,12 @@
     "symbol": "AVAXUSDT",
     "tf": "4h"
   },
-  "BANKUSDT_4h_short__CT4_STRICT": {
-    "combo": "CT4",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-06-05T15:26:31.920512+00:00",
-    "symbol": "BANKUSDT",
-    "tf": "4h"
-  },
-  "BBUSDT_4h_short__C5B-A_RELAXED": {
-    "combo": "C5B-A",
+  "BANANAS31USDT_4h_short__CT3_RELAXED": {
+    "combo": "CT3",
     "dir": "short",
     "level": "RELAXED",
-    "sent_at": "2026-06-05T15:26:32.589163+00:00",
-    "symbol": "BBUSDT",
-    "tf": "4h"
-  },
-  "BBUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-05T15:26:33.283776+00:00",
-    "symbol": "BBUSDT",
+    "sent_at": "2026-06-12T15:36:19.001306+00:00",
+    "symbol": "BANANAS31USDT",
     "tf": "4h"
   },
   "BCHUSDT_4h_short__C5B-A_LOOSE": {
@@ -623,38 +607,6 @@
     "symbol": "HBARUSDT",
     "tf": "4h"
   },
-  "HIGHUSDT_4h_short__C5B-A_LOOSE": {
-    "combo": "C5B-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-05T15:26:30.561120+00:00",
-    "symbol": "HIGHUSDT",
-    "tf": "4h"
-  },
-  "HIGHUSDT_4h_short__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-05T15:26:31.231639+00:00",
-    "symbol": "HIGHUSDT",
-    "tf": "4h"
-  },
-  "HIGHUSDT_4h_short__C6A-A_RELAXED": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-05T15:26:29.877728+00:00",
-    "symbol": "HIGHUSDT",
-    "tf": "4h"
-  },
-  "HIGHUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-05T15:26:29.191468+00:00",
-    "symbol": "HIGHUSDT",
-    "tf": "4h"
-  },
   "HOLOUSDT_1d_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -807,22 +759,6 @@
     "symbol": "MBLUSDT",
     "tf": "1d"
   },
-  "MBOXUSDT_4h_short__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-05T15:26:28.492550+00:00",
-    "symbol": "MBOXUSDT",
-    "tf": "4h"
-  },
-  "MBOXUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-05T15:26:27.804957+00:00",
-    "symbol": "MBOXUSDT",
-    "tf": "4h"
-  },
   "METISUSDT_1d_short__C6A-A_STRICT": {
     "combo": "C6A-A",
     "dir": "short",
@@ -967,6 +903,22 @@
     "symbol": "NIGHTUSDT",
     "tf": "1d"
   },
+  "NIGHTUSDT_4h_long__CT6_RELAXED": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-12T15:36:18.011357+00:00",
+    "symbol": "NIGHTUSDT",
+    "tf": "4h"
+  },
+  "NIGHTUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-12T15:36:18.510896+00:00",
+    "symbol": "NIGHTUSDT",
+    "tf": "4h"
+  },
   "NOTUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
@@ -1013,6 +965,14 @@
     "level": "RELAXED",
     "sent_at": "2026-06-07T21:23:05.833081+00:00",
     "symbol": "OPUSDT",
+    "tf": "4h"
+  },
+  "ORCAUSDT_4h_long__CT5_RELAXED": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-12T15:36:20.032307+00:00",
+    "symbol": "ORCAUSDT",
     "tf": "4h"
   },
   "ORDIUSDT_4h_long__CT5_STRICT": {
@@ -1495,6 +1455,14 @@
     "symbol": "TSTUSDT",
     "tf": "1d"
   },
+  "TSTUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-06-12T15:36:20.574155+00:00",
+    "symbol": "TSTUSDT",
+    "tf": "4h"
+  },
   "TURTLEUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -1604,6 +1572,14 @@
     "dir": "short",
     "level": "LOOSE",
     "sent_at": "2026-06-11T12:17:49.275071+00:00",
+    "symbol": "XUSDUSDT",
+    "tf": "4h"
+  },
+  "XUSDUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-12T15:36:19.527301+00:00",
     "symbol": "XUSDUSDT",
     "tf": "4h"
   },

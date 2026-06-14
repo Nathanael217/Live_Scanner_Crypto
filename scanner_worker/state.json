@@ -279,6 +279,14 @@
     "symbol": "AVAXUSDT",
     "tf": "4h"
   },
+  "BANANAS31USDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-14T10:55:11.782130+00:00",
+    "symbol": "BANANAS31USDT",
+    "tf": "4h"
+  },
   "BANANAS31USDT_4h_short__CT3_RELAXED": {
     "combo": "CT3",
     "dir": "short",
@@ -365,14 +373,6 @@
     "level": "LOOSE",
     "sent_at": "2026-06-07T21:23:14.253689+00:00",
     "symbol": "BICOUSDT",
-    "tf": "4h"
-  },
-  "BIOUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-07T10:36:06.841550+00:00",
-    "symbol": "BIOUSDT",
     "tf": "4h"
   },
   "BROCCOLI714USDT_4h_long__C5B-N_RELAXED": {
@@ -511,6 +511,22 @@
     "symbol": "HBARUSDT",
     "tf": "4h"
   },
+  "IDUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-14T10:55:13.977867+00:00",
+    "symbol": "IDUSDT",
+    "tf": "4h"
+  },
+  "IDUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-14T10:55:13.441225+00:00",
+    "symbol": "IDUSDT",
+    "tf": "4h"
+  },
   "IMXUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -559,12 +575,20 @@
     "symbol": "LAYERUSDT",
     "tf": "1d"
   },
-  "MORPHOUSDT_4h_long__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-07T10:36:07.349793+00:00",
-    "symbol": "MORPHOUSDT",
+  "MANTRAUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-14T10:55:12.910475+00:00",
+    "symbol": "MANTRAUSDT",
+    "tf": "4h"
+  },
+  "MANTRAUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-14T10:55:12.350440+00:00",
+    "symbol": "MANTRAUSDT",
     "tf": "4h"
   },
   "MOVEUSDT_4h_long__CT6_RELAXED": {

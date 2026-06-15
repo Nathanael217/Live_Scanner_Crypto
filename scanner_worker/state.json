@@ -255,22 +255,6 @@
     "symbol": "BFUSDUSDT",
     "tf": "1d"
   },
-  "BFUSDUSDT_4h_short__C6A-A_RELAXED": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-08T12:42:16.499979+00:00",
-    "symbol": "BFUSDUSDT",
-    "tf": "4h"
-  },
-  "BFUSDUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-08T12:42:15.799015+00:00",
-    "symbol": "BFUSDUSDT",
-    "tf": "4h"
-  },
   "BROCCOLI714USDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",
@@ -285,14 +269,6 @@
     "level": "STRICT",
     "sent_at": "2026-06-08T22:00:01.724761+00:00",
     "symbol": "BROCCOLI714USDT",
-    "tf": "4h"
-  },
-  "CAKEUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-08T12:42:14.321154+00:00",
-    "symbol": "CAKEUSDT",
     "tf": "4h"
   },
   "CFGUSDT_4h_long__C6A-N_LOOSE": {
@@ -407,6 +383,14 @@
     "symbol": "HBARUSDT",
     "tf": "4h"
   },
+  "HEIUSDT_4h_short__CT3_RELAXED": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-15T14:34:10.317894+00:00",
+    "symbol": "HEIUSDT",
+    "tf": "4h"
+  },
   "IDUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",
@@ -423,20 +407,20 @@
     "symbol": "IDUSDT",
     "tf": "4h"
   },
-  "IMXUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-06-08T12:42:15.127028+00:00",
-    "symbol": "IMXUSDT",
-    "tf": "4h"
-  },
   "IOTAUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-06-10T16:03:50.891085+00:00",
     "symbol": "IOTAUSDT",
+    "tf": "4h"
+  },
+  "IOTXUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-15T14:34:10.933997+00:00",
+    "symbol": "IOTXUSDT",
     "tf": "4h"
   },
   "KAIAUSDT_1d_long__C6A-N_LOOSE": {
@@ -996,6 +980,14 @@
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-06-15T05:24:08.731881+00:00",
+    "symbol": "WLDUSDT",
+    "tf": "4h"
+  },
+  "WLDUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-06-15T14:34:09.701389+00:00",
     "symbol": "WLDUSDT",
     "tf": "4h"
   },

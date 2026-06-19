@@ -7,6 +7,22 @@
     "symbol": "1000CHEEMSUSDT",
     "tf": "4h"
   },
+  "ASRUSDT_4h_short__C5B-A_STRICT": {
+    "combo": "C5B-A",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-06-19T12:17:29.191335+00:00",
+    "symbol": "ASRUSDT",
+    "tf": "4h"
+  },
+  "ASRUSDT_4h_short__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-06-19T12:17:29.879788+00:00",
+    "symbol": "ASRUSDT",
+    "tf": "4h"
+  },
   "ATUSDT_1d_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -1014,14 +1030,6 @@
     "sent_at": "2026-06-15T05:24:08.062492+00:00",
     "symbol": "XAUTUSDT",
     "tf": "1d"
-  },
-  "XPLUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-06-12T11:51:44.319611+00:00",
-    "symbol": "XPLUSDT",
-    "tf": "4h"
   },
   "XUSDUSDT_4h_short__CT3_LOOSE": {
     "combo": "CT3",

@@ -1,12 +1,4 @@
 {
-  "1000CHEEMSUSDT_4h_long__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-06-12T18:18:55.792140+00:00",
-    "symbol": "1000CHEEMSUSDT",
-    "tf": "4h"
-  },
   "ASRUSDT_4h_short__C5B-A_STRICT": {
     "combo": "C5B-A",
     "dir": "short",
@@ -30,30 +22,6 @@
     "sent_at": "2026-06-13T04:45:34.657332+00:00",
     "symbol": "ATUSDT",
     "tf": "1d"
-  },
-  "ATUSDT_4h_long__CT5_LOOSE": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-12T18:18:56.318530+00:00",
-    "symbol": "ATUSDT",
-    "tf": "4h"
-  },
-  "ATUSDT_4h_long__CT5_RELAXED": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-06-12T22:00:46.704499+00:00",
-    "symbol": "ATUSDT",
-    "tf": "4h"
-  },
-  "ATUSDT_4h_long__CT7_STRICT": {
-    "combo": "CT7",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-06-12T18:18:56.850144+00:00",
-    "symbol": "ATUSDT",
-    "tf": "4h"
   },
   "BABYUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
@@ -327,14 +295,6 @@
     "symbol": "GNOUSDT",
     "tf": "1d"
   },
-  "GNOUSDT_4h_long__CT6_LOOSE": {
-    "combo": "CT6",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-12T22:00:47.186839+00:00",
-    "symbol": "GNOUSDT",
-    "tf": "4h"
-  },
   "HEIUSDT_1d_short__C5B-A_STRICT": {
     "combo": "C5B-A",
     "dir": "short",
@@ -461,6 +421,14 @@
     "level": "LOOSE",
     "sent_at": "2026-06-14T05:03:16.440592+00:00",
     "symbol": "KAITOUSDT",
+    "tf": "4h"
+  },
+  "KITEUSDT_4h_short__CT4_STRICT": {
+    "combo": "CT4",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-06-20T04:37:49.358709+00:00",
+    "symbol": "KITEUSDT",
     "tf": "4h"
   },
   "KMNOUSDT_4h_long__C5B-N_LOOSE": {
@@ -941,22 +909,6 @@
     "level": "LOOSE",
     "sent_at": "2026-06-16T22:23:06.529609+00:00",
     "symbol": "UNIUSDT",
-    "tf": "4h"
-  },
-  "USDSUSDT_4h_short__C6A-A_STRICT": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-06-12T18:18:55.245081+00:00",
-    "symbol": "USDSUSDT",
-    "tf": "4h"
-  },
-  "USDSUSDT_4h_short__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-06-12T18:18:54.711506+00:00",
-    "symbol": "USDSUSDT",
     "tf": "4h"
   },
   "VIRTUALUSDT_4h_short__C6A-A_LOOSE": {

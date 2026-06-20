@@ -15,6 +15,22 @@
     "symbol": "ASRUSDT",
     "tf": "4h"
   },
+  "ASRUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-20T14:27:55.950131+00:00",
+    "symbol": "ASRUSDT",
+    "tf": "4h"
+  },
+  "ASRUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-20T14:27:55.419813+00:00",
+    "symbol": "ASRUSDT",
+    "tf": "4h"
+  },
   "BABYUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -263,6 +279,14 @@
     "symbol": "ETHFIUSDT",
     "tf": "4h"
   },
+  "EULUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-20T14:27:56.984851+00:00",
+    "symbol": "EULUSDT",
+    "tf": "4h"
+  },
   "EURUSDT_4h_short__CT2_STRICT": {
     "combo": "CT2",
     "dir": "short",
@@ -277,14 +301,6 @@
     "level": "RELAXED",
     "sent_at": "2026-06-17T22:10:32.729254+00:00",
     "symbol": "EURUSDT",
-    "tf": "4h"
-  },
-  "FOGOUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-13T14:22:13.333192+00:00",
-    "symbol": "FOGOUSDT",
     "tf": "4h"
   },
   "HEIUSDT_1d_short__C5B-A_STRICT": {
@@ -599,14 +615,6 @@
     "symbol": "NVDABUSDT",
     "tf": "4h"
   },
-  "OPENUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-13T14:22:12.585835+00:00",
-    "symbol": "OPENUSDT",
-    "tf": "4h"
-  },
   "OPGUSDT_1d_short__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "short",
@@ -661,6 +669,14 @@
     "level": "LOOSE",
     "sent_at": "2026-06-17T22:10:33.696196+00:00",
     "symbol": "PEPEUSDT",
+    "tf": "4h"
+  },
+  "PIXELUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-20T14:27:56.459353+00:00",
+    "symbol": "PIXELUSDT",
     "tf": "4h"
   },
   "POLYXUSDT_4h_long__C6A-N_LOOSE": {

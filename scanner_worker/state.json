@@ -127,6 +127,14 @@
     "symbol": "DOGSUSDT",
     "tf": "4h"
   },
+  "DOLOUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-20T21:38:24.874168+00:00",
+    "symbol": "DOLOUSDT",
+    "tf": "4h"
+  },
   "DYMUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -741,14 +749,6 @@
     "level": "RELAXED",
     "sent_at": "2026-06-17T22:10:36.098484+00:00",
     "symbol": "PYTHUSDT",
-    "tf": "4h"
-  },
-  "RIFUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-13T17:42:33.039213+00:00",
-    "symbol": "RIFUSDT",
     "tf": "4h"
   },
   "ROSEUSDT_4h_long__CT5_LOOSE": {

@@ -311,6 +311,22 @@
     "symbol": "EULUSDT",
     "tf": "4h"
   },
+  "EURUSDT_4h_short__C5B-A_STRICT": {
+    "combo": "C5B-A",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-06-23T15:21:55.023168+00:00",
+    "symbol": "EURUSDT",
+    "tf": "4h"
+  },
+  "EURUSDT_4h_short__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-06-23T15:21:55.531616+00:00",
+    "symbol": "EURUSDT",
+    "tf": "4h"
+  },
   "EURUSDT_4h_short__CT2_STRICT": {
     "combo": "CT2",
     "dir": "short",
@@ -551,14 +567,6 @@
     "symbol": "PIXELUSDT",
     "tf": "4h"
   },
-  "POLYXUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-16T13:03:30.053976+00:00",
-    "symbol": "POLYXUSDT",
-    "tf": "4h"
-  },
   "PROVEUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",
@@ -631,22 +639,6 @@
     "symbol": "ROSEUSDT",
     "tf": "4h"
   },
-  "SENTUSDT_4h_long__CT5_LOOSE": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-16T13:03:28.764371+00:00",
-    "symbol": "SENTUSDT",
-    "tf": "4h"
-  },
-  "SENTUSDT_4h_long__CT6_RELAXED": {
-    "combo": "CT6",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-06-16T13:03:29.329104+00:00",
-    "symbol": "SENTUSDT",
-    "tf": "4h"
-  },
   "SNDKBUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -677,6 +669,22 @@
     "level": "LOOSE",
     "sent_at": "2026-06-23T11:27:21.129009+00:00",
     "symbol": "SUIUSDT",
+    "tf": "4h"
+  },
+  "SUNUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-23T15:21:56.540452+00:00",
+    "symbol": "SUNUSDT",
+    "tf": "4h"
+  },
+  "SUNUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-23T15:21:56.030092+00:00",
+    "symbol": "SUNUSDT",
     "tf": "4h"
   },
   "SUSDT_1d_short__C6A-A_RELAXED": {

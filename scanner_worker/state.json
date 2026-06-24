@@ -87,14 +87,6 @@
     "symbol": "BELUSDT",
     "tf": "4h"
   },
-  "BFUSDUSDT_1d_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-17T05:07:46.008671+00:00",
-    "symbol": "BFUSDUSDT",
-    "tf": "1d"
-  },
   "BREVUSDT_4h_long__CT6_STRICT": {
     "combo": "CT6",
     "dir": "long",
@@ -391,12 +383,20 @@
     "symbol": "HOMEUSDT",
     "tf": "4h"
   },
-  "KAITOUSDT_4h_long__C6A-N_LOOSE": {
+  "INJUSDT_4h_short__C6A-A_STRICT": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-06-24T14:51:35.337040+00:00",
+    "symbol": "INJUSDT",
+    "tf": "4h"
+  },
+  "INJUSDT_4h_short__C6A-N_STRICT": {
     "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-17T05:07:46.666050+00:00",
-    "symbol": "KAITOUSDT",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-06-24T14:51:34.714976+00:00",
+    "symbol": "INJUSDT",
     "tf": "4h"
   },
   "KAVAUSDT_4h_long__C5B-N_LOOSE": {
@@ -695,6 +695,14 @@
     "symbol": "ROSEUSDT",
     "tf": "4h"
   },
+  "SANTOSUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-06-24T14:51:36.748392+00:00",
+    "symbol": "SANTOSUSDT",
+    "tf": "4h"
+  },
   "SKYUSDT_4h_short__CT2_STRICT": {
     "combo": "CT2",
     "dir": "short",
@@ -831,6 +839,14 @@
     "symbol": "SYRUPUSDT",
     "tf": "4h"
   },
+  "TNSRUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-24T14:51:36.082634+00:00",
+    "symbol": "TNSRUSDT",
+    "tf": "4h"
+  },
   "TRXUSDT_4h_long__C5B-N_STRICT": {
     "combo": "C5B-N",
     "dir": "long",
@@ -853,14 +869,6 @@
     "level": "LOOSE",
     "sent_at": "2026-06-19T18:05:59.632506+00:00",
     "symbol": "TUTUSDT",
-    "tf": "4h"
-  },
-  "UNIUSDT_4h_long__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-17T05:07:45.396388+00:00",
-    "symbol": "UNIUSDT",
     "tf": "4h"
   },
   "USD1USDT_4h_short__C6A-A_LOOSE": {

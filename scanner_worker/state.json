@@ -1,4 +1,20 @@
 {
+  "0GUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-25T18:23:45.226622+00:00",
+    "symbol": "0GUSDT",
+    "tf": "4h"
+  },
+  "0GUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-25T18:23:44.745982+00:00",
+    "symbol": "0GUSDT",
+    "tf": "4h"
+  },
   "ADAUSDT_4h_short__C5B-A_RELAXED": {
     "combo": "C5B-A",
     "dir": "short",
@@ -407,11 +423,27 @@
     "symbol": "KAVAUSDT",
     "tf": "4h"
   },
+  "KITEUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-25T18:23:46.195815+00:00",
+    "symbol": "KITEUSDT",
+    "tf": "4h"
+  },
   "KITEUSDT_4h_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "short",
     "level": "RELAXED",
     "sent_at": "2026-06-25T14:51:44.430628+00:00",
+    "symbol": "KITEUSDT",
+    "tf": "4h"
+  },
+  "KITEUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-25T18:23:45.713902+00:00",
     "symbol": "KITEUSDT",
     "tf": "4h"
   },
@@ -775,6 +807,22 @@
     "symbol": "SNXUSDT",
     "tf": "4h"
   },
+  "SPCXBUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-25T18:23:44.270709+00:00",
+    "symbol": "SPCXBUSDT",
+    "tf": "4h"
+  },
+  "SPCXBUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-25T18:23:43.791217+00:00",
+    "symbol": "SPCXBUSDT",
+    "tf": "4h"
+  },
   "STOUSDT_4h_short__CT3_RELAXED": {
     "combo": "CT3",
     "dir": "short",
@@ -925,6 +973,22 @@
     "level": "LOOSE",
     "sent_at": "2026-06-24T18:05:15.046992+00:00",
     "symbol": "XLMUSDT",
+    "tf": "4h"
+  },
+  "ZKPUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-25T18:23:47.171736+00:00",
+    "symbol": "ZKPUSDT",
+    "tf": "4h"
+  },
+  "ZKPUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-25T18:23:46.667422+00:00",
+    "symbol": "ZKPUSDT",
     "tf": "4h"
   }
 }

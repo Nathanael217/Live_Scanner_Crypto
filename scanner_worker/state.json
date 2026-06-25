@@ -407,6 +407,22 @@
     "symbol": "KAVAUSDT",
     "tf": "4h"
   },
+  "KITEUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-25T14:51:44.430628+00:00",
+    "symbol": "KITEUSDT",
+    "tf": "4h"
+  },
+  "KITEUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-25T14:51:43.843150+00:00",
+    "symbol": "KITEUSDT",
+    "tf": "4h"
+  },
   "KITEUSDT_4h_short__CT4_STRICT": {
     "combo": "CT4",
     "dir": "short",
@@ -647,6 +663,14 @@
     "symbol": "PUMPUSDT",
     "tf": "4h"
   },
+  "PUNDIXUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-25T14:51:45.028429+00:00",
+    "symbol": "PUNDIXUSDT",
+    "tf": "4h"
+  },
   "RAREUSDT_4h_short__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "short",
@@ -741,6 +765,14 @@
     "level": "STRICT",
     "sent_at": "2026-06-23T18:09:28.890036+00:00",
     "symbol": "SNDKBUSDT",
+    "tf": "4h"
+  },
+  "SNXUSDT_4h_short__CT3_RELAXED": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-25T14:51:45.623541+00:00",
+    "symbol": "SNXUSDT",
     "tf": "4h"
   },
   "STOUSDT_4h_short__CT3_RELAXED": {

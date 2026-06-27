@@ -111,22 +111,6 @@
     "symbol": "ALTUSDT",
     "tf": "4h"
   },
-  "ASRUSDT_4h_short__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-20T14:27:55.950131+00:00",
-    "symbol": "ASRUSDT",
-    "tf": "4h"
-  },
-  "ASRUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-20T14:27:55.419813+00:00",
-    "symbol": "ASRUSDT",
-    "tf": "4h"
-  },
   "BELUSDT_4h_long__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "long",
@@ -221,22 +205,6 @@
     "level": "STRICT",
     "sent_at": "2026-06-22T05:25:51.844364+00:00",
     "symbol": "EIGENUSDT",
-    "tf": "4h"
-  },
-  "EPICUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-06-20T10:40:09.241674+00:00",
-    "symbol": "EPICUSDT",
-    "tf": "4h"
-  },
-  "EULUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-06-20T14:27:56.984851+00:00",
-    "symbol": "EULUSDT",
     "tf": "4h"
   },
   "EURUSDT_1d_short__C6A-A_LOOSE": {
@@ -431,22 +399,6 @@
     "symbol": "MITOUSDT",
     "tf": "4h"
   },
-  "NMRUSDT_4h_short__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-20T10:40:10.199813+00:00",
-    "symbol": "NMRUSDT",
-    "tf": "4h"
-  },
-  "NMRUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-20T10:40:09.714131+00:00",
-    "symbol": "NMRUSDT",
-    "tf": "4h"
-  },
   "NVDABUSDT_4h_short__CT4_STRICT": {
     "combo": "CT4",
     "dir": "short",
@@ -543,12 +495,12 @@
     "symbol": "PHAUSDT",
     "tf": "4h"
   },
-  "PIXELUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
+  "PIVXUSDT_4h_short__CT2_RELAXED": {
+    "combo": "CT2",
+    "dir": "short",
     "level": "RELAXED",
-    "sent_at": "2026-06-20T14:27:56.459353+00:00",
-    "symbol": "PIXELUSDT",
+    "sent_at": "2026-06-27T17:20:54.092703+00:00",
+    "symbol": "PIVXUSDT",
     "tf": "4h"
   },
   "PUMPUSDT_4h_short__CT3_LOOSE": {

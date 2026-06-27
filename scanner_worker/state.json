@@ -143,6 +143,22 @@
     "symbol": "BREVUSDT",
     "tf": "4h"
   },
+  "COMPUSDT_4h_short__C5B-A_STRICT": {
+    "combo": "C5B-A",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-06-27T21:17:33.033728+00:00",
+    "symbol": "COMPUSDT",
+    "tf": "4h"
+  },
+  "COMPUSDT_4h_short__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-06-27T21:17:33.518857+00:00",
+    "symbol": "COMPUSDT",
+    "tf": "4h"
+  },
   "CRCLBUSDT_4h_long__CT7_RELAXED": {
     "combo": "CT7",
     "dir": "long",

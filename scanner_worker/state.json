@@ -383,14 +383,6 @@
     "symbol": "KITEUSDT",
     "tf": "4h"
   },
-  "KITEUSDT_4h_short__CT4_STRICT": {
-    "combo": "CT4",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-06-20T04:37:49.358709+00:00",
-    "symbol": "KITEUSDT",
-    "tf": "4h"
-  },
   "LUMIAUSDT_1d_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -805,6 +797,14 @@
     "level": "LOOSE",
     "sent_at": "2026-06-22T19:40:31.450529+00:00",
     "symbol": "SUSDT",
+    "tf": "4h"
+  },
+  "SYRUPUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-27T10:20:34.810291+00:00",
+    "symbol": "SYRUPUSDT",
     "tf": "4h"
   },
   "TNSRUSDT_4h_long__C6A-N_RELAXED": {

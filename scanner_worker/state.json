@@ -191,6 +191,22 @@
     "symbol": "COMPUSDT",
     "tf": "4h"
   },
+  "COOKIEUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-28T21:15:59.450454+00:00",
+    "symbol": "COOKIEUSDT",
+    "tf": "4h"
+  },
+  "COOKIEUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-06-28T21:15:58.725421+00:00",
+    "symbol": "COOKIEUSDT",
+    "tf": "4h"
+  },
   "CRCLBUSDT_4h_long__CT7_RELAXED": {
     "combo": "CT7",
     "dir": "long",

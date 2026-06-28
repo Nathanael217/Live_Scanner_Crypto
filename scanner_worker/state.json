@@ -15,6 +15,30 @@
     "symbol": "0GUSDT",
     "tf": "4h"
   },
+  "ACTUSDT_4h_long__CT5_STRICT": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-06-28T14:10:47.734180+00:00",
+    "symbol": "ACTUSDT",
+    "tf": "4h"
+  },
+  "ACTUSDT_4h_long__CT6_RELAXED": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-28T14:10:48.319200+00:00",
+    "symbol": "ACTUSDT",
+    "tf": "4h"
+  },
+  "ACTUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-06-28T14:10:48.954782+00:00",
+    "symbol": "ACTUSDT",
+    "tf": "4h"
+  },
   "ADAUSDT_4h_short__C5B-A_RELAXED": {
     "combo": "C5B-A",
     "dir": "short",
@@ -383,6 +407,14 @@
     "symbol": "MANTAUSDT",
     "tf": "1d"
   },
+  "MANTAUSDT_4h_long__CT6_STRICT": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-06-28T14:10:49.534599+00:00",
+    "symbol": "MANTAUSDT",
+    "tf": "4h"
+  },
   "MANTRAUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -687,14 +719,6 @@
     "symbol": "SPCXBUSDT",
     "tf": "4h"
   },
-  "STOUSDT_4h_short__CT3_RELAXED": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-21T05:14:25.055501+00:00",
-    "symbol": "STOUSDT",
-    "tf": "4h"
-  },
   "STXUSDT_4h_short__CT1_STRICT": {
     "combo": "CT1",
     "dir": "short",
@@ -742,22 +766,6 @@
     "sent_at": "2026-06-23T15:21:56.030092+00:00",
     "symbol": "SUNUSDT",
     "tf": "4h"
-  },
-  "SUSDT_1d_short__C6A-A_RELAXED": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-21T05:14:24.495016+00:00",
-    "symbol": "SUSDT",
-    "tf": "1d"
-  },
-  "SUSDT_1d_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-21T05:14:23.925039+00:00",
-    "symbol": "SUSDT",
-    "tf": "1d"
   },
   "SUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",

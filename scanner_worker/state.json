@@ -343,6 +343,22 @@
     "symbol": "GUSDT",
     "tf": "4h"
   },
+  "HOTUSDT_1d_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-29T04:56:42.766109+00:00",
+    "symbol": "HOTUSDT",
+    "tf": "1d"
+  },
+  "HOTUSDT_1d_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-06-29T04:56:42.115630+00:00",
+    "symbol": "HOTUSDT",
+    "tf": "1d"
+  },
   "INJUSDT_4h_long__C5B-N_STRICT": {
     "combo": "C5B-N",
     "dir": "long",

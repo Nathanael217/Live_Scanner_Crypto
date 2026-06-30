@@ -231,6 +231,14 @@
     "symbol": "DOGEUSDT",
     "tf": "4h"
   },
+  "ESPUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-30T11:18:48.271568+00:00",
+    "symbol": "ESPUSDT",
+    "tf": "4h"
+  },
   "ETHUSDT_4h_long__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "long",
@@ -669,6 +677,14 @@
     "level": "STRICT",
     "sent_at": "2026-06-24T14:51:36.748392+00:00",
     "symbol": "SANTOSUSDT",
+    "tf": "4h"
+  },
+  "SKLUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-06-30T11:18:47.790541+00:00",
+    "symbol": "SKLUSDT",
     "tf": "4h"
   },
   "SKYUSDT_4h_long__C6A-N_LOOSE": {

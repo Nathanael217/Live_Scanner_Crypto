@@ -399,6 +399,22 @@
     "symbol": "INJUSDT",
     "tf": "4h"
   },
+  "IOTAUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-01T11:33:00.959679+00:00",
+    "symbol": "IOTAUSDT",
+    "tf": "4h"
+  },
+  "IOTAUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-07-01T11:33:00.473772+00:00",
+    "symbol": "IOTAUSDT",
+    "tf": "4h"
+  },
   "KITEUSDT_1d_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",

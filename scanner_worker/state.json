@@ -295,6 +295,14 @@
     "symbol": "ENAUSDT",
     "tf": "4h"
   },
+  "ERAUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-02T10:50:59.151464+00:00",
+    "symbol": "ERAUSDT",
+    "tf": "4h"
+  },
   "ESPUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -503,14 +511,6 @@
     "symbol": "LINKUSDT",
     "tf": "4h"
   },
-  "MANTAUSDT_1d_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-06-25T04:20:49.039857+00:00",
-    "symbol": "MANTAUSDT",
-    "tf": "1d"
-  },
   "MANTAUSDT_1d_short__C5B-A_STRICT": {
     "combo": "C5B-A",
     "dir": "short",
@@ -670,6 +670,14 @@
     "sent_at": "2026-07-02T04:18:09.560188+00:00",
     "symbol": "RIFUSDT",
     "tf": "1d"
+  },
+  "SANDUSDT_4h_short__CT3_RELAXED": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-02T10:50:58.463561+00:00",
+    "symbol": "SANDUSDT",
+    "tf": "4h"
   },
   "SKLUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",

@@ -679,14 +679,6 @@
     "symbol": "PHAUSDT",
     "tf": "4h"
   },
-  "PIVXUSDT_4h_short__CT2_RELAXED": {
-    "combo": "CT2",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-27T17:20:54.092703+00:00",
-    "symbol": "PIVXUSDT",
-    "tf": "4h"
-  },
   "POLYXUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -783,6 +775,22 @@
     "symbol": "SKYUSDT",
     "tf": "4h"
   },
+  "SKYUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-04T21:12:14.793313+00:00",
+    "symbol": "SKYUSDT",
+    "tf": "4h"
+  },
+  "SKYUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-04T21:12:14.144169+00:00",
+    "symbol": "SKYUSDT",
+    "tf": "4h"
+  },
   "SNXUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -869,6 +877,22 @@
     "level": "RELAXED",
     "sent_at": "2026-07-03T17:43:33.603880+00:00",
     "symbol": "TRBUSDT",
+    "tf": "4h"
+  },
+  "VETUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-04T21:12:16.121798+00:00",
+    "symbol": "VETUSDT",
+    "tf": "4h"
+  },
+  "VETUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-04T21:12:15.444727+00:00",
+    "symbol": "VETUSDT",
     "tf": "4h"
   },
   "VICUSDT_4h_short__C5B-A_RELAXED": {

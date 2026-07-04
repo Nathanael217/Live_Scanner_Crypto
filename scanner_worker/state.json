@@ -47,6 +47,14 @@
     "symbol": "AIXBTUSDT",
     "tf": "4h"
   },
+  "ALICEUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-04T10:22:51.045112+00:00",
+    "symbol": "ALICEUSDT",
+    "tf": "4h"
+  },
   "ALLOUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -141,6 +149,14 @@
     "level": "LOOSE",
     "sent_at": "2026-06-30T18:09:04.756019+00:00",
     "symbol": "BTCUSDT",
+    "tf": "4h"
+  },
+  "CELOUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-07-04T10:22:51.703821+00:00",
+    "symbol": "CELOUSDT",
     "tf": "4h"
   },
   "CELOUSDT_4h_short__C5B-A_LOOSE": {
@@ -503,6 +519,22 @@
     "symbol": "MEMEUSDT",
     "tf": "4h"
   },
+  "MEMEUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-04T10:22:53.048043+00:00",
+    "symbol": "MEMEUSDT",
+    "tf": "4h"
+  },
+  "MEMEUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-04T10:22:52.370520+00:00",
+    "symbol": "MEMEUSDT",
+    "tf": "4h"
+  },
   "MINAUSDT_1d_long__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "long",
@@ -733,14 +765,6 @@
     "level": "STRICT",
     "sent_at": "2026-07-02T04:18:10.513688+00:00",
     "symbol": "SUNUSDT",
-    "tf": "4h"
-  },
-  "SYRUPUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-06-27T10:20:34.810291+00:00",
-    "symbol": "SYRUPUSDT",
     "tf": "4h"
   },
   "TAOUSDT_4h_long__C5B-N_RELAXED": {

@@ -199,22 +199,6 @@
     "symbol": "COMPUSDT",
     "tf": "4h"
   },
-  "COMPUSDT_4h_short__C5B-A_STRICT": {
-    "combo": "C5B-A",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-06-27T21:17:33.033728+00:00",
-    "symbol": "COMPUSDT",
-    "tf": "4h"
-  },
-  "COMPUSDT_4h_short__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-06-27T21:17:33.518857+00:00",
-    "symbol": "COMPUSDT",
-    "tf": "4h"
-  },
   "COOKIEUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -799,6 +783,22 @@
     "symbol": "SNXUSDT",
     "tf": "4h"
   },
+  "SUIUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-05T04:17:04.654219+00:00",
+    "symbol": "SUIUSDT",
+    "tf": "4h"
+  },
+  "SUIUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-05T04:17:04.096395+00:00",
+    "symbol": "SUIUSDT",
+    "tf": "4h"
+  },
   "SUNUSDT_4h_long__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "long",
@@ -965,6 +965,38 @@
     "level": "STRICT",
     "sent_at": "2026-07-01T18:09:20.401220+00:00",
     "symbol": "ZBTUSDT",
+    "tf": "4h"
+  },
+  "ZECUSDT_4h_short__C5B-A_RELAXED": {
+    "combo": "C5B-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-05T04:17:03.021463+00:00",
+    "symbol": "ZECUSDT",
+    "tf": "4h"
+  },
+  "ZECUSDT_4h_short__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-05T04:17:03.555064+00:00",
+    "symbol": "ZECUSDT",
+    "tf": "4h"
+  },
+  "ZECUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-05T04:17:02.523760+00:00",
+    "symbol": "ZECUSDT",
+    "tf": "4h"
+  },
+  "ZECUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-05T04:17:01.966277+00:00",
+    "symbol": "ZECUSDT",
     "tf": "4h"
   },
   "ZENUSDT_4h_long__C6A-N_RELAXED": {

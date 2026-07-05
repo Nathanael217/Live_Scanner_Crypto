@@ -119,6 +119,14 @@
     "symbol": "BONKUSDT",
     "tf": "4h"
   },
+  "BROCCOLI714USDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-05T21:16:35.028871+00:00",
+    "symbol": "BROCCOLI714USDT",
+    "tf": "4h"
+  },
   "BTCUSDT_4h_short__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "short",
@@ -181,22 +189,6 @@
     "level": "LOOSE",
     "sent_at": "2026-07-02T04:18:11.484848+00:00",
     "symbol": "COMPUSDT",
-    "tf": "4h"
-  },
-  "COOKIEUSDT_4h_short__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-28T21:15:59.450454+00:00",
-    "symbol": "COOKIEUSDT",
-    "tf": "4h"
-  },
-  "COOKIEUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-28T21:15:58.725421+00:00",
-    "symbol": "COOKIEUSDT",
     "tf": "4h"
   },
   "CRCLBUSDT_4h_short__CT4_STRICT": {
@@ -367,12 +359,28 @@
     "symbol": "ETHUSDT",
     "tf": "4h"
   },
+  "EURUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-05T21:16:33.117589+00:00",
+    "symbol": "EURUSDT",
+    "tf": "4h"
+  },
   "FLOKIUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-07-02T14:26:31.125328+00:00",
     "symbol": "FLOKIUSDT",
+    "tf": "4h"
+  },
+  "GIGGLEUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-05T21:16:32.594941+00:00",
+    "symbol": "GIGGLEUSDT",
     "tf": "4h"
   },
   "HFTUSDT_4h_long__CT6_STRICT": {
@@ -428,6 +436,30 @@
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-07-01T18:09:22.331101+00:00",
+    "symbol": "KAITOUSDT",
+    "tf": "4h"
+  },
+  "KAITOUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-05T21:16:33.588359+00:00",
+    "symbol": "KAITOUSDT",
+    "tf": "4h"
+  },
+  "KAITOUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-05T21:16:34.072078+00:00",
+    "symbol": "KAITOUSDT",
+    "tf": "4h"
+  },
+  "KAITOUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-05T21:16:34.559336+00:00",
     "symbol": "KAITOUSDT",
     "tf": "4h"
   },

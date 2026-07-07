@@ -119,38 +119,6 @@
     "symbol": "BROCCOLI714USDT",
     "tf": "4h"
   },
-  "BTCUSDT_4h_short__C5B-A_LOOSE": {
-    "combo": "C5B-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-30T18:09:05.799994+00:00",
-    "symbol": "BTCUSDT",
-    "tf": "4h"
-  },
-  "BTCUSDT_4h_short__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-30T18:09:06.283021+00:00",
-    "symbol": "BTCUSDT",
-    "tf": "4h"
-  },
-  "BTCUSDT_4h_short__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-30T18:09:05.325779+00:00",
-    "symbol": "BTCUSDT",
-    "tf": "4h"
-  },
-  "BTCUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-06-30T18:09:04.756019+00:00",
-    "symbol": "BTCUSDT",
-    "tf": "4h"
-  },
   "CELOUSDT_4h_long__C5B-N_STRICT": {
     "combo": "C5B-N",
     "dir": "long",
@@ -213,14 +181,6 @@
     "level": "STRICT",
     "sent_at": "2026-07-06T12:13:37.067884+00:00",
     "symbol": "COOKIEUSDT",
-    "tf": "4h"
-  },
-  "CRCLBUSDT_4h_short__CT4_STRICT": {
-    "combo": "CT4",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-06-30T18:09:06.753910+00:00",
-    "symbol": "CRCLBUSDT",
     "tf": "4h"
   },
   "DEXEUSDT_1d_long__C6A-N_LOOSE": {
@@ -743,6 +703,38 @@
     "symbol": "RIFUSDT",
     "tf": "1d"
   },
+  "RIFUSDT_4h_short__C5B-A_LOOSE": {
+    "combo": "C5B-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-07T18:12:46.120138+00:00",
+    "symbol": "RIFUSDT",
+    "tf": "4h"
+  },
+  "RIFUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-07T18:12:46.767828+00:00",
+    "symbol": "RIFUSDT",
+    "tf": "4h"
+  },
+  "RIFUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-07T18:12:45.473328+00:00",
+    "symbol": "RIFUSDT",
+    "tf": "4h"
+  },
+  "RIFUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-07T18:12:44.819942+00:00",
+    "symbol": "RIFUSDT",
+    "tf": "4h"
+  },
   "ROSEUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
@@ -927,6 +919,14 @@
     "symbol": "SUNUSDT",
     "tf": "4h"
   },
+  "SUNUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-07T18:12:47.487337+00:00",
+    "symbol": "SUNUSDT",
+    "tf": "4h"
+  },
   "SUNUSDT_4h_long__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "long",
@@ -1085,38 +1085,6 @@
     "level": "LOOSE",
     "sent_at": "2026-07-04T21:12:15.444727+00:00",
     "symbol": "VETUSDT",
-    "tf": "4h"
-  },
-  "VICUSDT_4h_short__C5B-A_RELAXED": {
-    "combo": "C5B-A",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-30T18:09:08.201277+00:00",
-    "symbol": "VICUSDT",
-    "tf": "4h"
-  },
-  "VICUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-30T18:09:08.671060+00:00",
-    "symbol": "VICUSDT",
-    "tf": "4h"
-  },
-  "VICUSDT_4h_short__C6A-A_RELAXED": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-30T18:09:07.722246+00:00",
-    "symbol": "VICUSDT",
-    "tf": "4h"
-  },
-  "VICUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-06-30T18:09:07.220215+00:00",
-    "symbol": "VICUSDT",
     "tf": "4h"
   },
   "XAUTUSDT_4h_long__C6A-N_RELAXED": {

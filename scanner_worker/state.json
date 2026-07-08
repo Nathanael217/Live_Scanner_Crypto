@@ -679,14 +679,6 @@
     "symbol": "MUBUSDT",
     "tf": "4h"
   },
-  "NFPUSDT_4h_long__CT6_RELAXED": {
-    "combo": "CT6",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-01T14:55:16.609227+00:00",
-    "symbol": "NFPUSDT",
-    "tf": "4h"
-  },
   "NOTUSDT_4h_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "short",
@@ -719,22 +711,6 @@
     "symbol": "NVDABUSDT",
     "tf": "1d"
   },
-  "OPENUSDT_4h_short__C6A-A_RELAXED": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-01T14:55:18.175662+00:00",
-    "symbol": "OPENUSDT",
-    "tf": "4h"
-  },
-  "OPENUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-01T14:55:17.666882+00:00",
-    "symbol": "OPENUSDT",
-    "tf": "4h"
-  },
   "ORCAUSDT_4h_long__CT6_RELAXED": {
     "combo": "CT6",
     "dir": "long",
@@ -759,12 +735,12 @@
     "symbol": "PENGUUSDT",
     "tf": "1d"
   },
-  "PHAUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
+  "PEOPLEUSDT_4h_long__CT7_STRICT": {
+    "combo": "CT7",
     "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-01T14:55:17.110591+00:00",
-    "symbol": "PHAUSDT",
+    "level": "STRICT",
+    "sent_at": "2026-07-08T17:49:54.685950+00:00",
+    "symbol": "PEOPLEUSDT",
     "tf": "4h"
   },
   "PLUMEUSDT_4h_long__CT6_STRICT": {

@@ -471,22 +471,6 @@
     "symbol": "KAITOUSDT",
     "tf": "4h"
   },
-  "KITEUSDT_1d_short__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-01T04:50:18.871270+00:00",
-    "symbol": "KITEUSDT",
-    "tf": "1d"
-  },
-  "KITEUSDT_1d_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-01T04:50:18.356529+00:00",
-    "symbol": "KITEUSDT",
-    "tf": "1d"
-  },
   "KMNOUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
@@ -1093,6 +1077,14 @@
     "level": "RELAXED",
     "sent_at": "2026-07-05T14:03:12.134123+00:00",
     "symbol": "UNIUSDT",
+    "tf": "4h"
+  },
+  "USDEUSDT_4h_short__CT4_STRICT": {
+    "combo": "CT4",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-07-08T06:37:06.760548+00:00",
+    "symbol": "USDEUSDT",
     "tf": "4h"
   },
   "VANAUSDT_4h_short__C5B-A_LOOSE": {

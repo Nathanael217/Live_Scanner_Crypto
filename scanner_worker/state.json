@@ -343,6 +343,14 @@
     "symbol": "GIGGLEUSDT",
     "tf": "4h"
   },
+  "GUNUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-10T11:16:27.406313+00:00",
+    "symbol": "GUNUSDT",
+    "tf": "4h"
+  },
   "HUMAUSDT_4h_long__CT6_LOOSE": {
     "combo": "CT6",
     "dir": "long",
@@ -559,6 +567,14 @@
     "symbol": "PLUMEUSDT",
     "tf": "4h"
   },
+  "RAREUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-10T11:16:27.969239+00:00",
+    "symbol": "RAREUSDT",
+    "tf": "4h"
+  },
   "RIFUSDT_4h_short__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "short",
@@ -645,14 +661,6 @@
     "level": "LOOSE",
     "sent_at": "2026-07-09T15:31:44.666331+00:00",
     "symbol": "RSRUSDT",
-    "tf": "4h"
-  },
-  "RUNEUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-03T10:48:29.321352+00:00",
-    "symbol": "RUNEUSDT",
     "tf": "4h"
   },
   "SENTUSDT_4h_long__C6A-N_LOOSE": {

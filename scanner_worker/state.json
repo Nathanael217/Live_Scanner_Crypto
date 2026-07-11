@@ -15,6 +15,14 @@
     "symbol": "2ZUSDT",
     "tf": "4h"
   },
+  "AAVEUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-07-11T17:11:04.007014+00:00",
+    "symbol": "AAVEUSDT",
+    "tf": "4h"
+  },
   "AIGENSYNUSDT_4h_short__CT1_RELAXED": {
     "combo": "CT1",
     "dir": "short",
@@ -69,6 +77,22 @@
     "level": "STRICT",
     "sent_at": "2026-07-11T13:48:26.549607+00:00",
     "symbol": "ANKRUSDT",
+    "tf": "4h"
+  },
+  "ARBUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-07-11T17:11:05.115612+00:00",
+    "symbol": "ARBUSDT",
+    "tf": "4h"
+  },
+  "ARBUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-11T17:11:04.627291+00:00",
+    "symbol": "ARBUSDT",
     "tf": "4h"
   },
   "ARPAUSDT_4h_short__C5B-A_RELAXED": {

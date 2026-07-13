@@ -367,6 +367,14 @@
     "symbol": "KMNOUSDT",
     "tf": "4h"
   },
+  "LDOUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-13T11:26:32.865190+00:00",
+    "symbol": "LDOUSDT",
+    "tf": "4h"
+  },
   "MEUSDT_4h_short__C6A-A_STRICT": {
     "combo": "C6A-A",
     "dir": "short",
@@ -646,6 +654,22 @@
     "sent_at": "2026-07-07T04:13:40.534776+00:00",
     "symbol": "SNDKBUSDT",
     "tf": "1d"
+  },
+  "SNDKBUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-13T11:26:32.286496+00:00",
+    "symbol": "SNDKBUSDT",
+    "tf": "4h"
+  },
+  "SNDKBUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-13T11:26:31.686096+00:00",
+    "symbol": "SNDKBUSDT",
+    "tf": "4h"
   },
   "SOXLBUSDT_4h_short__CT4_LOOSE": {
     "combo": "CT4",

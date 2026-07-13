@@ -175,6 +175,22 @@
     "symbol": "BROCCOLI714USDT",
     "tf": "4h"
   },
+  "CELOUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-13T18:04:12.500357+00:00",
+    "symbol": "CELOUSDT",
+    "tf": "4h"
+  },
+  "CELOUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-13T18:04:11.845017+00:00",
+    "symbol": "CELOUSDT",
+    "tf": "4h"
+  },
   "CHIPUSDT_4h_long__CT5_RELAXED": {
     "combo": "CT5",
     "dir": "long",
@@ -399,6 +415,22 @@
     "symbol": "NIGHTUSDT",
     "tf": "4h"
   },
+  "NIGHTUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-13T18:04:13.863221+00:00",
+    "symbol": "NIGHTUSDT",
+    "tf": "4h"
+  },
+  "NIGHTUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-13T18:04:13.207928+00:00",
+    "symbol": "NIGHTUSDT",
+    "tf": "4h"
+  },
   "NVDABUSDT_1d_long__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "long",
@@ -461,6 +493,22 @@
     "level": "LOOSE",
     "sent_at": "2026-07-13T14:55:51.189669+00:00",
     "symbol": "POLUSDT",
+    "tf": "4h"
+  },
+  "PYTHUSDT_4h_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-13T18:04:11.179401+00:00",
+    "symbol": "PYTHUSDT",
+    "tf": "4h"
+  },
+  "PYTHUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-13T18:04:10.508541+00:00",
+    "symbol": "PYTHUSDT",
     "tf": "4h"
   },
   "RAREUSDT_4h_long__C6A-N_RELAXED": {

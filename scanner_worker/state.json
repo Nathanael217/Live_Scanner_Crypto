@@ -71,6 +71,14 @@
     "symbol": "ALLOUSDT",
     "tf": "4h"
   },
+  "ALLOUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-13T21:10:23.869714+00:00",
+    "symbol": "ALLOUSDT",
+    "tf": "4h"
+  },
   "ANKRUSDT_4h_long__CT6_STRICT": {
     "combo": "CT6",
     "dir": "long",
@@ -351,6 +359,22 @@
     "symbol": "LDOUSDT",
     "tf": "4h"
   },
+  "MANTRAUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-13T21:10:26.360303+00:00",
+    "symbol": "MANTRAUSDT",
+    "tf": "4h"
+  },
+  "MANTRAUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-13T21:10:25.737328+00:00",
+    "symbol": "MANTRAUSDT",
+    "tf": "4h"
+  },
   "MEUSDT_4h_short__C6A-A_STRICT": {
     "combo": "C6A-A",
     "dir": "short",
@@ -583,22 +607,6 @@
     "symbol": "SENTUSDT",
     "tf": "4h"
   },
-  "SENTUSDT_4h_short__C6A-A_RELAXED": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-06T18:19:50.852843+00:00",
-    "symbol": "SENTUSDT",
-    "tf": "4h"
-  },
-  "SENTUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-06T18:19:50.137844+00:00",
-    "symbol": "SENTUSDT",
-    "tf": "4h"
-  },
   "SNDKBUSDT_1d_short__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "short",
@@ -767,12 +775,20 @@
     "symbol": "XAUTUSDT",
     "tf": "1d"
   },
-  "YFIUSDT_4h_long__CT5_LOOSE": {
+  "ZBTUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
     "level": "LOOSE",
-    "sent_at": "2026-07-06T18:19:51.505793+00:00",
-    "symbol": "YFIUSDT",
+    "sent_at": "2026-07-13T21:10:24.486818+00:00",
+    "symbol": "ZBTUSDT",
+    "tf": "4h"
+  },
+  "ZBTUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-13T21:10:25.110493+00:00",
+    "symbol": "ZBTUSDT",
     "tf": "4h"
   }
 }

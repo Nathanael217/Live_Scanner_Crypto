@@ -31,30 +31,6 @@
     "symbol": "AIGENSYNUSDT",
     "tf": "4h"
   },
-  "AIGENSYNUSDT_4h_short__CT1_RELAXED": {
-    "combo": "CT1",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-08T14:36:38.936388+00:00",
-    "symbol": "AIGENSYNUSDT",
-    "tf": "4h"
-  },
-  "AIGENSYNUSDT_4h_short__CT2_STRICT": {
-    "combo": "CT2",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-07-08T14:36:39.439062+00:00",
-    "symbol": "AIGENSYNUSDT",
-    "tf": "4h"
-  },
-  "AIGENSYNUSDT_4h_short__CT3_LOOSE": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-08T14:36:39.926823+00:00",
-    "symbol": "AIGENSYNUSDT",
-    "tf": "4h"
-  },
   "ALLOUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",
@@ -253,6 +229,14 @@
     "level": "LOOSE",
     "sent_at": "2026-07-11T09:46:43.975020+00:00",
     "symbol": "ESPUSDT",
+    "tf": "4h"
+  },
+  "ETHUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-15T17:35:05.914769+00:00",
+    "symbol": "ETHUSDT",
     "tf": "4h"
   },
   "ETHUSDT_4h_long__CT7_STRICT": {
@@ -511,6 +495,14 @@
     "symbol": "SNDKBUSDT",
     "tf": "4h"
   },
+  "SNDKBUSDT_4h_short__CT2_LOOSE": {
+    "combo": "CT2",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-15T17:35:06.541174+00:00",
+    "symbol": "SNDKBUSDT",
+    "tf": "4h"
+  },
   "SOXLBUSDT_4h_short__CT4_LOOSE": {
     "combo": "CT4",
     "dir": "short",
@@ -533,22 +525,6 @@
     "level": "RELAXED",
     "sent_at": "2026-07-15T14:05:14.515438+00:00",
     "symbol": "TNSRUSDT",
-    "tf": "4h"
-  },
-  "TRXUSDT_4h_short__C5B-A_RELAXED": {
-    "combo": "C5B-A",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-08T14:36:40.456259+00:00",
-    "symbol": "TRXUSDT",
-    "tf": "4h"
-  },
-  "TRXUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-08T14:36:40.963824+00:00",
-    "symbol": "TRXUSDT",
     "tf": "4h"
   },
   "VIRTUALUSDT_4h_long__C6A-N_LOOSE": {

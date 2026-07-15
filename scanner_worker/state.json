@@ -311,6 +311,14 @@
     "symbol": "KAITOUSDT",
     "tf": "4h"
   },
+  "LDOUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-15T21:12:28.146718+00:00",
+    "symbol": "LDOUSDT",
+    "tf": "4h"
+  },
   "LDOUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -413,14 +421,6 @@
     "level": "RELAXED",
     "sent_at": "2026-07-13T07:33:11.190442+00:00",
     "symbol": "PARTIUSDT",
-    "tf": "4h"
-  },
-  "PEOPLEUSDT_4h_long__CT7_STRICT": {
-    "combo": "CT7",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-07-08T17:49:54.685950+00:00",
-    "symbol": "PEOPLEUSDT",
     "tf": "4h"
   },
   "POLUSDT_4h_long__C6A-N_LOOSE": {

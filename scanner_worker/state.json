@@ -31,14 +31,6 @@
     "symbol": "AIGENSYNUSDT",
     "tf": "4h"
   },
-  "ALLOUSDT_4h_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-08T21:21:10.241682+00:00",
-    "symbol": "ALLOUSDT",
-    "tf": "4h"
-  },
   "ALLOUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
@@ -231,6 +223,14 @@
     "symbol": "ESPUSDT",
     "tf": "4h"
   },
+  "ETHFIUSDT_1d_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-16T03:31:30.276658+00:00",
+    "symbol": "ETHFIUSDT",
+    "tf": "1d"
+  },
   "ETHUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -367,6 +367,14 @@
     "symbol": "MMTUSDT",
     "tf": "4h"
   },
+  "MUBUSDT_1d_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-16T03:31:28.031004+00:00",
+    "symbol": "MUBUSDT",
+    "tf": "1d"
+  },
   "NIGHTUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -406,6 +414,22 @@
     "sent_at": "2026-07-11T03:35:56.370527+00:00",
     "symbol": "NVDABUSDT",
     "tf": "1d"
+  },
+  "ONDOUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-16T03:31:28.689776+00:00",
+    "symbol": "ONDOUSDT",
+    "tf": "4h"
+  },
+  "ONDOUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-16T03:31:29.348073+00:00",
+    "symbol": "ONDOUSDT",
+    "tf": "4h"
   },
   "PARTIUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
@@ -470,6 +494,14 @@
     "sent_at": "2026-07-09T15:31:44.666331+00:00",
     "symbol": "RSRUSDT",
     "tf": "4h"
+  },
+  "SANTOSUSDT_1d_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-16T03:31:30.926065+00:00",
+    "symbol": "SANTOSUSDT",
+    "tf": "1d"
   },
   "SEIUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",

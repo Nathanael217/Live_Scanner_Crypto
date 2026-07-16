@@ -119,6 +119,22 @@
     "symbol": "BERAUSDT",
     "tf": "4h"
   },
+  "BONKUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-16T06:28:54.726450+00:00",
+    "symbol": "BONKUSDT",
+    "tf": "4h"
+  },
+  "BONKUSDT_4h_short__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-07-16T06:28:54.099923+00:00",
+    "symbol": "BONKUSDT",
+    "tf": "4h"
+  },
   "BROCCOLI714USDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -269,6 +285,14 @@
     "level": "LOOSE",
     "sent_at": "2026-07-10T11:16:27.406313+00:00",
     "symbol": "GUNUSDT",
+    "tf": "4h"
+  },
+  "HOMEUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-16T06:28:53.461962+00:00",
+    "symbol": "HOMEUSDT",
     "tf": "4h"
   },
   "JSTUSDT_4h_short__C5B-N_RELAXED": {

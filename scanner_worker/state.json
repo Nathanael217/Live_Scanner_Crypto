@@ -167,14 +167,6 @@
     "symbol": "CELOUSDT",
     "tf": "4h"
   },
-  "CRCLBUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-10T14:49:03.223719+00:00",
-    "symbol": "CRCLBUSDT",
-    "tf": "4h"
-  },
   "CYBERUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
@@ -375,22 +367,6 @@
     "symbol": "MANTRAUSDT",
     "tf": "4h"
   },
-  "MEUSDT_4h_short__C6A-A_STRICT": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-07-10T14:49:04.704967+00:00",
-    "symbol": "MEUSDT",
-    "tf": "4h"
-  },
-  "MEUSDT_4h_short__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-07-10T14:49:04.206611+00:00",
-    "symbol": "MEUSDT",
-    "tf": "4h"
-  },
   "MMTUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -421,6 +397,14 @@
     "level": "LOOSE",
     "sent_at": "2026-07-17T10:09:07.535800+00:00",
     "symbol": "MUBUSDT",
+    "tf": "4h"
+  },
+  "NBISBUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-17T17:21:24.534871+00:00",
+    "symbol": "NBISBUSDT",
     "tf": "4h"
   },
   "NIGHTUSDT_4h_long__C6A-N_LOOSE": {
@@ -477,6 +461,14 @@
     "level": "RELAXED",
     "sent_at": "2026-07-16T03:31:29.348073+00:00",
     "symbol": "ONDOUSDT",
+    "tf": "4h"
+  },
+  "ONEUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-17T17:21:23.976723+00:00",
+    "symbol": "ONEUSDT",
     "tf": "4h"
   },
   "PARTIUSDT_4h_long__C5B-N_RELAXED": {
@@ -701,14 +693,6 @@
     "level": "STRICT",
     "sent_at": "2026-07-17T13:59:02.779212+00:00",
     "symbol": "TOWNSUSDT",
-    "tf": "4h"
-  },
-  "VIRTUALUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-10T14:49:03.711040+00:00",
-    "symbol": "VIRTUALUSDT",
     "tf": "4h"
   },
   "VIRTUALUSDT_4h_long__C6A-N_STRICT": {

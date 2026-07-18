@@ -87,22 +87,6 @@
     "symbol": "ARBUSDT",
     "tf": "4h"
   },
-  "AWEUSDT_4h_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-11T09:46:44.945172+00:00",
-    "symbol": "AWEUSDT",
-    "tf": "4h"
-  },
-  "AWEUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-11T09:46:44.463830+00:00",
-    "symbol": "AWEUSDT",
-    "tf": "4h"
-  },
   "BCHUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -231,12 +215,12 @@
     "symbol": "EGLDUSDT",
     "tf": "4h"
   },
-  "ESPUSDT_4h_long__CT5_LOOSE": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-11T09:46:43.975020+00:00",
-    "symbol": "ESPUSDT",
+  "ERAUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-18T13:43:22.995631+00:00",
+    "symbol": "ERAUSDT",
     "tf": "4h"
   },
   "ETHFIUSDT_1d_long__C6A-N_LOOSE": {
@@ -653,6 +637,14 @@
     "level": "STRICT",
     "sent_at": "2026-07-17T13:59:02.779212+00:00",
     "symbol": "TOWNSUSDT",
+    "tf": "4h"
+  },
+  "TRXUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-18T13:43:22.332684+00:00",
+    "symbol": "TRXUSDT",
     "tf": "4h"
   },
   "ZBTUSDT_4h_long__CT5_LOOSE": {

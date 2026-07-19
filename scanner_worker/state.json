@@ -327,6 +327,14 @@
     "symbol": "NIGHTUSDT",
     "tf": "4h"
   },
+  "NIGHTUSDT_4h_short__CT3_RELAXED": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-19T21:04:22.555458+00:00",
+    "symbol": "NIGHTUSDT",
+    "tf": "4h"
+  },
   "ONDOUSDT_4h_long__CT6_LOOSE": {
     "combo": "CT6",
     "dir": "long",
@@ -615,6 +623,14 @@
     "symbol": "TRXUSDT",
     "tf": "4h"
   },
+  "YGGUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-19T21:04:21.213456+00:00",
+    "symbol": "YGGUSDT",
+    "tf": "4h"
+  },
   "YGGUSDT_4h_short__CT4_STRICT": {
     "combo": "CT4",
     "dir": "short",
@@ -677,6 +693,14 @@
     "level": "RELAXED",
     "sent_at": "2026-07-16T14:16:36.260150+00:00",
     "symbol": "ZECUSDT",
+    "tf": "4h"
+  },
+  "ZILUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-19T21:04:21.891997+00:00",
+    "symbol": "ZILUSDT",
     "tf": "4h"
   }
 }

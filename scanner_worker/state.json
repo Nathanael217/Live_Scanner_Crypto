@@ -7,6 +7,14 @@
     "symbol": "0GUSDT",
     "tf": "4h"
   },
+  "1INCHUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-21T21:23:23.115672+00:00",
+    "symbol": "1INCHUSDT",
+    "tf": "4h"
+  },
   "AIGENSYNUSDT_4h_long__CT5_RELAXED": {
     "combo": "CT5",
     "dir": "long",
@@ -62,6 +70,22 @@
     "sent_at": "2026-07-20T03:57:45.746191+00:00",
     "symbol": "CHZUSDT",
     "tf": "1d"
+  },
+  "COINBUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-21T21:23:23.726327+00:00",
+    "symbol": "COINBUSDT",
+    "tf": "4h"
+  },
+  "DEXEUSDT_4h_short__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-07-21T21:23:22.478927+00:00",
+    "symbol": "DEXEUSDT",
+    "tf": "4h"
   },
   "DODOUSDT_4h_long__C5B-N_LOOSE": {
     "combo": "C5B-N",

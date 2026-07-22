@@ -1,12 +1,4 @@
 {
-  "0GUSDT_4h_long__CT5_LOOSE": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-15T10:12:35.922466+00:00",
-    "symbol": "0GUSDT",
-    "tf": "4h"
-  },
   "1INCHUSDT_4h_long__CT7_RELAXED": {
     "combo": "CT7",
     "dir": "long",
@@ -29,6 +21,14 @@
     "level": "LOOSE",
     "sent_at": "2026-07-16T14:16:37.759745+00:00",
     "symbol": "AIGENSYNUSDT",
+    "tf": "4h"
+  },
+  "ALICEUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-22T10:33:42.224154+00:00",
+    "symbol": "ALICEUSDT",
     "tf": "4h"
   },
   "AMDBUSDT_4h_long__C6A-N_LOOSE": {
@@ -87,12 +87,12 @@
     "symbol": "DEXEUSDT",
     "tf": "4h"
   },
-  "DODOUSDT_4h_short__C5B-N_STRICT": {
-    "combo": "C5B-N",
+  "DRAMBUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
     "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-07-15T10:12:35.417372+00:00",
-    "symbol": "DODOUSDT",
+    "level": "RELAXED",
+    "sent_at": "2026-07-22T10:33:41.723055+00:00",
+    "symbol": "DRAMBUSDT",
     "tf": "4h"
   },
   "ERAUSDT_4h_short__C6A-N_RELAXED": {
@@ -231,6 +231,14 @@
     "symbol": "NIGHTUSDT",
     "tf": "4h"
   },
+  "NILUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-22T10:33:43.706669+00:00",
+    "symbol": "NILUSDT",
+    "tf": "4h"
+  },
   "ONDOUSDT_4h_long__CT6_LOOSE": {
     "combo": "CT6",
     "dir": "long",
@@ -367,6 +375,22 @@
     "symbol": "RUNEUSDT",
     "tf": "4h"
   },
+  "RUNEUSDT_4h_short__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-22T10:33:43.218947+00:00",
+    "symbol": "RUNEUSDT",
+    "tf": "4h"
+  },
+  "RUNEUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-22T10:33:42.737223+00:00",
+    "symbol": "RUNEUSDT",
+    "tf": "4h"
+  },
   "SANTOSUSDT_1d_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -374,6 +398,14 @@
     "sent_at": "2026-07-16T03:31:30.926065+00:00",
     "symbol": "SANTOSUSDT",
     "tf": "1d"
+  },
+  "SKHYBUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-22T10:33:41.251000+00:00",
+    "symbol": "SKHYBUSDT",
+    "tf": "4h"
   },
   "SNDKBUSDT_1d_short__C6A-A_RELAXED": {
     "combo": "C6A-A",

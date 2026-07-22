@@ -127,14 +127,6 @@
     "symbol": "ETHFIUSDT",
     "tf": "1d"
   },
-  "ETHUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-15T17:35:05.914769+00:00",
-    "symbol": "ETHUSDT",
-    "tf": "4h"
-  },
   "FILUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -205,6 +197,14 @@
     "level": "LOOSE",
     "sent_at": "2026-07-17T10:09:07.535800+00:00",
     "symbol": "MUBUSDT",
+    "tf": "4h"
+  },
+  "NBISBUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-22T17:37:52.728026+00:00",
+    "symbol": "NBISBUSDT",
     "tf": "4h"
   },
   "NBISBUSDT_4h_long__C6A-N_LOOSE": {
@@ -463,12 +463,12 @@
     "symbol": "SNDKBUSDT",
     "tf": "4h"
   },
-  "SNDKBUSDT_4h_short__CT2_LOOSE": {
-    "combo": "CT2",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-15T17:35:06.541174+00:00",
-    "symbol": "SNDKBUSDT",
+  "SOXLBUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-22T17:37:52.212049+00:00",
+    "symbol": "SOXLBUSDT",
     "tf": "4h"
   },
   "SOXLBUSDT_4h_short__C6A-N_STRICT": {

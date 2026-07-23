@@ -7,22 +7,6 @@
     "symbol": "1INCHUSDT",
     "tf": "4h"
   },
-  "AIGENSYNUSDT_4h_long__CT5_RELAXED": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-16T14:16:37.263184+00:00",
-    "symbol": "AIGENSYNUSDT",
-    "tf": "4h"
-  },
-  "AIGENSYNUSDT_4h_long__CT7_LOOSE": {
-    "combo": "CT7",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-16T14:16:37.759745+00:00",
-    "symbol": "AIGENSYNUSDT",
-    "tf": "4h"
-  },
   "ALICEUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -551,6 +535,14 @@
     "symbol": "USDSUSDT",
     "tf": "4h"
   },
+  "VANAUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-23T14:27:19.641557+00:00",
+    "symbol": "VANAUSDT",
+    "tf": "4h"
+  },
   "YGGUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -575,22 +567,6 @@
     "symbol": "ZBTUSDT",
     "tf": "4h"
   },
-  "ZECUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-16T14:16:36.772230+00:00",
-    "symbol": "ZECUSDT",
-    "tf": "4h"
-  },
-  "ZECUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-16T14:16:36.260150+00:00",
-    "symbol": "ZECUSDT",
-    "tf": "4h"
-  },
   "ZILUSDT_4h_short__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "short",
@@ -613,6 +589,22 @@
     "level": "RELAXED",
     "sent_at": "2026-07-19T21:04:21.891997+00:00",
     "symbol": "ZILUSDT",
+    "tf": "4h"
+  },
+  "ZKCUSDT_4h_short__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-23T14:27:20.742698+00:00",
+    "symbol": "ZKCUSDT",
+    "tf": "4h"
+  },
+  "ZKCUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-23T14:27:20.204817+00:00",
+    "symbol": "ZKCUSDT",
     "tf": "4h"
   },
   "\u5e01\u5b89\u4eba\u751fUSDT_4h_long__C5B-N_RELAXED": {

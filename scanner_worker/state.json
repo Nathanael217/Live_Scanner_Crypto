@@ -55,6 +55,22 @@
     "symbol": "AMDBUSDT",
     "tf": "4h"
   },
+  "AVAXUSDT_4h_long__CT5_RELAXED": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-25T17:12:11.094426+00:00",
+    "symbol": "AVAXUSDT",
+    "tf": "4h"
+  },
+  "AVAXUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-25T17:12:11.648478+00:00",
+    "symbol": "AVAXUSDT",
+    "tf": "4h"
+  },
   "AXSUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -175,6 +191,14 @@
     "symbol": "DOGEUSDT",
     "tf": "1d"
   },
+  "DOGEUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-25T17:12:10.523363+00:00",
+    "symbol": "DOGEUSDT",
+    "tf": "4h"
+  },
   "DRAMBUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",
@@ -205,6 +229,14 @@
     "level": "LOOSE",
     "sent_at": "2026-07-23T17:43:02.439758+00:00",
     "symbol": "ENSOUSDT",
+    "tf": "4h"
+  },
+  "ESPUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-25T17:12:12.207593+00:00",
+    "symbol": "ESPUSDT",
     "tf": "4h"
   },
   "FILUSDT_4h_short__C6A-N_LOOSE": {

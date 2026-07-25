@@ -55,6 +55,14 @@
     "symbol": "AMDBUSDT",
     "tf": "4h"
   },
+  "AVAXUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-25T21:05:57.349065+00:00",
+    "symbol": "AVAXUSDT",
+    "tf": "4h"
+  },
   "AVAXUSDT_4h_long__CT5_RELAXED": {
     "combo": "CT5",
     "dir": "long",
@@ -247,6 +255,14 @@
     "symbol": "FILUSDT",
     "tf": "4h"
   },
+  "FLOKIUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-25T21:05:57.945861+00:00",
+    "symbol": "FLOKIUSDT",
+    "tf": "4h"
+  },
   "GENIUSUSDT_4h_long__CT5_RELAXED": {
     "combo": "CT5",
     "dir": "long",
@@ -341,6 +357,14 @@
     "level": "LOOSE",
     "sent_at": "2026-07-22T17:37:52.728026+00:00",
     "symbol": "NBISBUSDT",
+    "tf": "4h"
+  },
+  "NEIROUSDT_4h_long__CT7_STRICT": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-07-25T21:05:58.517086+00:00",
+    "symbol": "NEIROUSDT",
     "tf": "4h"
   },
   "NIGHTUSDT_4h_short__CT3_LOOSE": {

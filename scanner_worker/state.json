@@ -207,6 +207,14 @@
     "symbol": "INITUSDT",
     "tf": "4h"
   },
+  "INTCBUSDT_1d_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-25T03:33:34.990091+00:00",
+    "symbol": "INTCBUSDT",
+    "tf": "1d"
+  },
   "KAITOUSDT_4h_long__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "long",

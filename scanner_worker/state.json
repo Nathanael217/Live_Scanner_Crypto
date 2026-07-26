@@ -247,12 +247,12 @@
     "symbol": "ESPUSDT",
     "tf": "4h"
   },
-  "FILUSDT_4h_short__C6A-N_LOOSE": {
+  "ETHFIUSDT_4h_long__C6A-N_STRICT": {
     "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-19T13:47:05.250714+00:00",
-    "symbol": "FILUSDT",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-07-26T13:50:05.972879+00:00",
+    "symbol": "ETHFIUSDT",
     "tf": "4h"
   },
   "FLOKIUSDT_4h_long__CT6_LOOSE": {
@@ -495,14 +495,6 @@
     "symbol": "POLUSDT",
     "tf": "4h"
   },
-  "QQQBUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-19T13:47:05.737122+00:00",
-    "symbol": "QQQBUSDT",
-    "tf": "4h"
-  },
   "RAYUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -645,6 +637,14 @@
     "level": "RELAXED",
     "sent_at": "2026-07-24T17:47:22.264611+00:00",
     "symbol": "TSLABUSDT",
+    "tf": "4h"
+  },
+  "TSTUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-26T13:50:06.482297+00:00",
+    "symbol": "TSTUSDT",
     "tf": "4h"
   },
   "TUTUSDT_4h_short__C5B-N_RELAXED": {

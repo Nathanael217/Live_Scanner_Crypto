@@ -303,6 +303,22 @@
     "symbol": "INTCBUSDT",
     "tf": "1d"
   },
+  "KAIAUSDT_1d_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-26T03:49:24.932619+00:00",
+    "symbol": "KAIAUSDT",
+    "tf": "1d"
+  },
+  "KAIAUSDT_1d_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-26T03:49:24.466708+00:00",
+    "symbol": "KAIAUSDT",
+    "tf": "1d"
+  },
   "KAITOUSDT_4h_long__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "long",
@@ -429,6 +445,14 @@
     "level": "LOOSE",
     "sent_at": "2026-07-23T17:42:57.933042+00:00",
     "symbol": "OPNUSDT",
+    "tf": "4h"
+  },
+  "OSMOUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-26T03:49:23.991089+00:00",
+    "symbol": "OSMOUSDT",
     "tf": "4h"
   },
   "PIXELUSDT_4h_long__C6A-N_LOOSE": {
@@ -559,36 +583,20 @@
     "symbol": "SPCXBUSDT",
     "tf": "4h"
   },
+  "STXUSDT_1d_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-26T03:49:23.497513+00:00",
+    "symbol": "STXUSDT",
+    "tf": "1d"
+  },
   "SUNUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
     "level": "LOOSE",
     "sent_at": "2026-07-23T17:43:03.004219+00:00",
     "symbol": "SUNUSDT",
-    "tf": "4h"
-  },
-  "TLMUSDT_1d_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-19T03:44:57.317666+00:00",
-    "symbol": "TLMUSDT",
-    "tf": "1d"
-  },
-  "TLMUSDT_4h_long__CT5_LOOSE": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-19T03:44:56.374363+00:00",
-    "symbol": "TLMUSDT",
-    "tf": "4h"
-  },
-  "TLMUSDT_4h_long__CT7_LOOSE": {
-    "combo": "CT7",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-19T03:44:56.848721+00:00",
-    "symbol": "TLMUSDT",
     "tf": "4h"
   },
   "TOWNSUSDT_4h_long__C5B-N_RELAXED": {

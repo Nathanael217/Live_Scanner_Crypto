@@ -143,6 +143,22 @@
     "symbol": "AXSUSDT",
     "tf": "4h"
   },
+  "BANKUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-28T21:18:18.393611+00:00",
+    "symbol": "BANKUSDT",
+    "tf": "4h"
+  },
+  "BANKUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-28T21:18:17.896798+00:00",
+    "symbol": "BANKUSDT",
+    "tf": "4h"
+  },
   "BARDUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -823,22 +839,6 @@
     "symbol": "SOXLBUSDT",
     "tf": "4h"
   },
-  "SPCXBUSDT_4h_long__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-21T17:40:31.479782+00:00",
-    "symbol": "SPCXBUSDT",
-    "tf": "4h"
-  },
-  "SPCXBUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-21T17:40:30.844375+00:00",
-    "symbol": "SPCXBUSDT",
-    "tf": "4h"
-  },
   "STORJUSDT_4h_short__CT4_LOOSE": {
     "combo": "CT4",
     "dir": "short",
@@ -965,14 +965,6 @@
     "level": "RELAXED",
     "sent_at": "2026-07-22T14:19:13.193652+00:00",
     "symbol": "TUTUSDT",
-    "tf": "4h"
-  },
-  "USDSUSDT_4h_short__CT1_LOOSE": {
-    "combo": "CT1",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-21T17:40:32.128632+00:00",
-    "symbol": "USDSUSDT",
     "tf": "4h"
   },
   "VANAUSDT_4h_long__C6A-N_LOOSE": {

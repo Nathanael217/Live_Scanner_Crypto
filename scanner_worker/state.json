@@ -23,14 +23,6 @@
     "symbol": "AIGENSYNUSDT",
     "tf": "4h"
   },
-  "ALICEUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-22T10:33:42.224154+00:00",
-    "symbol": "ALICEUSDT",
-    "tf": "4h"
-  },
   "ALLOUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -335,14 +327,6 @@
     "symbol": "DRAMBUSDT",
     "tf": "1d"
   },
-  "DRAMBUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-22T10:33:41.723055+00:00",
-    "symbol": "DRAMBUSDT",
-    "tf": "4h"
-  },
   "EDUUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -623,14 +607,6 @@
     "symbol": "NEIROUSDT",
     "tf": "4h"
   },
-  "NILUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-22T10:33:43.706669+00:00",
-    "symbol": "NILUSDT",
-    "tf": "4h"
-  },
   "OPNUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",
@@ -759,20 +735,12 @@
     "symbol": "RAYUSDT",
     "tf": "4h"
   },
-  "RUNEUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-22T10:33:43.218947+00:00",
-    "symbol": "RUNEUSDT",
-    "tf": "4h"
-  },
-  "RUNEUSDT_4h_short__C6A-N_RELAXED": {
+  "SAHARAUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-22T10:33:42.737223+00:00",
-    "symbol": "RUNEUSDT",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-29T10:48:25.765700+00:00",
+    "symbol": "SAHARAUSDT",
     "tf": "4h"
   },
   "SANDUSDT_4h_short__C6A-N_RELAXED": {
@@ -837,14 +805,6 @@
     "level": "LOOSE",
     "sent_at": "2026-07-26T06:46:11.067261+00:00",
     "symbol": "SHIBUSDT",
-    "tf": "4h"
-  },
-  "SKHYBUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-22T10:33:41.251000+00:00",
-    "symbol": "SKHYBUSDT",
     "tf": "4h"
   },
   "SKHYBUSDT_4h_short__CT3_STRICT": {

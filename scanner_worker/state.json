@@ -375,6 +375,14 @@
     "symbol": "EWYBUSDT",
     "tf": "4h"
   },
+  "FETUSDT_1d_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-29T21:09:51.611587+00:00",
+    "symbol": "FETUSDT",
+    "tf": "1d"
+  },
   "FETUSDT_1d_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "short",
@@ -399,6 +407,14 @@
     "symbol": "FETUSDT",
     "tf": "1d"
   },
+  "FILUSDT_4h_short__CT3_RELAXED": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-07-29T21:09:52.170160+00:00",
+    "symbol": "FILUSDT",
+    "tf": "4h"
+  },
   "FLOKIUSDT_4h_long__CT6_LOOSE": {
     "combo": "CT6",
     "dir": "long",
@@ -421,6 +437,14 @@
     "level": "STRICT",
     "sent_at": "2026-07-25T09:58:46.806363+00:00",
     "symbol": "GENIUSUSDT",
+    "tf": "4h"
+  },
+  "HOLOUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-07-29T21:09:52.709371+00:00",
+    "symbol": "HOLOUSDT",
     "tf": "4h"
   },
   "INITUSDT_4h_short__C5B-N_LOOSE": {
@@ -591,14 +615,6 @@
     "symbol": "MUBUSDT",
     "tf": "4h"
   },
-  "NBISBUSDT_4h_long__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-22T17:37:52.728026+00:00",
-    "symbol": "NBISBUSDT",
-    "tf": "4h"
-  },
   "NEIROUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -759,6 +775,22 @@
     "symbol": "RAYUSDT",
     "tf": "4h"
   },
+  "ROBOUSDT_4h_long__CT6_RELAXED": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-07-29T21:09:53.274684+00:00",
+    "symbol": "ROBOUSDT",
+    "tf": "4h"
+  },
+  "ROBOUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-07-29T21:09:53.808020+00:00",
+    "symbol": "ROBOUSDT",
+    "tf": "4h"
+  },
   "SAHARAUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -854,14 +886,6 @@
     "sent_at": "2026-07-28T03:29:02.161355+00:00",
     "symbol": "SNDKBUSDT",
     "tf": "1d"
-  },
-  "SOXLBUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-22T17:37:52.212049+00:00",
-    "symbol": "SOXLBUSDT",
-    "tf": "4h"
   },
   "SOXLBUSDT_4h_short__C5B-N_RELAXED": {
     "combo": "C5B-N",

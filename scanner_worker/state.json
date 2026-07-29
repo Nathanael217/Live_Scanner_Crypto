@@ -1,12 +1,4 @@
 {
-  "1INCHUSDT_4h_long__CT7_RELAXED": {
-    "combo": "CT7",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-21T21:23:23.115672+00:00",
-    "symbol": "1INCHUSDT",
-    "tf": "4h"
-  },
   "ADAUSDT_4h_short__CT2_STRICT": {
     "combo": "CT2",
     "dir": "short",
@@ -223,14 +215,6 @@
     "symbol": "CHZUSDT",
     "tf": "4h"
   },
-  "COINBUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-21T21:23:23.726327+00:00",
-    "symbol": "COINBUSDT",
-    "tf": "4h"
-  },
   "COOKIEUSDT_4h_short__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "short",
@@ -284,14 +268,6 @@
     "dir": "short",
     "level": "RELAXED",
     "sent_at": "2026-07-27T15:08:46.836762+00:00",
-    "symbol": "DEXEUSDT",
-    "tf": "4h"
-  },
-  "DEXEUSDT_4h_short__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-07-21T21:23:22.478927+00:00",
     "symbol": "DEXEUSDT",
     "tf": "4h"
   },
@@ -380,6 +356,14 @@
     "dir": "short",
     "level": "RELAXED",
     "sent_at": "2026-07-28T03:29:04.104226+00:00",
+    "symbol": "FETUSDT",
+    "tf": "1d"
+  },
+  "FETUSDT_1d_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-07-29T03:31:54.181237+00:00",
     "symbol": "FETUSDT",
     "tf": "1d"
   },

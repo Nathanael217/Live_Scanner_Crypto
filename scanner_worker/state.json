@@ -1167,6 +1167,14 @@
     "symbol": "WIFUSDT",
     "tf": "4h"
   },
+  "WIFUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-08-02T03:47:10.036594+00:00",
+    "symbol": "WIFUSDT",
+    "tf": "4h"
+  },
   "WUSDT_4h_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "short",

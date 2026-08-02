@@ -1,4 +1,12 @@
 {
+  "ADAUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-02T06:42:48.641154+00:00",
+    "symbol": "ADAUSDT",
+    "tf": "4h"
+  },
   "ADAUSDT_4h_short__CT2_STRICT": {
     "combo": "CT2",
     "dir": "short",
@@ -415,6 +423,14 @@
     "symbol": "HOLOUSDT",
     "tf": "4h"
   },
+  "HOMEUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-02T06:42:49.269579+00:00",
+    "symbol": "HOMEUSDT",
+    "tf": "4h"
+  },
   "HOMEUSDT_4h_long__CT6_STRICT": {
     "combo": "CT6",
     "dir": "long",
@@ -454,22 +470,6 @@
     "sent_at": "2026-07-30T21:20:57.643600+00:00",
     "symbol": "IOUSDT",
     "tf": "4h"
-  },
-  "KAIAUSDT_1d_short__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-26T03:49:24.932619+00:00",
-    "symbol": "KAIAUSDT",
-    "tf": "1d"
-  },
-  "KAIAUSDT_1d_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-26T03:49:24.466708+00:00",
-    "symbol": "KAIAUSDT",
-    "tf": "1d"
   },
   "KAIAUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
@@ -727,14 +727,6 @@
     "symbol": "ORDIUSDT",
     "tf": "4h"
   },
-  "OSMOUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-26T03:49:23.991089+00:00",
-    "symbol": "OSMOUSDT",
-    "tf": "4h"
-  },
   "PEOPLEUSDT_4h_long__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "long",
@@ -789,6 +781,14 @@
     "level": "STRICT",
     "sent_at": "2026-07-31T17:49:41.579497+00:00",
     "symbol": "QCOMBUSDT",
+    "tf": "4h"
+  },
+  "QQQBUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-02T06:42:49.880215+00:00",
+    "symbol": "QQQBUSDT",
     "tf": "4h"
   },
   "QQQBUSDT_4h_short__C5B-N_RELAXED": {
@@ -973,14 +973,6 @@
     "level": "RELAXED",
     "sent_at": "2026-07-28T14:31:02.297844+00:00",
     "symbol": "STRAXUSDT",
-    "tf": "1d"
-  },
-  "STXUSDT_1d_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-26T03:49:23.497513+00:00",
-    "symbol": "STXUSDT",
     "tf": "1d"
   },
   "STXUSDT_4h_long__C5B-N_RELAXED": {

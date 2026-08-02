@@ -303,6 +303,14 @@
     "symbol": "ENSOUSDT",
     "tf": "4h"
   },
+  "EURUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-02T21:07:31.880536+00:00",
+    "symbol": "EURUSDT",
+    "tf": "4h"
+  },
   "EWYBUSDT_4h_short__CT2_STRICT": {
     "combo": "CT2",
     "dir": "short",
@@ -749,14 +757,6 @@
     "level": "RELAXED",
     "sent_at": "2026-07-27T07:45:37.491533+00:00",
     "symbol": "PEOPLEUSDT",
-    "tf": "4h"
-  },
-  "PLUMEUSDT_4h_long__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-07-26T17:12:40.604959+00:00",
-    "symbol": "PLUMEUSDT",
     "tf": "4h"
   },
   "PUMPUSDT_4h_long__C6A-N_RELAXED": {

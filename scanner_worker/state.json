@@ -215,6 +215,14 @@
     "symbol": "COOKIEUSDT",
     "tf": "4h"
   },
+  "CRCLBUSDT_4h_short__CT3_RELAXED": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-08-03T15:11:45.903129+00:00",
+    "symbol": "CRCLBUSDT",
+    "tf": "4h"
+  },
   "CUSDT_4h_short__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "short",
@@ -237,22 +245,6 @@
     "level": "RELAXED",
     "sent_at": "2026-08-01T03:45:38.462987+00:00",
     "symbol": "DASHUSDT",
-    "tf": "4h"
-  },
-  "DEXEUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-27T15:08:47.340211+00:00",
-    "symbol": "DEXEUSDT",
-    "tf": "4h"
-  },
-  "DEXEUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-07-27T15:08:46.836762+00:00",
-    "symbol": "DEXEUSDT",
     "tf": "4h"
   },
   "DRAMBUSDT_1d_short__C5B-A_RELAXED": {
@@ -719,14 +711,6 @@
     "symbol": "ORDIUSDT",
     "tf": "4h"
   },
-  "PUMPUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-27T15:08:47.848289+00:00",
-    "symbol": "PUMPUSDT",
-    "tf": "4h"
-  },
   "QCOMBUSDT_4h_short__C5B-A_STRICT": {
     "combo": "C5B-A",
     "dir": "short",
@@ -935,14 +919,6 @@
     "symbol": "STRKUSDT",
     "tf": "4h"
   },
-  "SUNUSDT_4h_short__CT3_STRICT": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-07-27T15:08:48.386855+00:00",
-    "symbol": "SUNUSDT",
-    "tf": "4h"
-  },
   "TIAUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",
@@ -1069,6 +1045,14 @@
     "level": "STRICT",
     "sent_at": "2026-07-30T17:44:45.790830+00:00",
     "symbol": "WALUSDT",
+    "tf": "4h"
+  },
+  "WAXPUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-03T15:11:46.396932+00:00",
+    "symbol": "WAXPUSDT",
     "tf": "4h"
   },
   "WIFUSDT_4h_short__C6A-A_LOOSE": {

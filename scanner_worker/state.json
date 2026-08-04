@@ -95,27 +95,11 @@
     "symbol": "AVAXUSDT",
     "tf": "4h"
   },
-  "BANKUSDT_4h_short__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-28T21:18:18.393611+00:00",
-    "symbol": "BANKUSDT",
-    "tf": "4h"
-  },
   "BANKUSDT_4h_short__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "short",
     "level": "RELAXED",
     "sent_at": "2026-07-29T06:42:11.222171+00:00",
-    "symbol": "BANKUSDT",
-    "tf": "4h"
-  },
-  "BANKUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-28T21:18:17.896798+00:00",
     "symbol": "BANKUSDT",
     "tf": "4h"
   },
@@ -141,6 +125,14 @@
     "level": "STRICT",
     "sent_at": "2026-07-31T10:50:00.035297+00:00",
     "symbol": "BFUSDUSDT",
+    "tf": "4h"
+  },
+  "BIOUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-04T21:23:13.758395+00:00",
+    "symbol": "BIOUSDT",
     "tf": "4h"
   },
   "BOMEUSDT_4h_long__C5B-N_RELAXED": {

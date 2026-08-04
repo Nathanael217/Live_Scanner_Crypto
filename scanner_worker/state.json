@@ -383,6 +383,14 @@
     "symbol": "HOMEUSDT",
     "tf": "4h"
   },
+  "HOMEUSDT_4h_long__CT7_STRICT": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-04T10:48:38.117407+00:00",
+    "symbol": "HOMEUSDT",
+    "tf": "4h"
+  },
   "INJUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -613,6 +621,14 @@
     "level": "LOOSE",
     "sent_at": "2026-07-31T21:17:51.235874+00:00",
     "symbol": "ORDIUSDT",
+    "tf": "4h"
+  },
+  "PUMPUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-04T10:48:38.653360+00:00",
+    "symbol": "PUMPUSDT",
     "tf": "4h"
   },
   "QCOMBUSDT_4h_short__C5B-A_STRICT": {

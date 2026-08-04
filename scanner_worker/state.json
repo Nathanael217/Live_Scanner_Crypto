@@ -367,6 +367,14 @@
     "symbol": "GRTUSDT",
     "tf": "1d"
   },
+  "HEIUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-04T18:01:00.489301+00:00",
+    "symbol": "HEIUSDT",
+    "tf": "4h"
+  },
   "HEIUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -631,12 +639,28 @@
     "symbol": "OPUSDT",
     "tf": "4h"
   },
+  "ORCLBUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-04T18:01:00.989086+00:00",
+    "symbol": "ORCLBUSDT",
+    "tf": "4h"
+  },
   "ORDIUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-07-31T21:17:51.235874+00:00",
     "symbol": "ORDIUSDT",
+    "tf": "4h"
+  },
+  "PORTALUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-04T18:01:01.486901+00:00",
+    "symbol": "PORTALUSDT",
     "tf": "4h"
   },
   "PUMPUSDT_4h_long__C6A-N_LOOSE": {

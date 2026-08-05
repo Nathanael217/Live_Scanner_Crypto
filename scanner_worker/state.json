@@ -1,4 +1,12 @@
 {
+  "1000SATSUSDT_4h_short__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-08-05T03:27:36.416663+00:00",
+    "symbol": "1000SATSUSDT",
+    "tf": "4h"
+  },
   "AAPLBUSDT_4h_short__CT2_RELAXED": {
     "combo": "CT2",
     "dir": "short",
@@ -678,6 +686,14 @@
     "sent_at": "2026-07-31T17:49:41.579497+00:00",
     "symbol": "QCOMBUSDT",
     "tf": "4h"
+  },
+  "QQQBUSDT_1d_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-05T03:27:35.927992+00:00",
+    "symbol": "QQQBUSDT",
+    "tf": "1d"
   },
   "QQQBUSDT_4h_long__CT7_LOOSE": {
     "combo": "CT7",

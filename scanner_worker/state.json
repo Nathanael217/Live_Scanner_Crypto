@@ -151,6 +151,14 @@
     "symbol": "BROCCOLI714USDT",
     "tf": "4h"
   },
+  "COTIUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-06T10:48:23.596502+00:00",
+    "symbol": "COTIUSDT",
+    "tf": "4h"
+  },
   "CRCLBUSDT_4h_short__CT3_RELAXED": {
     "combo": "CT3",
     "dir": "short",

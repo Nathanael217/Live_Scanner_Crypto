@@ -23,6 +23,14 @@
     "symbol": "ACEUSDT",
     "tf": "4h"
   },
+  "ACEUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-06T14:31:59.989317+00:00",
+    "symbol": "ACEUSDT",
+    "tf": "4h"
+  },
   "ACEUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -125,14 +133,6 @@
     "level": "RELAXED",
     "sent_at": "2026-08-04T21:23:13.758395+00:00",
     "symbol": "BIOUSDT",
-    "tf": "4h"
-  },
-  "BOMEUSDT_4h_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-30T14:27:28.355817+00:00",
-    "symbol": "BOMEUSDT",
     "tf": "4h"
   },
   "BOMEUSDT_4h_long__C6A-N_LOOSE": {
@@ -391,20 +391,12 @@
     "symbol": "JSTUSDT",
     "tf": "4h"
   },
-  "KAIAUSDT_4h_long__C6A-N_LOOSE": {
+  "KATUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
     "level": "LOOSE",
-    "sent_at": "2026-07-30T14:27:29.639033+00:00",
-    "symbol": "KAIAUSDT",
-    "tf": "4h"
-  },
-  "KAITOUSDT_4h_short__CT3_STRICT": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-07-30T14:27:27.108802+00:00",
-    "symbol": "KAITOUSDT",
+    "sent_at": "2026-08-06T14:32:00.647915+00:00",
+    "symbol": "KATUSDT",
     "tf": "4h"
   },
   "LDOUSDT_4h_short__CT1_LOOSE": {
@@ -422,14 +414,6 @@
     "sent_at": "2026-08-04T14:36:16.333192+00:00",
     "symbol": "LDOUSDT",
     "tf": "4h"
-  },
-  "LITEBUSDT_1d_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-30T14:27:28.982154+00:00",
-    "symbol": "LITEBUSDT",
-    "tf": "1d"
   },
   "LITEBUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
@@ -565,14 +549,6 @@
     "level": "STRICT",
     "sent_at": "2026-08-03T18:01:48.806437+00:00",
     "symbol": "OPENUSDT",
-    "tf": "4h"
-  },
-  "OPUSDT_4h_short__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-07-30T14:27:27.727389+00:00",
-    "symbol": "OPUSDT",
     "tf": "4h"
   },
   "ORCLBUSDT_4h_long__C5B-N_STRICT": {

@@ -327,14 +327,6 @@
     "symbol": "HEIUSDT",
     "tf": "4h"
   },
-  "HEIUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-30T03:19:52.939594+00:00",
-    "symbol": "HEIUSDT",
-    "tf": "4h"
-  },
   "HFTUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -694,6 +686,14 @@
     "sent_at": "2026-07-30T21:20:56.382279+00:00",
     "symbol": "TIAUSDT",
     "tf": "4h"
+  },
+  "TUTUSDT_1d_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-06T03:30:42.076277+00:00",
+    "symbol": "TUTUSDT",
+    "tf": "1d"
   },
   "TUTUSDT_4h_long__CT5_STRICT": {
     "combo": "CT5",

@@ -135,14 +135,6 @@
     "symbol": "BFUSDUSDT",
     "tf": "4h"
   },
-  "BFUSDUSDT_4h_short__CT4_STRICT": {
-    "combo": "CT4",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-07-31T10:50:00.035297+00:00",
-    "symbol": "BFUSDUSDT",
-    "tf": "4h"
-  },
   "BIOUSDT_4h_long__CT7_RELAXED": {
     "combo": "CT7",
     "dir": "long",
@@ -239,20 +231,20 @@
     "symbol": "EPICUSDT",
     "tf": "4h"
   },
+  "ETHFIUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-07T13:25:25.906304+00:00",
+    "symbol": "ETHFIUSDT",
+    "tf": "4h"
+  },
   "EURUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-08-02T21:07:31.880536+00:00",
     "symbol": "EURUSDT",
-    "tf": "4h"
-  },
-  "FORMUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-31T10:49:59.514415+00:00",
-    "symbol": "FORMUSDT",
     "tf": "4h"
   },
   "FORMUSDT_4h_short__C6A-A_RELAXED": {
@@ -269,14 +261,6 @@
     "level": "RELAXED",
     "sent_at": "2026-07-31T14:29:54.865671+00:00",
     "symbol": "FORMUSDT",
-    "tf": "4h"
-  },
-  "GALAUSDT_4h_long__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-07-31T10:50:00.551422+00:00",
-    "symbol": "GALAUSDT",
     "tf": "4h"
   },
   "GALAUSDT_4h_long__C6A-N_LOOSE": {
@@ -431,30 +415,6 @@
     "symbol": "MUBARAKUSDT",
     "tf": "4h"
   },
-  "MUBARAKUSDT_4h_long__CT5_LOOSE": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-31T10:49:58.043733+00:00",
-    "symbol": "MUBARAKUSDT",
-    "tf": "4h"
-  },
-  "MUBARAKUSDT_4h_long__CT6_RELAXED": {
-    "combo": "CT6",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-31T10:49:58.532789+00:00",
-    "symbol": "MUBARAKUSDT",
-    "tf": "4h"
-  },
-  "MUBARAKUSDT_4h_long__CT7_RELAXED": {
-    "combo": "CT7",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-07-31T10:49:59.009155+00:00",
-    "symbol": "MUBARAKUSDT",
-    "tf": "4h"
-  },
   "MUUBUSDT_4h_short__CT2_RELAXED": {
     "combo": "CT2",
     "dir": "short",
@@ -503,11 +463,27 @@
     "symbol": "ORDIUSDT",
     "tf": "4h"
   },
+  "PAXGUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-07T13:25:25.396522+00:00",
+    "symbol": "PAXGUSDT",
+    "tf": "4h"
+  },
   "PIXELUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-08-07T05:48:50.960509+00:00",
+    "symbol": "PIXELUSDT",
+    "tf": "4h"
+  },
+  "PIXELUSDT_4h_short__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-08-07T13:25:26.401139+00:00",
     "symbol": "PIXELUSDT",
     "tf": "4h"
   },
@@ -647,22 +623,6 @@
     "symbol": "TUTUSDT",
     "tf": "4h"
   },
-  "VANAUSDT_4h_long__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-31T10:49:57.555422+00:00",
-    "symbol": "VANAUSDT",
-    "tf": "4h"
-  },
-  "VANAUSDT_4h_long__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-07-31T10:49:57.082626+00:00",
-    "symbol": "VANAUSDT",
-    "tf": "4h"
-  },
   "WAXPUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -727,20 +687,20 @@
     "symbol": "WUSDT",
     "tf": "4h"
   },
-  "WUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-07-31T10:50:01.036791+00:00",
-    "symbol": "WUSDT",
-    "tf": "4h"
-  },
   "WUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",
     "level": "RELAXED",
     "sent_at": "2026-07-31T14:29:57.615071+00:00",
     "symbol": "WUSDT",
+    "tf": "4h"
+  },
+  "XAUTUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-07T13:25:24.916415+00:00",
+    "symbol": "XAUTUSDT",
     "tf": "4h"
   }
 }

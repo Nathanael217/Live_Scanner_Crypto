@@ -391,6 +391,14 @@
     "symbol": "NILUSDT",
     "tf": "4h"
   },
+  "NILUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-08-08T02:14:53.855617+00:00",
+    "symbol": "NILUSDT",
+    "tf": "4h"
+  },
   "OPENUSDT_4h_long__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "long",
@@ -421,14 +429,6 @@
     "level": "STRICT",
     "sent_at": "2026-08-04T18:01:00.989086+00:00",
     "symbol": "ORCLBUSDT",
-    "tf": "4h"
-  },
-  "ORDIUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-07-31T21:17:51.235874+00:00",
-    "symbol": "ORDIUSDT",
     "tf": "4h"
   },
   "PAXGUSDT_4h_long__C5B-N_LOOSE": {

@@ -183,6 +183,14 @@
     "symbol": "CRVUSDT",
     "tf": "4h"
   },
+  "DIAUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-08T20:44:25.180200+00:00",
+    "symbol": "DIAUSDT",
+    "tf": "4h"
+  },
   "DODOUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",
@@ -629,6 +637,14 @@
     "level": "LOOSE",
     "sent_at": "2026-08-03T18:01:51.089791+00:00",
     "symbol": "WUSDT",
+    "tf": "4h"
+  },
+  "XAIUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-08T20:44:24.561802+00:00",
+    "symbol": "XAIUSDT",
     "tf": "4h"
   },
   "XAUTUSDT_4h_long__C5B-N_LOOSE": {

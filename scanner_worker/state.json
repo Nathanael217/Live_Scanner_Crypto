@@ -103,14 +103,6 @@
     "symbol": "ATOMUSDT",
     "tf": "1d"
   },
-  "AVAXUSDT_4h_long__CT7_RELAXED": {
-    "combo": "CT7",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-02T10:06:22.665184+00:00",
-    "symbol": "AVAXUSDT",
-    "tf": "4h"
-  },
   "AXSUSDT_4h_long__CT5_RELAXED": {
     "combo": "CT5",
     "dir": "long",
@@ -159,11 +151,11 @@
     "symbol": "BIOUSDT",
     "tf": "4h"
   },
-  "BOMEUSDT_4h_long__C6A-N_LOOSE": {
+  "BOMEUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-02T10:06:23.800625+00:00",
+    "level": "RELAXED",
+    "sent_at": "2026-08-09T13:11:34.133298+00:00",
     "symbol": "BOMEUSDT",
     "tf": "4h"
   },
@@ -333,6 +325,14 @@
     "level": "STRICT",
     "sent_at": "2026-08-04T10:48:38.117407+00:00",
     "symbol": "HOMEUSDT",
+    "tf": "4h"
+  },
+  "HUMAUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-08-09T13:11:34.665304+00:00",
+    "symbol": "HUMAUSDT",
     "tf": "4h"
   },
   "JSTUSDT_4h_long__C6A-N_RELAXED": {
@@ -685,14 +685,6 @@
     "level": "LOOSE",
     "sent_at": "2026-08-03T18:01:47.622880+00:00",
     "symbol": "WAXPUSDT",
-    "tf": "4h"
-  },
-  "WLDUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-02T10:06:23.225124+00:00",
-    "symbol": "WLDUSDT",
     "tf": "4h"
   },
   "WUSDT_4h_long__C6A-N_LOOSE": {

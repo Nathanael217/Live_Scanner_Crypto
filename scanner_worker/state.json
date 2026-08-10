@@ -55,6 +55,14 @@
     "symbol": "ACEUSDT",
     "tf": "4h"
   },
+  "ACTUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-08-10T13:37:56.641949+00:00",
+    "symbol": "ACTUSDT",
+    "tf": "4h"
+  },
   "AEROUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -87,14 +95,6 @@
     "symbol": "ALICEUSDT",
     "tf": "4h"
   },
-  "ALLOUSDT_4h_long__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-08-03T11:40:02.768138+00:00",
-    "symbol": "ALLOUSDT",
-    "tf": "4h"
-  },
   "ATOMUSDT_1d_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",
@@ -102,6 +102,14 @@
     "sent_at": "2026-08-04T03:31:52.945020+00:00",
     "symbol": "ATOMUSDT",
     "tf": "1d"
+  },
+  "AXSUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-10T13:37:57.673476+00:00",
+    "symbol": "AXSUSDT",
+    "tf": "4h"
   },
   "AXSUSDT_4h_long__CT5_RELAXED": {
     "combo": "CT5",
@@ -126,14 +134,6 @@
     "sent_at": "2026-08-09T02:24:21.913239+00:00",
     "symbol": "BELUSDT",
     "tf": "1d"
-  },
-  "BFUSDUSDT_4h_long__CT6_RELAXED": {
-    "combo": "CT6",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-03T11:40:03.396213+00:00",
-    "symbol": "BFUSDUSDT",
-    "tf": "4h"
   },
   "BIOUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
@@ -519,6 +519,14 @@
     "symbol": "MAGICUSDT",
     "tf": "4h"
   },
+  "MEUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-10T13:37:57.157641+00:00",
+    "symbol": "MEUSDT",
+    "tf": "4h"
+  },
   "MMTUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",
@@ -781,6 +789,14 @@
     "level": "RELAXED",
     "sent_at": "2026-08-10T02:29:37.551854+00:00",
     "symbol": "STRKUSDT",
+    "tf": "4h"
+  },
+  "TRXUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-10T13:37:56.150558+00:00",
+    "symbol": "TRXUSDT",
     "tf": "4h"
   },
   "TSLABUSDT_4h_long__CT7_RELAXED": {

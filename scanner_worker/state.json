@@ -119,6 +119,22 @@
     "symbol": "ATOMUSDT",
     "tf": "4h"
   },
+  "AVNTUSDT_4h_long__CT5_RELAXED": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-13T09:22:10.746535+00:00",
+    "symbol": "AVNTUSDT",
+    "tf": "4h"
+  },
+  "AVNTUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-13T09:22:11.347725+00:00",
+    "symbol": "AVNTUSDT",
+    "tf": "4h"
+  },
   "AXSUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",
@@ -950,14 +966,6 @@
     "sent_at": "2026-08-07T17:04:00.394818+00:00",
     "symbol": "TSLABUSDT",
     "tf": "4h"
-  },
-  "TUTUSDT_1d_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-06T03:30:42.076277+00:00",
-    "symbol": "TUTUSDT",
-    "tf": "1d"
   },
   "TWTUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",

@@ -383,6 +383,22 @@
     "symbol": "CVXUSDT",
     "tf": "4h"
   },
+  "CVXUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-08-13T20:57:08.979305+00:00",
+    "symbol": "CVXUSDT",
+    "tf": "4h"
+  },
+  "CVXUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-08-13T20:57:08.402490+00:00",
+    "symbol": "CVXUSDT",
+    "tf": "4h"
+  },
   "DIAUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",

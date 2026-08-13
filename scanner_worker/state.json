@@ -527,6 +527,14 @@
     "symbol": "KATUSDT",
     "tf": "4h"
   },
+  "LUNAUSDT_1d_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-08-13T02:41:38.370092+00:00",
+    "symbol": "LUNAUSDT",
+    "tf": "1d"
+  },
   "MAGICUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -653,14 +661,6 @@
     "level": "LOOSE",
     "sent_at": "2026-08-12T09:21:13.545943+00:00",
     "symbol": "ONEUSDT",
-    "tf": "4h"
-  },
-  "OPENUSDT_4h_long__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-05T21:22:33.906671+00:00",
-    "symbol": "OPENUSDT",
     "tf": "4h"
   },
   "OPENUSDT_4h_long__C6A-N_LOOSE": {

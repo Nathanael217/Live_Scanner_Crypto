@@ -471,14 +471,6 @@
     "symbol": "ESPUSDT",
     "tf": "4h"
   },
-  "ETHFIUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-07T13:25:25.906304+00:00",
-    "symbol": "ETHFIUSDT",
-    "tf": "4h"
-  },
   "GRAMUSDT_4h_short__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "short",
@@ -775,14 +767,6 @@
     "symbol": "OPENUSDT",
     "tf": "4h"
   },
-  "PAXGUSDT_4h_long__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-07T13:25:25.396522+00:00",
-    "symbol": "PAXGUSDT",
-    "tf": "4h"
-  },
   "PEOPLEUSDT_4h_long__CT7_STRICT": {
     "combo": "CT7",
     "dir": "long",
@@ -820,14 +804,6 @@
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-08-14T05:44:25.696127+00:00",
-    "symbol": "PIXELUSDT",
-    "tf": "4h"
-  },
-  "PIXELUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-08-07T13:25:26.401139+00:00",
     "symbol": "PIXELUSDT",
     "tf": "4h"
   },
@@ -983,6 +959,14 @@
     "symbol": "SKYUSDT",
     "tf": "4h"
   },
+  "SNXXBUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-14T13:34:52.864702+00:00",
+    "symbol": "SNXXBUSDT",
+    "tf": "4h"
+  },
   "SOLUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -1071,11 +1055,27 @@
     "symbol": "TWTUSDT",
     "tf": "4h"
   },
+  "UNIUSDT_4h_short__CT1_LOOSE": {
+    "combo": "CT1",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-08-14T13:34:51.863998+00:00",
+    "symbol": "UNIUSDT",
+    "tf": "4h"
+  },
   "UNIUSDT_4h_short__CT3_RELAXED": {
     "combo": "CT3",
     "dir": "short",
     "level": "RELAXED",
     "sent_at": "2026-08-11T17:09:23.037972+00:00",
+    "symbol": "UNIUSDT",
+    "tf": "4h"
+  },
+  "UNIUSDT_4h_short__CT4_LOOSE": {
+    "combo": "CT4",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-08-14T13:34:52.372463+00:00",
     "symbol": "UNIUSDT",
     "tf": "4h"
   },
@@ -1117,14 +1117,6 @@
     "level": "STRICT",
     "sent_at": "2026-08-08T20:44:24.561802+00:00",
     "symbol": "XAIUSDT",
-    "tf": "4h"
-  },
-  "XAUTUSDT_4h_long__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-07T13:25:24.916415+00:00",
-    "symbol": "XAUTUSDT",
     "tf": "4h"
   }
 }

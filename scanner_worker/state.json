@@ -39,6 +39,22 @@
     "symbol": "1MBABYDOGEUSDT",
     "tf": "4h"
   },
+  "ACEUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-14T20:40:01.166006+00:00",
+    "symbol": "ACEUSDT",
+    "tf": "4h"
+  },
+  "ACEUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-14T20:40:00.548687+00:00",
+    "symbol": "ACEUSDT",
+    "tf": "4h"
+  },
   "ACTUSDT_4h_short__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "short",
@@ -477,6 +493,14 @@
     "level": "LOOSE",
     "sent_at": "2026-08-10T02:29:33.115905+00:00",
     "symbol": "GRAMUSDT",
+    "tf": "4h"
+  },
+  "GUNUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-14T20:40:02.388783+00:00",
+    "symbol": "GUNUSDT",
     "tf": "4h"
   },
   "HMSTRUSDT_4h_long__C5B-N_RELAXED": {
@@ -1061,6 +1085,14 @@
     "level": "LOOSE",
     "sent_at": "2026-08-14T17:05:24.080743+00:00",
     "symbol": "TLMUSDT",
+    "tf": "4h"
+  },
+  "TRUMPUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-14T20:40:01.782137+00:00",
+    "symbol": "TRUMPUSDT",
     "tf": "4h"
   },
   "TRXUSDT_4h_long__C6A-N_RELAXED": {

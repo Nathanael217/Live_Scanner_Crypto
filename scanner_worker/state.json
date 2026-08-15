@@ -503,14 +503,6 @@
     "symbol": "GUNUSDT",
     "tf": "4h"
   },
-  "HMSTRUSDT_4h_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-08T13:08:21.490954+00:00",
-    "symbol": "HMSTRUSDT",
-    "tf": "4h"
-  },
   "HOMEUSDT_4h_long__CT5_RELAXED": {
     "combo": "CT5",
     "dir": "long",
@@ -647,14 +639,6 @@
     "symbol": "LUNAUSDT",
     "tf": "1d"
   },
-  "MAGICUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-08T16:48:51.048083+00:00",
-    "symbol": "MAGICUSDT",
-    "tf": "4h"
-  },
   "MAVUSDT_4h_long__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "long",
@@ -759,6 +743,14 @@
     "symbol": "NILUSDT",
     "tf": "4h"
   },
+  "NOTUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-15T20:35:15.113486+00:00",
+    "symbol": "NOTUSDT",
+    "tf": "4h"
+  },
   "NVDABUSDT_4h_short__CT3_LOOSE": {
     "combo": "CT3",
     "dir": "short",
@@ -805,14 +797,6 @@
     "level": "STRICT",
     "sent_at": "2026-08-09T16:49:25.907824+00:00",
     "symbol": "PEOPLEUSDT",
-    "tf": "4h"
-  },
-  "PHAUSDT_4h_long__CT5_LOOSE": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-08T13:08:22.175097+00:00",
-    "symbol": "PHAUSDT",
     "tf": "4h"
   },
   "PIXELUSDT_4h_long__CT5_STRICT": {

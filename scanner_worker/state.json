@@ -583,6 +583,14 @@
     "symbol": "KGSTUSDT",
     "tf": "4h"
   },
+  "LINKUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-15T04:42:08.173004+00:00",
+    "symbol": "LINKUSDT",
+    "tf": "4h"
+  },
   "LISTAUSDT_4h_short__CT4_STRICT": {
     "combo": "CT4",
     "dir": "short",
@@ -733,14 +741,6 @@
     "level": "RELAXED",
     "sent_at": "2026-08-12T17:08:06.699230+00:00",
     "symbol": "NBISBUSDT",
-    "tf": "4h"
-  },
-  "NILUSDT_4h_short__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-08T02:14:53.855617+00:00",
-    "symbol": "NILUSDT",
     "tf": "4h"
   },
   "NVDABUSDT_4h_short__CT3_LOOSE": {
@@ -951,6 +951,22 @@
     "symbol": "ROBOUSDT",
     "tf": "4h"
   },
+  "ROBOUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-15T04:42:08.884363+00:00",
+    "symbol": "ROBOUSDT",
+    "tf": "4h"
+  },
+  "ROBOUSDT_4h_long__CT6_RELAXED": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-15T04:42:09.585751+00:00",
+    "symbol": "ROBOUSDT",
+    "tf": "4h"
+  },
   "ROBOUSDT_4h_short__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "short",
@@ -1077,6 +1093,30 @@
     "level": "RELAXED",
     "sent_at": "2026-08-10T02:29:37.551854+00:00",
     "symbol": "STRKUSDT",
+    "tf": "4h"
+  },
+  "THETAUSDT_4h_long__CT5_STRICT": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-15T04:42:10.420438+00:00",
+    "symbol": "THETAUSDT",
+    "tf": "4h"
+  },
+  "THETAUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-15T04:42:11.101754+00:00",
+    "symbol": "THETAUSDT",
+    "tf": "4h"
+  },
+  "THETAUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-15T04:42:11.814457+00:00",
+    "symbol": "THETAUSDT",
     "tf": "4h"
   },
   "TLMUSDT_4h_short__CT3_LOOSE": {

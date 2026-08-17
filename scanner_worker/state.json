@@ -279,6 +279,14 @@
     "symbol": "CVXUSDT",
     "tf": "4h"
   },
+  "DRAMBUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-17T08:56:19.426186+00:00",
+    "symbol": "DRAMBUSDT",
+    "tf": "4h"
+  },
   "DRAMBUSDT_4h_short__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "short",
@@ -471,6 +479,22 @@
     "symbol": "KGSTUSDT",
     "tf": "4h"
   },
+  "KORUBUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-17T08:56:20.891097+00:00",
+    "symbol": "KORUBUSDT",
+    "tf": "4h"
+  },
+  "KORUBUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-17T08:56:21.387428+00:00",
+    "symbol": "KORUBUSDT",
+    "tf": "4h"
+  },
   "LINKUSDT_4h_long__CT7_RELAXED": {
     "combo": "CT7",
     "dir": "long",
@@ -599,6 +623,14 @@
     "symbol": "MORPHOUSDT",
     "tf": "4h"
   },
+  "MORPHOUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-17T08:56:19.911275+00:00",
+    "symbol": "MORPHOUSDT",
+    "tf": "4h"
+  },
   "MOVEUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -613,6 +645,22 @@
     "level": "LOOSE",
     "sent_at": "2026-08-10T17:04:45.092463+00:00",
     "symbol": "MSTRBUSDT",
+    "tf": "4h"
+  },
+  "MUBUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-17T08:56:18.332957+00:00",
+    "symbol": "MUBUSDT",
+    "tf": "4h"
+  },
+  "MUBUSDT_4h_long__CT7_STRICT": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-17T08:56:18.836418+00:00",
+    "symbol": "MUBUSDT",
     "tf": "4h"
   },
   "NBISBUSDT_4h_long__C6A-N_RELAXED": {
@@ -917,6 +965,14 @@
     "level": "LOOSE",
     "sent_at": "2026-08-10T17:04:43.125073+00:00",
     "symbol": "SOLUSDT",
+    "tf": "4h"
+  },
+  "SOXLBUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-17T08:56:20.409814+00:00",
+    "symbol": "SOXLBUSDT",
     "tf": "4h"
   },
   "SOXLBUSDT_4h_short__C6A-A_RELAXED": {

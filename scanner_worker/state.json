@@ -295,20 +295,12 @@
     "symbol": "DRAMBUSDT",
     "tf": "4h"
   },
-  "EIGENUSDT_4h_long__C6A-N_LOOSE": {
+  "ENSUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
-    "dir": "long",
+    "dir": "short",
     "level": "LOOSE",
-    "sent_at": "2026-08-10T09:44:20.461480+00:00",
-    "symbol": "EIGENUSDT",
-    "tf": "4h"
-  },
-  "ERAUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-10T09:44:19.539784+00:00",
-    "symbol": "ERAUSDT",
+    "sent_at": "2026-08-17T13:02:29.491960+00:00",
+    "symbol": "ENSUSDT",
     "tf": "4h"
   },
   "ESPUSDT_4h_short__C6A-A_LOOSE": {

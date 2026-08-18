@@ -551,14 +551,6 @@
     "symbol": "MEGAUSDT",
     "tf": "1d"
   },
-  "MEGAUSDT_4h_short__CT3_RELAXED": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-08-11T13:35:47.832954+00:00",
-    "symbol": "MEGAUSDT",
-    "tf": "4h"
-  },
   "MEUSDT_1d_short__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "short",
@@ -636,6 +628,14 @@
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-08-12T17:08:06.699230+00:00",
+    "symbol": "NBISBUSDT",
+    "tf": "4h"
+  },
+  "NBISBUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-08-18T16:44:18.367752+00:00",
     "symbol": "NBISBUSDT",
     "tf": "4h"
   },
@@ -1085,14 +1085,6 @@
     "level": "LOOSE",
     "sent_at": "2026-08-14T13:34:52.372463+00:00",
     "symbol": "UNIUSDT",
-    "tf": "4h"
-  },
-  "USTCUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-11T13:35:48.378296+00:00",
-    "symbol": "USTCUSDT",
     "tf": "4h"
   },
   "USUALUSDT_4h_short__C6A-N_LOOSE": {

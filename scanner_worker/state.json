@@ -15,14 +15,6 @@
     "symbol": "0GUSDT",
     "tf": "4h"
   },
-  "1MBABYDOGEUSDT_1d_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-12T02:38:54.103191+00:00",
-    "symbol": "1MBABYDOGEUSDT",
-    "tf": "1d"
-  },
   "ACEUSDT_4h_long__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "long",
@@ -110,6 +102,14 @@
     "sent_at": "2026-08-14T02:39:19.114318+00:00",
     "symbol": "ATOMUSDT",
     "tf": "1d"
+  },
+  "ATUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-08-19T04:48:05.878437+00:00",
+    "symbol": "ATUSDT",
+    "tf": "4h"
   },
   "AVNTUSDT_4h_long__CT5_RELAXED": {
     "combo": "CT5",
@@ -519,22 +519,6 @@
     "symbol": "MAVUSDT",
     "tf": "4h"
   },
-  "MEGAUSDT_1d_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-12T02:38:53.021443+00:00",
-    "symbol": "MEGAUSDT",
-    "tf": "1d"
-  },
-  "MEUSDT_1d_short__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-08-12T02:38:55.192486+00:00",
-    "symbol": "MEUSDT",
-    "tf": "1d"
-  },
   "MIRAUSDT_4h_short__CT1_LOOSE": {
     "combo": "CT1",
     "dir": "short",
@@ -589,14 +573,6 @@
     "level": "STRICT",
     "sent_at": "2026-08-17T08:56:18.836418+00:00",
     "symbol": "MUBUSDT",
-    "tf": "4h"
-  },
-  "NBISBUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-12T02:38:53.561936+00:00",
-    "symbol": "NBISBUSDT",
     "tf": "4h"
   },
   "NBISBUSDT_4h_long__CT5_RELAXED": {
@@ -798,14 +774,6 @@
     "sent_at": "2026-08-18T04:47:05.628062+00:00",
     "symbol": "QQQBUSDT",
     "tf": "4h"
-  },
-  "RAREUSDT_1d_short__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-08-12T02:38:54.657101+00:00",
-    "symbol": "RAREUSDT",
-    "tf": "1d"
   },
   "RAREUSDT_4h_short__CT3_LOOSE": {
     "combo": "CT3",

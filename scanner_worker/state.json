@@ -711,6 +711,22 @@
     "symbol": "DRAMBUSDT",
     "tf": "4h"
   },
+  "DUSKUSDT_4h_long__C6A-A_STRICT": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-23T16:38:26.092501+00:00",
+    "symbol": "DUSKUSDT",
+    "tf": "4h"
+  },
+  "DUSKUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-23T16:38:25.587757+00:00",
+    "symbol": "DUSKUSDT",
+    "tf": "4h"
+  },
   "DUSKUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -1567,6 +1583,14 @@
     "symbol": "MORPHOUSDT",
     "tf": "4h"
   },
+  "MORPHOUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-23T16:38:22.558007+00:00",
+    "symbol": "MORPHOUSDT",
+    "tf": "4h"
+  },
   "MSTRBUSDT_4h_long__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "long",
@@ -2124,6 +2148,30 @@
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-08-19T20:39:52.060357+00:00",
+    "symbol": "SPKUSDT",
+    "tf": "4h"
+  },
+  "SPKUSDT_4h_long__CT5_STRICT": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-23T16:38:23.048091+00:00",
+    "symbol": "SPKUSDT",
+    "tf": "4h"
+  },
+  "SPKUSDT_4h_long__CT6_RELAXED": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-23T16:38:23.559705+00:00",
+    "symbol": "SPKUSDT",
+    "tf": "4h"
+  },
+  "SPKUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-23T16:38:24.048342+00:00",
     "symbol": "SPKUSDT",
     "tf": "4h"
   },
@@ -2702,6 +2750,22 @@
     "sent_at": "2026-08-22T01:46:47.603253+00:00",
     "symbol": "ZKUSDT",
     "tf": "1d"
+  },
+  "ZKUSDT_4h_long__C6A-A_STRICT": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-23T16:38:25.095585+00:00",
+    "symbol": "ZKUSDT",
+    "tf": "4h"
+  },
+  "ZKUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-08-23T16:38:24.600532+00:00",
+    "symbol": "ZKUSDT",
+    "tf": "4h"
   },
   "ZKUSDT_4h_long__CT7_STRICT": {
     "combo": "CT7",

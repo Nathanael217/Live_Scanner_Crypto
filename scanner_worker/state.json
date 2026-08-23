@@ -791,14 +791,6 @@
     "symbol": "ESPUSDT",
     "tf": "4h"
   },
-  "ESPUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-08-16T08:42:46.077254+00:00",
-    "symbol": "ESPUSDT",
-    "tf": "4h"
-  },
   "ETCUSDT_1d_long__C6A-A_STRICT": {
     "combo": "C6A-A",
     "dir": "long",
@@ -1725,6 +1717,14 @@
     "level": "RELAXED",
     "sent_at": "2026-08-19T13:04:57.430530+00:00",
     "symbol": "NILUSDT",
+    "tf": "4h"
+  },
+  "OGUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-23T08:44:10.914719+00:00",
+    "symbol": "OGUSDT",
     "tf": "4h"
   },
   "ONDOUSDT_4h_long__C6A-A_LOOSE": {

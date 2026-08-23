@@ -559,6 +559,22 @@
     "symbol": "CFXUSDT",
     "tf": "4h"
   },
+  "CHIPUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-23T04:48:46.510467+00:00",
+    "symbol": "CHIPUSDT",
+    "tf": "4h"
+  },
+  "CHIPUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-23T04:48:45.797100+00:00",
+    "symbol": "CHIPUSDT",
+    "tf": "4h"
+  },
   "CHZUSDT_4h_long__C5B-A_STRICT": {
     "combo": "C5B-A",
     "dir": "long",
@@ -879,22 +895,6 @@
     "symbol": "FETUSDT",
     "tf": "1d"
   },
-  "FETUSDT_1d_short__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-16T01:54:30.952234+00:00",
-    "symbol": "FETUSDT",
-    "tf": "1d"
-  },
-  "FETUSDT_1d_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-16T01:54:30.297647+00:00",
-    "symbol": "FETUSDT",
-    "tf": "1d"
-  },
   "FETUSDT_4h_long__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "long",
@@ -1029,22 +1029,6 @@
     "level": "LOOSE",
     "sent_at": "2026-08-20T13:07:19.473687+00:00",
     "symbol": "GIGGLEUSDT",
-    "tf": "4h"
-  },
-  "GMTUSDT_4h_short__C6A-A_STRICT": {
-    "combo": "C6A-A",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-08-16T01:54:32.319266+00:00",
-    "symbol": "GMTUSDT",
-    "tf": "4h"
-  },
-  "GMTUSDT_4h_short__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-08-16T01:54:31.665537+00:00",
-    "symbol": "GMTUSDT",
     "tf": "4h"
   },
   "GPSUSDT_4h_long__CT6_STRICT": {
@@ -1741,14 +1725,6 @@
     "level": "RELAXED",
     "sent_at": "2026-08-19T13:04:57.430530+00:00",
     "symbol": "NILUSDT",
-    "tf": "4h"
-  },
-  "NOTUSDT_4h_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-15T20:35:15.113486+00:00",
-    "symbol": "NOTUSDT",
     "tf": "4h"
   },
   "ONDOUSDT_4h_long__C6A-A_LOOSE": {

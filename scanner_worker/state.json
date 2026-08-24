@@ -239,14 +239,6 @@
     "symbol": "APEUSDT",
     "tf": "4h"
   },
-  "APTUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-08-17T01:51:42.908095+00:00",
-    "symbol": "APTUSDT",
-    "tf": "4h"
-  },
   "ARBUSDT_1d_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",
@@ -1999,22 +1991,6 @@
     "symbol": "PROVEUSDT",
     "tf": "4h"
   },
-  "PYRUSDT_4h_short__CT1_LOOSE": {
-    "combo": "CT1",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-17T01:51:44.405286+00:00",
-    "symbol": "PYRUSDT",
-    "tf": "4h"
-  },
-  "PYRUSDT_4h_short__CT2_RELAXED": {
-    "combo": "CT2",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-08-17T01:51:44.894284+00:00",
-    "symbol": "PYRUSDT",
-    "tf": "4h"
-  },
   "PYTHUSDT_4h_short__CT1_RELAXED": {
     "combo": "CT1",
     "dir": "short",
@@ -2046,6 +2022,22 @@
     "sent_at": "2026-08-20T20:40:22.896539+00:00",
     "symbol": "RENDERUSDT",
     "tf": "4h"
+  },
+  "REUSDT_1d_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-24T01:54:31.844819+00:00",
+    "symbol": "REUSDT",
+    "tf": "1d"
+  },
+  "REUSDT_1d_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-24T01:54:31.373088+00:00",
+    "symbol": "REUSDT",
+    "tf": "1d"
   },
   "SAGAUSDT_1d_long__C5B-A_RELAXED": {
     "combo": "C5B-A",
@@ -2148,14 +2140,6 @@
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-08-17T20:38:54.132615+00:00",
-    "symbol": "SKYUSDT",
-    "tf": "4h"
-  },
-  "SKYUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-17T01:51:43.879075+00:00",
     "symbol": "SKYUSDT",
     "tf": "4h"
   },
@@ -2566,14 +2550,6 @@
     "sent_at": "2026-08-22T08:42:57.426285+00:00",
     "symbol": "USDEUSDT",
     "tf": "4h"
-  },
-  "VICUSDT_1d_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-08-17T01:51:43.393572+00:00",
-    "symbol": "VICUSDT",
-    "tf": "1d"
   },
   "WLDUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",

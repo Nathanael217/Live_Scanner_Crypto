@@ -311,14 +311,6 @@
     "symbol": "ATOMUSDT",
     "tf": "1d"
   },
-  "ATUSDT_4h_short__CT3_LOOSE": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-19T04:48:05.878437+00:00",
-    "symbol": "ATUSDT",
-    "tf": "4h"
-  },
   "AVGOBUSDT_1d_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -685,6 +677,22 @@
     "level": "STRICT",
     "sent_at": "2026-08-23T16:38:25.587757+00:00",
     "symbol": "DUSKUSDT",
+    "tf": "4h"
+  },
+  "EDENUSDT_4h_long__CT5_RELAXED": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-26T04:52:12.900291+00:00",
+    "symbol": "EDENUSDT",
+    "tf": "4h"
+  },
+  "EDENUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-26T04:52:13.375892+00:00",
+    "symbol": "EDENUSDT",
     "tf": "4h"
   },
   "EIGENUSDT_4h_long__C5B-A_LOOSE": {

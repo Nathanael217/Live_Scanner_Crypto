@@ -471,14 +471,6 @@
     "symbol": "BTCUSDT",
     "tf": "4h"
   },
-  "CFGUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-19T08:51:05.210945+00:00",
-    "symbol": "CFGUSDT",
-    "tf": "4h"
-  },
   "CFGUSDT_4h_short__CT3_RELAXED": {
     "combo": "CT3",
     "dir": "short",
@@ -1223,14 +1215,6 @@
     "symbol": "INJUSDT",
     "tf": "4h"
   },
-  "INJUSDT_4h_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-19T08:51:04.731669+00:00",
-    "symbol": "INJUSDT",
-    "tf": "4h"
-  },
   "INJUSDT_4h_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",
@@ -1244,14 +1228,6 @@
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-08-19T20:39:49.383922+00:00",
-    "symbol": "INJUSDT",
-    "tf": "4h"
-  },
-  "INJUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-19T08:51:04.236851+00:00",
     "symbol": "INJUSDT",
     "tf": "4h"
   },
@@ -1605,6 +1581,14 @@
     "level": "STRICT",
     "sent_at": "2026-08-25T16:50:55.442124+00:00",
     "symbol": "MUBARAKUSDT",
+    "tf": "4h"
+  },
+  "MUUBUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-08-26T08:57:21.952726+00:00",
+    "symbol": "MUUBUSDT",
     "tf": "4h"
   },
   "NBISBUSDT_4h_short__C5B-N_STRICT": {

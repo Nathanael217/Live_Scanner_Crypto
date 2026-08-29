@@ -303,6 +303,14 @@
     "symbol": "HUMAUSDT",
     "tf": "4h"
   },
+  "INITUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-29T19:23:36.192677+00:00",
+    "symbol": "INITUSDT",
+    "tf": "4h"
+  },
   "INTCBUSDT_4h_short__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "short",
@@ -557,6 +565,22 @@
     "level": "STRICT",
     "sent_at": "2026-08-25T16:50:53.239272+00:00",
     "symbol": "REUSDT",
+    "tf": "4h"
+  },
+  "SCRUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-29T19:23:35.708005+00:00",
+    "symbol": "SCRUSDT",
+    "tf": "4h"
+  },
+  "SCRUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-29T19:23:35.222459+00:00",
+    "symbol": "SCRUSDT",
     "tf": "4h"
   },
   "SNXXBUSDT_4h_short__CT1_LOOSE": {

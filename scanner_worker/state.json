@@ -95,6 +95,22 @@
     "symbol": "CRCLBUSDT",
     "tf": "4h"
   },
+  "DOLOUSDT_4h_long__CT5_RELAXED": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-29T13:49:33.269652+00:00",
+    "symbol": "DOLOUSDT",
+    "tf": "4h"
+  },
+  "DOLOUSDT_4h_long__CT6_RELAXED": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-29T13:49:33.896809+00:00",
+    "symbol": "DOLOUSDT",
+    "tf": "4h"
+  },
   "DUSKUSDT_4h_long__C6A-A_STRICT": {
     "combo": "C6A-A",
     "dir": "long",
@@ -543,22 +559,6 @@
     "symbol": "REUSDT",
     "tf": "4h"
   },
-  "SHELLUSDT_1d_long__C5B-A_RELAXED": {
-    "combo": "C5B-A",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-22T12:57:06.491455+00:00",
-    "symbol": "SHELLUSDT",
-    "tf": "1d"
-  },
-  "SHELLUSDT_1d_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-22T12:57:07.007230+00:00",
-    "symbol": "SHELLUSDT",
-    "tf": "1d"
-  },
   "SNXXBUSDT_4h_short__CT1_LOOSE": {
     "combo": "CT1",
     "dir": "short",
@@ -647,22 +647,6 @@
     "symbol": "TAOUSDT",
     "tf": "4h"
   },
-  "TNSRUSDT_1d_long__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-22T08:42:58.414688+00:00",
-    "symbol": "TNSRUSDT",
-    "tf": "1d"
-  },
-  "TNSRUSDT_1d_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-08-22T08:42:57.931492+00:00",
-    "symbol": "TNSRUSDT",
-    "tf": "1d"
-  },
   "TRBUSDT_4h_short__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "short",
@@ -693,14 +677,6 @@
     "level": "LOOSE",
     "sent_at": "2026-08-27T22:13:48.571412+00:00",
     "symbol": "TWTUSDT",
-    "tf": "4h"
-  },
-  "USDEUSDT_4h_short__CT4_STRICT": {
-    "combo": "CT4",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-08-22T08:42:57.426285+00:00",
-    "symbol": "USDEUSDT",
     "tf": "4h"
   },
   "VETUSDT_1d_long__C6A-A_LOOSE": {

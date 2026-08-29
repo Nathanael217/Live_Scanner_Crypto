@@ -303,6 +303,22 @@
     "symbol": "HUMAUSDT",
     "tf": "4h"
   },
+  "HUMAUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-29T22:38:00.377425+00:00",
+    "symbol": "HUMAUSDT",
+    "tf": "4h"
+  },
+  "HUMAUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-29T22:37:59.840894+00:00",
+    "symbol": "HUMAUSDT",
+    "tf": "4h"
+  },
   "INITUSDT_4h_long__CT7_RELAXED": {
     "combo": "CT7",
     "dir": "long",

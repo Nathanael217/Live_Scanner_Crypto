@@ -79,6 +79,38 @@
     "symbol": "BNSOLUSDT",
     "tf": "1d"
   },
+  "CBRSBUSDT_4h_long__C5B-A_LOOSE": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-31T23:47:02.957346+00:00",
+    "symbol": "CBRSBUSDT",
+    "tf": "4h"
+  },
+  "CBRSBUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-08-31T23:47:03.608239+00:00",
+    "symbol": "CBRSBUSDT",
+    "tf": "4h"
+  },
+  "CBRSBUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-31T23:47:02.287816+00:00",
+    "symbol": "CBRSBUSDT",
+    "tf": "4h"
+  },
+  "CBRSBUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-31T23:47:01.634428+00:00",
+    "symbol": "CBRSBUSDT",
+    "tf": "4h"
+  },
   "CHIPUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",
@@ -223,14 +255,6 @@
     "symbol": "HEMIUSDT",
     "tf": "4h"
   },
-  "HEMIUSDT_4h_short__CT3_LOOSE": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-24T20:43:22.295340+00:00",
-    "symbol": "HEMIUSDT",
-    "tf": "4h"
-  },
   "HUMAUSDT_4h_long__C5B-A_STRICT": {
     "combo": "C5B-A",
     "dir": "long",
@@ -325,14 +349,6 @@
     "level": "LOOSE",
     "sent_at": "2026-08-30T19:17:59.604047+00:00",
     "symbol": "MAGICUSDT",
-    "tf": "4h"
-  },
-  "MITOUSDT_4h_short__CT3_RELAXED": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-08-24T20:43:22.814253+00:00",
-    "symbol": "MITOUSDT",
     "tf": "4h"
   },
   "MOVRUSDT_4h_short__C5B-N_RELAXED": {
@@ -612,6 +628,14 @@
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-08-27T22:13:48.571412+00:00",
+    "symbol": "TWTUSDT",
+    "tf": "4h"
+  },
+  "TWTUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-08-31T23:47:00.987471+00:00",
     "symbol": "TWTUSDT",
     "tf": "4h"
   },

@@ -455,6 +455,14 @@
     "symbol": "ENSOUSDT",
     "tf": "4h"
   },
+  "FILUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-09-04T18:59:13.496256+00:00",
+    "symbol": "FILUSDT",
+    "tf": "4h"
+  },
   "FLOKIUSDT_4h_long__CT6_LOOSE": {
     "combo": "CT6",
     "dir": "long",
@@ -525,6 +533,14 @@
     "level": "RELAXED",
     "sent_at": "2026-08-29T19:23:36.192677+00:00",
     "symbol": "INITUSDT",
+    "tf": "4h"
+  },
+  "JTOUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-09-04T18:59:13.999624+00:00",
+    "symbol": "JTOUSDT",
     "tf": "4h"
   },
   "KATUSDT_4h_long__CT5_LOOSE": {
@@ -719,6 +735,22 @@
     "symbol": "PEPEUSDT",
     "tf": "4h"
   },
+  "PORTALUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-04T18:59:12.995948+00:00",
+    "symbol": "PORTALUSDT",
+    "tf": "4h"
+  },
+  "PORTALUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-04T18:59:12.497556+00:00",
+    "symbol": "PORTALUSDT",
+    "tf": "4h"
+  },
   "REDUSDT_1d_long__C5B-A_RELAXED": {
     "combo": "C5B-A",
     "dir": "long",
@@ -847,6 +879,14 @@
     "symbol": "SPYBUSDT",
     "tf": "4h"
   },
+  "SPYBUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-09-04T18:59:14.497911+00:00",
+    "symbol": "SPYBUSDT",
+    "tf": "4h"
+  },
   "SYNUSDT_4h_short__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "short",
@@ -909,6 +949,22 @@
     "level": "LOOSE",
     "sent_at": "2026-09-03T19:17:17.332822+00:00",
     "symbol": "TSLABUSDT",
+    "tf": "4h"
+  },
+  "TUTUSDT_4h_short__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-09-04T18:59:12.012501+00:00",
+    "symbol": "TUTUSDT",
+    "tf": "4h"
+  },
+  "TUTUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-09-04T18:59:11.526255+00:00",
+    "symbol": "TUTUSDT",
     "tf": "4h"
   },
   "TWTUSDT_4h_long__CT7_RELAXED": {

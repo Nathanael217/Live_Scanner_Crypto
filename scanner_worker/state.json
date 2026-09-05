@@ -239,6 +239,22 @@
     "symbol": "BROCCOLI714USDT",
     "tf": "4h"
   },
+  "CAKEUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-05T15:06:50.320853+00:00",
+    "symbol": "CAKEUSDT",
+    "tf": "4h"
+  },
+  "CAKEUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-05T15:06:49.578273+00:00",
+    "symbol": "CAKEUSDT",
+    "tf": "4h"
+  },
   "CAKEUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -493,22 +509,6 @@
     "level": "RELAXED",
     "sent_at": "2026-08-30T19:18:00.668168+00:00",
     "symbol": "DODOUSDT",
-    "tf": "4h"
-  },
-  "DOLOUSDT_4h_long__CT5_RELAXED": {
-    "combo": "CT5",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-29T13:49:33.269652+00:00",
-    "symbol": "DOLOUSDT",
-    "tf": "4h"
-  },
-  "DOLOUSDT_4h_long__CT6_RELAXED": {
-    "combo": "CT6",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-29T13:49:33.896809+00:00",
-    "symbol": "DOLOUSDT",
     "tf": "4h"
   },
   "EDUUSDT_4h_long__C5B-A_STRICT": {

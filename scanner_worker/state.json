@@ -223,20 +223,20 @@
     "symbol": "BABYUSDT",
     "tf": "4h"
   },
-  "BBUSDT_4h_long__CT6_RELAXED": {
-    "combo": "CT6",
+  "BONKUSDT_4h_long__C6A-A_STRICT": {
+    "combo": "C6A-A",
     "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-30T13:47:06.325374+00:00",
-    "symbol": "BBUSDT",
+    "level": "STRICT",
+    "sent_at": "2026-09-06T18:14:51.508198+00:00",
+    "symbol": "BONKUSDT",
     "tf": "4h"
   },
-  "BBUSDT_4h_long__CT7_RELAXED": {
-    "combo": "CT7",
+  "BONKUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
     "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-30T13:47:06.902446+00:00",
-    "symbol": "BBUSDT",
+    "level": "STRICT",
+    "sent_at": "2026-09-06T18:14:50.858972+00:00",
+    "symbol": "BONKUSDT",
     "tf": "4h"
   },
   "BROCCOLI714USDT_4h_long__C6A-A_LOOSE": {
@@ -695,6 +695,14 @@
     "symbol": "GENIUSUSDT",
     "tf": "4h"
   },
+  "GMXUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-09-06T18:14:52.163535+00:00",
+    "symbol": "GMXUSDT",
+    "tf": "4h"
+  },
   "HBARUSDT_1d_long__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "long",
@@ -845,14 +853,6 @@
     "level": "STRICT",
     "sent_at": "2026-09-01T13:28:35.864758+00:00",
     "symbol": "MITOUSDT",
-    "tf": "4h"
-  },
-  "MOVRUSDT_4h_short__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-08-30T13:47:05.741003+00:00",
-    "symbol": "MOVRUSDT",
     "tf": "4h"
   },
   "MRVLBUSDT_4h_long__C6A-A_LOOSE": {
@@ -1030,22 +1030,6 @@
     "sent_at": "2026-09-02T04:21:31.414981+00:00",
     "symbol": "SEIUSDT",
     "tf": "1d"
-  },
-  "SKYUSDT_4h_long__C6A-A_RELAXED": {
-    "combo": "C6A-A",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-30T13:47:08.081578+00:00",
-    "symbol": "SKYUSDT",
-    "tf": "4h"
-  },
-  "SKYUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-08-30T13:47:07.488899+00:00",
-    "symbol": "SKYUSDT",
-    "tf": "4h"
   },
   "SOMIUSDT_4h_long__C6A-A_RELAXED": {
     "combo": "C6A-A",

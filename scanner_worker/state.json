@@ -887,6 +887,14 @@
     "symbol": "NEARUSDT",
     "tf": "1d"
   },
+  "NIGHTUSDT_4h_short__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-09-07T04:27:07.213192+00:00",
+    "symbol": "NIGHTUSDT",
+    "tf": "4h"
+  },
   "NVDABUSDT_4h_long__CT6_RELAXED": {
     "combo": "CT6",
     "dir": "long",
@@ -989,6 +997,22 @@
     "level": "RELAXED",
     "sent_at": "2026-09-02T04:21:32.947881+00:00",
     "symbol": "REDUSDT",
+    "tf": "1d"
+  },
+  "RENDERUSDT_1d_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-07T04:27:06.566635+00:00",
+    "symbol": "RENDERUSDT",
+    "tf": "1d"
+  },
+  "RENDERUSDT_1d_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-07T04:27:05.924721+00:00",
+    "symbol": "RENDERUSDT",
     "tf": "1d"
   },
   "SAHARAUSDT_4h_short__CT4_LOOSE": {
@@ -1159,6 +1183,22 @@
     "symbol": "SYRUPUSDT",
     "tf": "4h"
   },
+  "TAOUSDT_1d_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-07T04:27:03.812037+00:00",
+    "symbol": "TAOUSDT",
+    "tf": "1d"
+  },
+  "TAOUSDT_1d_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-07T04:27:03.153382+00:00",
+    "symbol": "TAOUSDT",
+    "tf": "1d"
+  },
   "TRBUSDT_4h_long__CT7_STRICT": {
     "combo": "CT7",
     "dir": "long",
@@ -1269,6 +1309,22 @@
     "level": "RELAXED",
     "sent_at": "2026-09-02T04:21:30.887298+00:00",
     "symbol": "UNIUSDT",
+    "tf": "1d"
+  },
+  "VIRTUALUSDT_1d_long__C6A-A_STRICT": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-09-07T04:27:05.142811+00:00",
+    "symbol": "VIRTUALUSDT",
+    "tf": "1d"
+  },
+  "VIRTUALUSDT_1d_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-09-07T04:27:04.484986+00:00",
+    "symbol": "VIRTUALUSDT",
     "tf": "1d"
   },
   "ZAMAUSDT_4h_long__CT5_RELAXED": {

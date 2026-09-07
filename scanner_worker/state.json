@@ -1,12 +1,4 @@
 {
-  "0GUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-08-31T16:08:00.076012+00:00",
-    "symbol": "0GUSDT",
-    "tf": "4h"
-  },
   "1000CATUSDT_1d_long__C5B-A_RELAXED": {
     "combo": "C5B-A",
     "dir": "long",
@@ -695,6 +687,38 @@
     "symbol": "HBARUSDT",
     "tf": "1d"
   },
+  "HBARUSDT_4h_long__C5B-A_RELAXED": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-07T22:46:43.586731+00:00",
+    "symbol": "HBARUSDT",
+    "tf": "4h"
+  },
+  "HBARUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-07T22:46:44.135931+00:00",
+    "symbol": "HBARUSDT",
+    "tf": "4h"
+  },
+  "HBARUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-07T22:46:43.041445+00:00",
+    "symbol": "HBARUSDT",
+    "tf": "4h"
+  },
+  "HBARUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-07T22:46:42.506712+00:00",
+    "symbol": "HBARUSDT",
+    "tf": "4h"
+  },
   "HOODBUSDT_4h_long__CT6_RELAXED": {
     "combo": "CT6",
     "dir": "long",
@@ -742,6 +766,22 @@
     "sent_at": "2026-09-03T04:16:18.811817+00:00",
     "symbol": "KITEUSDT",
     "tf": "1d"
+  },
+  "KORUBUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-07T22:46:44.680142+00:00",
+    "symbol": "KORUBUSDT",
+    "tf": "4h"
+  },
+  "KORUBUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-07T22:46:45.211856+00:00",
+    "symbol": "KORUBUSDT",
+    "tf": "4h"
   },
   "LAYERUSDT_4h_short__CT3_RELAXED": {
     "combo": "CT3",
@@ -1262,6 +1302,22 @@
     "sent_at": "2026-09-02T04:21:30.887298+00:00",
     "symbol": "UNIUSDT",
     "tf": "1d"
+  },
+  "VELODROMEUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-07T22:46:45.794350+00:00",
+    "symbol": "VELODROMEUSDT",
+    "tf": "4h"
+  },
+  "VELODROMEUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-07T22:46:46.358692+00:00",
+    "symbol": "VELODROMEUSDT",
+    "tf": "4h"
   },
   "VIRTUALUSDT_1d_long__C6A-A_STRICT": {
     "combo": "C6A-A",

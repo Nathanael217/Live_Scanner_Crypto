@@ -159,6 +159,22 @@
     "symbol": "ARUSDT",
     "tf": "4h"
   },
+  "ATOMUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-08T12:51:09.333013+00:00",
+    "symbol": "ATOMUSDT",
+    "tf": "4h"
+  },
+  "ATOMUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-08T12:51:08.767370+00:00",
+    "symbol": "ATOMUSDT",
+    "tf": "4h"
+  },
   "AVAUSDT_4h_short__CT4_RELAXED": {
     "combo": "CT4",
     "dir": "short",
@@ -1269,14 +1285,6 @@
     "level": "RELAXED",
     "sent_at": "2026-09-05T18:12:37.202643+00:00",
     "symbol": "SUSHIUSDT",
-    "tf": "4h"
-  },
-  "SYNUSDT_4h_short__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-09-01T04:58:24.217715+00:00",
-    "symbol": "SYNUSDT",
     "tf": "4h"
   },
   "SYRUPUSDT_4h_long__C5B-A_LOOSE": {

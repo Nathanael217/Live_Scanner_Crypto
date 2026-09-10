@@ -263,6 +263,14 @@
     "symbol": "BABYUSDT",
     "tf": "4h"
   },
+  "BBUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-09-10T19:06:51.844928+00:00",
+    "symbol": "BBUSDT",
+    "tf": "4h"
+  },
   "BEBUSDT_4h_long__C5B-A_RELAXED": {
     "combo": "C5B-A",
     "dir": "long",
@@ -348,6 +356,14 @@
     "dir": "long",
     "level": "RELAXED",
     "sent_at": "2026-09-05T15:06:49.578273+00:00",
+    "symbol": "CAKEUSDT",
+    "tf": "4h"
+  },
+  "CAKEUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-09-10T19:06:50.373203+00:00",
     "symbol": "CAKEUSDT",
     "tf": "4h"
   },
@@ -871,6 +887,14 @@
     "symbol": "KORUBUSDT",
     "tf": "4h"
   },
+  "KORUBUSDT_4h_short__CT4_LOOSE": {
+    "combo": "CT4",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-09-10T19:06:51.353185+00:00",
+    "symbol": "KORUBUSDT",
+    "tf": "4h"
+  },
   "LAYERUSDT_4h_short__CT3_RELAXED": {
     "combo": "CT3",
     "dir": "short",
@@ -1287,6 +1311,14 @@
     "symbol": "SKHYBUSDT",
     "tf": "4h"
   },
+  "SNXXBUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-09-10T19:06:50.849550+00:00",
+    "symbol": "SNXXBUSDT",
+    "tf": "4h"
+  },
   "SOMIUSDT_4h_long__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "long",
@@ -1439,6 +1471,14 @@
     "symbol": "TAOUSDT",
     "tf": "1d"
   },
+  "TAOUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-09-10T19:06:49.834141+00:00",
+    "symbol": "TAOUSDT",
+    "tf": "4h"
+  },
   "TRBUSDT_4h_long__CT7_STRICT": {
     "combo": "CT7",
     "dir": "long",
@@ -1580,6 +1620,14 @@
     "dir": "long",
     "level": "STRICT",
     "sent_at": "2026-09-06T04:28:17.154222+00:00",
+    "symbol": "ZECUSDT",
+    "tf": "4h"
+  },
+  "ZECUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-09-10T19:06:49.357912+00:00",
     "symbol": "ZECUSDT",
     "tf": "4h"
   },

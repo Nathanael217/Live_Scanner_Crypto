@@ -151,6 +151,22 @@
     "symbol": "BCHUSDT",
     "tf": "4h"
   },
+  "BEAMXUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-13T18:45:58.642639+00:00",
+    "symbol": "BEAMXUSDT",
+    "tf": "4h"
+  },
+  "BEAMXUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-13T18:45:58.094164+00:00",
+    "symbol": "BEAMXUSDT",
+    "tf": "4h"
+  },
   "BEBUSDT_4h_long__C5B-A_RELAXED": {
     "combo": "C5B-A",
     "dir": "long",
@@ -207,28 +223,28 @@
     "symbol": "BONKUSDT",
     "tf": "1d"
   },
-  "BONKUSDT_4h_long__C6A-A_STRICT": {
-    "combo": "C6A-A",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-09-06T18:14:51.508198+00:00",
-    "symbol": "BONKUSDT",
-    "tf": "4h"
-  },
-  "BONKUSDT_4h_long__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-09-06T18:14:50.858972+00:00",
-    "symbol": "BONKUSDT",
-    "tf": "4h"
-  },
   "CAKEUSDT_4h_short__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "short",
     "level": "LOOSE",
     "sent_at": "2026-09-10T19:06:50.373203+00:00",
     "symbol": "CAKEUSDT",
+    "tf": "4h"
+  },
+  "CELOUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-13T18:45:57.552867+00:00",
+    "symbol": "CELOUSDT",
+    "tf": "4h"
+  },
+  "CELOUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-13T18:45:56.969072+00:00",
+    "symbol": "CELOUSDT",
     "tf": "4h"
   },
   "COMPUSDT_4h_short__C5B-N_LOOSE": {
@@ -349,14 +365,6 @@
     "level": "STRICT",
     "sent_at": "2026-09-09T19:15:35.043989+00:00",
     "symbol": "GMEBUSDT",
-    "tf": "4h"
-  },
-  "GMXUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-09-06T18:14:52.163535+00:00",
-    "symbol": "GMXUSDT",
     "tf": "4h"
   },
   "GOOGLBUSDT_4h_short__CT4_STRICT": {

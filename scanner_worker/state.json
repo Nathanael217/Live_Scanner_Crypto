@@ -103,6 +103,14 @@
     "symbol": "AVGOBUSDT",
     "tf": "4h"
   },
+  "AVGOBUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-09-14T20:17:53.860589+00:00",
+    "symbol": "AVGOBUSDT",
+    "tf": "4h"
+  },
   "AVNTUSDT_4h_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",
@@ -1021,6 +1029,14 @@
     "level": "RELAXED",
     "sent_at": "2026-09-10T19:06:49.834141+00:00",
     "symbol": "TAOUSDT",
+    "tf": "4h"
+  },
+  "THEUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-09-14T20:17:53.319661+00:00",
+    "symbol": "THEUSDT",
     "tf": "4h"
   },
   "VELODROMEUSDT_4h_long__CT6_LOOSE": {

@@ -79,22 +79,6 @@
     "symbol": "ARKUSDT",
     "tf": "4h"
   },
-  "ATOMUSDT_4h_long__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-09-08T12:51:09.333013+00:00",
-    "symbol": "ATOMUSDT",
-    "tf": "4h"
-  },
-  "ATOMUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-09-08T12:51:08.767370+00:00",
-    "symbol": "ATOMUSDT",
-    "tf": "4h"
-  },
   "AVGOBUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -279,6 +263,14 @@
     "symbol": "CVCUSDT",
     "tf": "4h"
   },
+  "CVXUSDT_4h_short__CT3_STRICT": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-09-15T13:28:46.899477+00:00",
+    "symbol": "CVXUSDT",
+    "tf": "4h"
+  },
   "ENSUSDT_4h_long__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "long",
@@ -423,6 +415,38 @@
     "symbol": "KMNOUSDT",
     "tf": "4h"
   },
+  "KNCUSDT_4h_long__C5B-A_LOOSE": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-15T13:28:45.494021+00:00",
+    "symbol": "KNCUSDT",
+    "tf": "4h"
+  },
+  "KNCUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-09-15T13:28:46.214346+00:00",
+    "symbol": "KNCUSDT",
+    "tf": "4h"
+  },
+  "KNCUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-15T13:28:44.751873+00:00",
+    "symbol": "KNCUSDT",
+    "tf": "4h"
+  },
+  "KNCUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-15T13:28:44.072147+00:00",
+    "symbol": "KNCUSDT",
+    "tf": "4h"
+  },
   "KORUBUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "short",
@@ -453,6 +477,22 @@
     "level": "LOOSE",
     "sent_at": "2026-09-12T04:26:44.368952+00:00",
     "symbol": "LSKUSDT",
+    "tf": "4h"
+  },
+  "MINAUSDT_4h_long__C6A-A_STRICT": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-09-15T13:28:43.394766+00:00",
+    "symbol": "MINAUSDT",
+    "tf": "4h"
+  },
+  "MINAUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-09-15T13:28:42.706081+00:00",
+    "symbol": "MINAUSDT",
     "tf": "4h"
   },
   "MINAUSDT_4h_short__C6A-N_LOOSE": {

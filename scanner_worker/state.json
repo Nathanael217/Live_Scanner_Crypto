@@ -63,6 +63,22 @@
     "symbol": "ARKUSDT",
     "tf": "4h"
   },
+  "ARUSDT_4h_long__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-18T22:32:56.381876+00:00",
+    "symbol": "ARUSDT",
+    "tf": "4h"
+  },
+  "ARUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-18T22:32:55.693682+00:00",
+    "symbol": "ARUSDT",
+    "tf": "4h"
+  },
   "ATOMUSDT_4h_long__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "long",
@@ -111,20 +127,12 @@
     "symbol": "AVGOBUSDT",
     "tf": "4h"
   },
-  "BABYUSDT_4h_long__C6A-A_LOOSE": {
-    "combo": "C6A-A",
-    "dir": "long",
+  "BANKUSDT_4h_short__CT4_LOOSE": {
+    "combo": "CT4",
+    "dir": "short",
     "level": "LOOSE",
-    "sent_at": "2026-09-11T19:09:00.005906+00:00",
-    "symbol": "BABYUSDT",
-    "tf": "4h"
-  },
-  "BABYUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-09-11T19:08:59.344510+00:00",
-    "symbol": "BABYUSDT",
+    "sent_at": "2026-09-18T22:32:55.057110+00:00",
+    "symbol": "BANKUSDT",
     "tf": "4h"
   },
   "BCHUSDT_4h_short__C6A-N_LOOSE": {
@@ -189,6 +197,22 @@
     "level": "RELAXED",
     "sent_at": "2026-09-13T18:45:56.969072+00:00",
     "symbol": "CELOUSDT",
+    "tf": "4h"
+  },
+  "COHRBUSDT_4h_long__C5B-A_RELAXED": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-18T22:32:57.018220+00:00",
+    "symbol": "COHRBUSDT",
+    "tf": "4h"
+  },
+  "COHRBUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-09-18T22:32:57.675427+00:00",
+    "symbol": "COHRBUSDT",
     "tf": "4h"
   },
   "COINBUSDT_1d_long__C6A-A_RELAXED": {
@@ -525,22 +549,6 @@
     "level": "STRICT",
     "sent_at": "2026-09-17T19:42:33.819999+00:00",
     "symbol": "INTCBUSDT",
-    "tf": "4h"
-  },
-  "KAITOUSDT_4h_long__C6A-A_RELAXED": {
-    "combo": "C6A-A",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-09-11T19:08:58.485933+00:00",
-    "symbol": "KAITOUSDT",
-    "tf": "4h"
-  },
-  "KAITOUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-09-11T19:08:57.820701+00:00",
-    "symbol": "KAITOUSDT",
     "tf": "4h"
   },
   "KNCUSDT_4h_long__C5B-A_LOOSE": {

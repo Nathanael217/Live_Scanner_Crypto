@@ -599,22 +599,6 @@
     "symbol": "ETHFIUSDT",
     "tf": "4h"
   },
-  "EURUSDT_4h_short__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-09-14T04:47:32.398317+00:00",
-    "symbol": "EURUSDT",
-    "tf": "4h"
-  },
-  "EURUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-09-14T04:47:31.911852+00:00",
-    "symbol": "EURUSDT",
-    "tf": "4h"
-  },
   "EWYBUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",
@@ -933,6 +917,22 @@
     "level": "LOOSE",
     "sent_at": "2026-09-14T14:59:26.006014+00:00",
     "symbol": "MINAUSDT",
+    "tf": "4h"
+  },
+  "MORPHOUSDT_4h_long__C5B-A_STRICT": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-09-21T04:47:31.694991+00:00",
+    "symbol": "MORPHOUSDT",
+    "tf": "4h"
+  },
+  "MORPHOUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-09-21T04:47:32.301682+00:00",
+    "symbol": "MORPHOUSDT",
     "tf": "4h"
   },
   "MRVLBUSDT_4h_short__C6A-N_STRICT": {
@@ -1669,6 +1669,14 @@
     "level": "RELAXED",
     "sent_at": "2026-09-15T19:41:06.508565+00:00",
     "symbol": "TUTUSDT",
+    "tf": "4h"
+  },
+  "USDEUSDT_4h_short__CT4_STRICT": {
+    "combo": "CT4",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-09-21T04:47:33.034820+00:00",
+    "symbol": "USDEUSDT",
     "tf": "4h"
   },
   "UUSDT_1d_long__C6A-A_RELAXED": {

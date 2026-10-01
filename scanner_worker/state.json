@@ -167,14 +167,6 @@
     "symbol": "BABYUSDT",
     "tf": "4h"
   },
-  "BNSOLUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-09-24T13:31:25.844904+00:00",
-    "symbol": "BNSOLUSDT",
-    "tf": "4h"
-  },
   "BROCCOLI714USDT_4h_long__CT6_RELAXED": {
     "combo": "CT6",
     "dir": "long",
@@ -871,6 +863,22 @@
     "symbol": "SUNUSDT",
     "tf": "4h"
   },
+  "SYNUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-01T15:24:22.973882+00:00",
+    "symbol": "SYNUSDT",
+    "tf": "4h"
+  },
+  "SYNUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-01T15:24:22.251435+00:00",
+    "symbol": "SYNUSDT",
+    "tf": "4h"
+  },
   "SYRUPUSDT_1d_long__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "long",
@@ -917,14 +925,6 @@
     "level": "RELAXED",
     "sent_at": "2026-09-25T13:40:23.083254+00:00",
     "symbol": "UNIUSDT",
-    "tf": "4h"
-  },
-  "UUSDT_4h_short__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-09-24T13:31:25.304617+00:00",
-    "symbol": "UUSDT",
     "tf": "4h"
   },
   "VIRTUALUSDT_4h_long__C6A-A_LOOSE": {

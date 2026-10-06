@@ -23,6 +23,22 @@
     "symbol": "AAVEUSDT",
     "tf": "4h"
   },
+  "API3USDT_4h_long__CT5_RELAXED": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-10-06T11:13:19.516081+00:00",
+    "symbol": "API3USDT",
+    "tf": "4h"
+  },
+  "API3USDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-06T11:13:20.087943+00:00",
+    "symbol": "API3USDT",
+    "tf": "4h"
+  },
   "AVAXUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",

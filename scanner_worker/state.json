@@ -127,14 +127,6 @@
     "symbol": "BONKUSDT",
     "tf": "4h"
   },
-  "CBRSBUSDT_4h_short__CT4_STRICT": {
-    "combo": "CT4",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-09-29T23:39:53.343804+00:00",
-    "symbol": "CBRSBUSDT",
-    "tf": "4h"
-  },
   "CHIPUSDT_4h_long__CT7_LOOSE": {
     "combo": "CT7",
     "dir": "long",
@@ -485,6 +477,14 @@
     "level": "LOOSE",
     "sent_at": "2026-09-30T20:46:28.287964+00:00",
     "symbol": "REZUSDT",
+    "tf": "4h"
+  },
+  "SKHYBUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-10-06T23:45:53.755896+00:00",
+    "symbol": "SKHYBUSDT",
     "tf": "4h"
   },
   "SKYUSDT_4h_long__CT7_RELAXED": {

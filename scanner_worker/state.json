@@ -423,6 +423,22 @@
     "symbol": "OPENUSDT",
     "tf": "4h"
   },
+  "OPGUSDT_1d_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-10T05:42:07.811550+00:00",
+    "symbol": "OPGUSDT",
+    "tf": "1d"
+  },
+  "OPGUSDT_1d_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-10T05:42:07.207530+00:00",
+    "symbol": "OPGUSDT",
+    "tf": "1d"
+  },
   "PENDLEUSDT_4h_short__CT2_LOOSE": {
     "combo": "CT2",
     "dir": "short",

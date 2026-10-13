@@ -255,6 +255,22 @@
     "symbol": "MAGICUSDT",
     "tf": "4h"
   },
+  "MUBUSDT_4h_long__C5B-A_STRICT": {
+    "combo": "C5B-A",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-10-13T23:43:33.286004+00:00",
+    "symbol": "MUBUSDT",
+    "tf": "4h"
+  },
+  "MUBUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-10-13T23:43:33.816735+00:00",
+    "symbol": "MUBUSDT",
+    "tf": "4h"
+  },
   "NVDABUSDT_4h_short__C5B-N_STRICT": {
     "combo": "C5B-N",
     "dir": "short",

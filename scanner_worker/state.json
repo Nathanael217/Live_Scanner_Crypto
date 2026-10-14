@@ -95,6 +95,14 @@
     "symbol": "BICOUSDT",
     "tf": "4h"
   },
+  "BNCBUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-10-14T20:10:45.641312+00:00",
+    "symbol": "BNCBUSDT",
+    "tf": "4h"
+  },
   "BOMEUSDT_4h_short__CT3_STRICT": {
     "combo": "CT3",
     "dir": "short",
@@ -133,6 +141,14 @@
     "level": "RELAXED",
     "sent_at": "2026-10-08T05:53:48.710413+00:00",
     "symbol": "CHIPUSDT",
+    "tf": "4h"
+  },
+  "COHRBUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-10-14T20:10:48.523023+00:00",
+    "symbol": "COHRBUSDT",
     "tf": "4h"
   },
   "COMPUSDT_1d_short__C5B-N_LOOSE": {
@@ -247,6 +263,30 @@
     "symbol": "GUSDT",
     "tf": "4h"
   },
+  "INITUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-14T20:10:48.039825+00:00",
+    "symbol": "INITUSDT",
+    "tf": "4h"
+  },
+  "INITUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-14T20:10:47.562891+00:00",
+    "symbol": "INITUSDT",
+    "tf": "4h"
+  },
+  "IRENBUSDT_4h_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-10-14T20:10:47.082505+00:00",
+    "symbol": "IRENBUSDT",
+    "tf": "4h"
+  },
   "KMNOUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",
@@ -285,6 +325,22 @@
     "level": "RELAXED",
     "sent_at": "2026-10-09T20:49:20.182645+00:00",
     "symbol": "MAGICUSDT",
+    "tf": "4h"
+  },
+  "MANTAUSDT_4h_long__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-14T20:10:46.585844+00:00",
+    "symbol": "MANTAUSDT",
+    "tf": "4h"
+  },
+  "MANTAUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-14T20:10:46.112945+00:00",
+    "symbol": "MANTAUSDT",
     "tf": "4h"
   },
   "MUBUSDT_4h_long__C5B-A_STRICT": {

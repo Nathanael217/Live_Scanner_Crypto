@@ -367,14 +367,6 @@
     "symbol": "DUSKUSDT",
     "tf": "4h"
   },
-  "ENSUSDT_4h_short__CT3_RELAXED": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-10-11T05:37:38.076775+00:00",
-    "symbol": "ENSUSDT",
-    "tf": "4h"
-  },
   "EPICUSDT_4h_short__CT2_LOOSE": {
     "combo": "CT2",
     "dir": "short",
@@ -503,13 +495,13 @@
     "symbol": "JUPUSDT",
     "tf": "4h"
   },
-  "LAUSDT_4h_long__CT7_RELAXED": {
-    "combo": "CT7",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-10-11T05:37:35.879839+00:00",
-    "symbol": "LAUSDT",
-    "tf": "4h"
+  "JUVUSDT_1d_short__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-10-18T12:35:12.976012+00:00",
+    "symbol": "JUVUSDT",
+    "tf": "1d"
   },
   "LITEBUSDT_4h_short__CT2_RELAXED": {
     "combo": "CT2",
@@ -655,6 +647,14 @@
     "symbol": "OPUSDT",
     "tf": "1d"
   },
+  "OSMOUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-10-18T12:35:12.358005+00:00",
+    "symbol": "OSMOUSDT",
+    "tf": "4h"
+  },
   "PENGUUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",
@@ -716,22 +716,6 @@
     "dir": "short",
     "level": "STRICT",
     "sent_at": "2026-10-17T18:25:49.685563+00:00",
-    "symbol": "RVNUSDT",
-    "tf": "4h"
-  },
-  "RVNUSDT_4h_short__CT1_RELAXED": {
-    "combo": "CT1",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-10-11T05:37:36.835910+00:00",
-    "symbol": "RVNUSDT",
-    "tf": "4h"
-  },
-  "RVNUSDT_4h_short__CT3_LOOSE": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-10-11T05:37:37.468605+00:00",
     "symbol": "RVNUSDT",
     "tf": "4h"
   },
@@ -797,6 +781,14 @@
     "level": "LOOSE",
     "sent_at": "2026-10-13T01:59:21.749253+00:00",
     "symbol": "STRAXUSDT",
+    "tf": "4h"
+  },
+  "SUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-18T12:35:11.742109+00:00",
+    "symbol": "SUSDT",
     "tf": "4h"
   },
   "TSLABUSDT_4h_short__C6A-N_STRICT": {

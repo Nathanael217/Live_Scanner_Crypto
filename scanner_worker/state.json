@@ -671,12 +671,12 @@
     "symbol": "LTCUSDT",
     "tf": "4h"
   },
-  "MMTUSDT_4h_short__C6A-N_LOOSE": {
+  "METABUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-10-15T13:21:06.932737+00:00",
-    "symbol": "MMTUSDT",
+    "level": "RELAXED",
+    "sent_at": "2026-10-22T13:44:16.048899+00:00",
+    "symbol": "METABUSDT",
     "tf": "4h"
   },
   "MORPHOUSDT_4h_short__CT2_RELAXED": {
@@ -1173,14 +1173,6 @@
     "level": "RELAXED",
     "sent_at": "2026-10-17T18:25:48.500916+00:00",
     "symbol": "VIRTUALUSDT",
-    "tf": "4h"
-  },
-  "VTHOUSDT_4h_long__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-10-15T13:21:07.535085+00:00",
-    "symbol": "VTHOUSDT",
     "tf": "4h"
   },
   "WDCBUSDT_4h_long__CT5_LOOSE": {

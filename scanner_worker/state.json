@@ -423,6 +423,14 @@
     "symbol": "HYPEUSDT",
     "tf": "4h"
   },
+  "INITUSDT_4h_long__CT5_LOOSE": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-23T23:05:11.223944+00:00",
+    "symbol": "INITUSDT",
+    "tf": "4h"
+  },
   "IOSTUSDT_1d_short__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "short",

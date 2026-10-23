@@ -111,6 +111,14 @@
     "symbol": "BATUSDT",
     "tf": "4h"
   },
+  "BEBUSDT_4h_short__CT2_RELAXED": {
+    "combo": "CT2",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-10-23T19:56:32.921419+00:00",
+    "symbol": "BEBUSDT",
+    "tf": "4h"
+  },
   "BERAUSDT_4h_long__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "long",
@@ -711,6 +719,14 @@
     "symbol": "PEPEUSDT",
     "tf": "4h"
   },
+  "POLYXUSDT_1d_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-10-23T19:56:34.747446+00:00",
+    "symbol": "POLYXUSDT",
+    "tf": "1d"
+  },
   "QKCUSDT_4h_short__CT3_LOOSE": {
     "combo": "CT3",
     "dir": "short",
@@ -767,6 +783,22 @@
     "symbol": "SAGAUSDT",
     "tf": "4h"
   },
+  "SENTUSDT_4h_long__CT6_RELAXED": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-10-23T19:56:33.474912+00:00",
+    "symbol": "SENTUSDT",
+    "tf": "4h"
+  },
+  "SENTUSDT_4h_long__CT7_LOOSE": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-23T19:56:34.023012+00:00",
+    "symbol": "SENTUSDT",
+    "tf": "4h"
+  },
   "SKYUSDT_4h_long__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "long",
@@ -788,14 +820,6 @@
     "dir": "long",
     "level": "LOOSE",
     "sent_at": "2026-10-20T19:58:52.691296+00:00",
-    "symbol": "SNDKBUSDT",
-    "tf": "4h"
-  },
-  "SNDKBUSDT_4h_short__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-10-16T19:32:32.184100+00:00",
     "symbol": "SNDKBUSDT",
     "tf": "4h"
   },
@@ -877,14 +901,6 @@
     "level": "STRICT",
     "sent_at": "2026-10-18T18:35:54.947984+00:00",
     "symbol": "TRUMPUSDT",
-    "tf": "4h"
-  },
-  "TSLABUSDT_4h_short__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-10-16T19:32:32.680540+00:00",
-    "symbol": "TSLABUSDT",
     "tf": "4h"
   },
   "TSLABUSDT_4h_short__CT2_RELAXED": {
@@ -1013,14 +1029,6 @@
     "level": "STRICT",
     "sent_at": "2026-10-18T18:35:59.356852+00:00",
     "symbol": "ZENUSDT",
-    "tf": "4h"
-  },
-  "ZILUSDT_4h_short__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-10-16T19:32:33.193992+00:00",
-    "symbol": "ZILUSDT",
     "tf": "4h"
   }
 }

@@ -679,6 +679,30 @@
     "symbol": "PEPEUSDT",
     "tf": "4h"
   },
+  "PEPEUSDT_4h_long__CT5_STRICT": {
+    "combo": "CT5",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-10-23T13:20:50.518658+00:00",
+    "symbol": "PEPEUSDT",
+    "tf": "4h"
+  },
+  "PEPEUSDT_4h_long__CT6_RELAXED": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-10-23T13:20:51.010170+00:00",
+    "symbol": "PEPEUSDT",
+    "tf": "4h"
+  },
+  "PEPEUSDT_4h_long__CT7_RELAXED": {
+    "combo": "CT7",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-10-23T13:20:51.496003+00:00",
+    "symbol": "PEPEUSDT",
+    "tf": "4h"
+  },
   "PEPEUSDT_4h_long__CT7_STRICT": {
     "combo": "CT7",
     "dir": "long",

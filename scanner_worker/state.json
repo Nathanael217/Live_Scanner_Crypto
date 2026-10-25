@@ -463,14 +463,6 @@
     "symbol": "JUPUSDT",
     "tf": "4h"
   },
-  "JUVUSDT_1d_short__C5B-N_STRICT": {
-    "combo": "C5B-N",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-10-18T12:35:12.976012+00:00",
-    "symbol": "JUVUSDT",
-    "tf": "1d"
-  },
   "KAITOUSDT_4h_short__C5B-N_RELAXED": {
     "combo": "C5B-N",
     "dir": "short",
@@ -517,6 +509,14 @@
     "level": "RELAXED",
     "sent_at": "2026-10-19T04:31:07.684459+00:00",
     "symbol": "LITEBUSDT",
+    "tf": "4h"
+  },
+  "MANTRAUSDT_4h_short__CT3_RELAXED": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-10-25T13:09:42.064075+00:00",
+    "symbol": "MANTRAUSDT",
     "tf": "4h"
   },
   "METABUSDT_4h_short__C6A-N_RELAXED": {
@@ -661,14 +661,6 @@
     "level": "STRICT",
     "sent_at": "2026-10-18T18:36:04.339170+00:00",
     "symbol": "ORDIUSDT",
-    "tf": "4h"
-  },
-  "OSMOUSDT_4h_short__C6A-N_RELAXED": {
-    "combo": "C6A-N",
-    "dir": "short",
-    "level": "RELAXED",
-    "sent_at": "2026-10-18T12:35:12.358005+00:00",
-    "symbol": "OSMOUSDT",
     "tf": "4h"
   },
   "PEPEUSDT_4h_long__CT5_LOOSE": {
@@ -854,14 +846,6 @@
     "sent_at": "2026-10-22T04:32:52.474946+00:00",
     "symbol": "SOXSBUSDT",
     "tf": "1d"
-  },
-  "SUSDT_4h_long__C6A-N_LOOSE": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-10-18T12:35:11.742109+00:00",
-    "symbol": "SUSDT",
-    "tf": "4h"
   },
   "TAOUSDT_4h_short__C6A-N_LOOSE": {
     "combo": "C6A-N",

@@ -255,6 +255,14 @@
     "symbol": "DEXEUSDT",
     "tf": "4h"
   },
+  "DODOUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-10-25T04:31:10.253293+00:00",
+    "symbol": "DODOUSDT",
+    "tf": "4h"
+  },
   "DOGEUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",
@@ -413,14 +421,6 @@
     "level": "RELAXED",
     "sent_at": "2026-10-24T18:45:46.850473+00:00",
     "symbol": "GIGGLEUSDT",
-    "tf": "4h"
-  },
-  "HYPEUSDT_4h_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-10-18T04:20:47.552192+00:00",
-    "symbol": "HYPEUSDT",
     "tf": "4h"
   },
   "INITUSDT_4h_long__CT5_LOOSE": {

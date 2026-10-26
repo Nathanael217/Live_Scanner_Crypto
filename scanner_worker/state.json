@@ -255,6 +255,14 @@
     "symbol": "GIGGLEUSDT",
     "tf": "4h"
   },
+  "GOOGLBUSDT_4h_short__CT2_RELAXED": {
+    "combo": "CT2",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-10-26T21:00:25.217582+00:00",
+    "symbol": "GOOGLBUSDT",
+    "tf": "4h"
+  },
   "INITUSDT_4h_long__CT5_LOOSE": {
     "combo": "CT5",
     "dir": "long",

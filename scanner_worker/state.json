@@ -423,6 +423,22 @@
     "symbol": "TSMBUSDT",
     "tf": "1d"
   },
+  "TUTUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-28T15:03:35.992250+00:00",
+    "symbol": "TUTUSDT",
+    "tf": "4h"
+  },
+  "TUTUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-10-28T15:03:35.351905+00:00",
+    "symbol": "TUTUSDT",
+    "tf": "4h"
+  },
   "TUTUSDT_4h_short__C6A-N_STRICT": {
     "combo": "C6A-N",
     "dir": "short",

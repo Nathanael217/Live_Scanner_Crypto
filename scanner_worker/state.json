@@ -23,6 +23,14 @@
     "symbol": "ANIMEUSDT",
     "tf": "1d"
   },
+  "APEUSDT_4h_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-10-28T20:59:31.083574+00:00",
+    "symbol": "APEUSDT",
+    "tf": "4h"
+  },
   "APEUSDT_4h_short__CT1_RELAXED": {
     "combo": "CT1",
     "dir": "short",
@@ -445,14 +453,6 @@
     "level": "STRICT",
     "sent_at": "2026-10-24T18:45:48.566381+00:00",
     "symbol": "TUTUSDT",
-    "tf": "4h"
-  },
-  "USDEUSDT_4h_short__CT4_STRICT": {
-    "combo": "CT4",
-    "dir": "short",
-    "level": "STRICT",
-    "sent_at": "2026-10-21T20:05:20.541566+00:00",
-    "symbol": "USDEUSDT",
     "tf": "4h"
   },
   "VANAUSDT_4h_short__C6A-N_RELAXED": {

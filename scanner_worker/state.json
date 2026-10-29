@@ -279,12 +279,12 @@
     "symbol": "METABUSDT",
     "tf": "4h"
   },
-  "METABUSDT_4h_short__C6A-N_RELAXED": {
+  "MSFTBUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
     "dir": "short",
     "level": "RELAXED",
-    "sent_at": "2026-10-22T13:44:16.048899+00:00",
-    "symbol": "METABUSDT",
+    "sent_at": "2026-10-29T15:11:21.071093+00:00",
+    "symbol": "MSFTBUSDT",
     "tf": "4h"
   },
   "MUUBUSDT_1d_short__C6A-N_RELAXED": {

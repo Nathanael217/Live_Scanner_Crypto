@@ -31,6 +31,22 @@
     "symbol": "1INCHUSDT",
     "tf": "1d"
   },
+  "ALABBUSDT_4h_short__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-11-04T19:42:38.471294+00:00",
+    "symbol": "ALABBUSDT",
+    "tf": "4h"
+  },
+  "ALABBUSDT_4h_short__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-11-04T19:42:37.980697+00:00",
+    "symbol": "ALABBUSDT",
+    "tf": "4h"
+  },
   "ALGOUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -77,6 +93,14 @@
     "level": "LOOSE",
     "sent_at": "2026-10-29T05:37:23.639257+00:00",
     "symbol": "APTUSDT",
+    "tf": "4h"
+  },
+  "BABABUSDT_4h_long__CT6_RELAXED": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-11-04T19:42:37.493800+00:00",
+    "symbol": "BABABUSDT",
     "tf": "4h"
   },
   "BEAMXUSDT_4h_long__C6A-N_LOOSE": {
@@ -254,6 +278,14 @@
     "sent_at": "2026-10-30T05:36:50.849273+00:00",
     "symbol": "GUNUSDT",
     "tf": "1d"
+  },
+  "HUMAUSDT_4h_short__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-11-04T19:42:37.012390+00:00",
+    "symbol": "HUMAUSDT",
+    "tf": "4h"
   },
   "ICPUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
@@ -455,6 +487,22 @@
     "symbol": "MUBUSDT",
     "tf": "1d"
   },
+  "NEXOUSDT_4h_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-11-04T19:42:39.456665+00:00",
+    "symbol": "NEXOUSDT",
+    "tf": "4h"
+  },
+  "NEXOUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-11-04T19:42:38.965575+00:00",
+    "symbol": "NEXOUSDT",
+    "tf": "4h"
+  },
   "NEXOUSDT_4h_short__CT3_LOOSE": {
     "combo": "CT3",
     "dir": "short",
@@ -637,22 +685,6 @@
     "level": "RELAXED",
     "sent_at": "2026-11-02T05:52:36.417283+00:00",
     "symbol": "TRBUSDT",
-    "tf": "4h"
-  },
-  "TUTUSDT_4h_long__C5B-N_LOOSE": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-10-28T15:03:35.992250+00:00",
-    "symbol": "TUTUSDT",
-    "tf": "4h"
-  },
-  "TUTUSDT_4h_long__C6A-N_STRICT": {
-    "combo": "C6A-N",
-    "dir": "long",
-    "level": "STRICT",
-    "sent_at": "2026-10-28T15:03:35.351905+00:00",
-    "symbol": "TUTUSDT",
     "tf": "4h"
   },
   "UNIUSDT_1d_long__C6A-N_RELAXED": {

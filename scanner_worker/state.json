@@ -1,4 +1,20 @@
 {
+  "ACTUSDT_4h_long__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-11-06T21:27:35.659117+00:00",
+    "symbol": "ACTUSDT",
+    "tf": "4h"
+  },
+  "ACTUSDT_4h_long__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-11-06T21:27:35.054105+00:00",
+    "symbol": "ACTUSDT",
+    "tf": "4h"
+  },
   "ALABBUSDT_4h_short__C5B-N_LOOSE": {
     "combo": "C5B-N",
     "dir": "short",
@@ -221,6 +237,14 @@
     "level": "RELAXED",
     "sent_at": "2026-11-03T19:27:14.833077+00:00",
     "symbol": "GRAMUSDT",
+    "tf": "4h"
+  },
+  "GTCUSDT_4h_short__CT3_STRICT": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-11-06T21:27:36.266328+00:00",
+    "symbol": "GTCUSDT",
     "tf": "4h"
   },
   "HOODBUSDT_1d_short__C5B-A_RELAXED": {

@@ -247,6 +247,14 @@
     "symbol": "DOGEUSDT",
     "tf": "1d"
   },
+  "DOGSUSDT_1d_long__C5B-N_LOOSE": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-11-11T05:59:26.650436+00:00",
+    "symbol": "DOGSUSDT",
+    "tf": "1d"
+  },
   "ENAUSDT_4h_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
     "dir": "short",
@@ -278,6 +286,14 @@
     "sent_at": "2026-11-09T18:42:26.490844+00:00",
     "symbol": "EURUSDT",
     "tf": "4h"
+  },
+  "GRAMUSDT_1d_long__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-11-11T05:59:26.080949+00:00",
+    "symbol": "GRAMUSDT",
+    "tf": "1d"
   },
   "GRAMUSDT_1d_short__C5B-A_LOOSE": {
     "combo": "C5B-A",

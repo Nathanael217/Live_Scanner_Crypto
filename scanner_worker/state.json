@@ -159,6 +159,22 @@
     "symbol": "BERAUSDT",
     "tf": "1d"
   },
+  "BOMEUSDT_4h_short__CT2_LOOSE": {
+    "combo": "CT2",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-11-12T16:45:57.283299+00:00",
+    "symbol": "BOMEUSDT",
+    "tf": "4h"
+  },
+  "BOMEUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-11-12T16:45:57.815703+00:00",
+    "symbol": "BOMEUSDT",
+    "tf": "4h"
+  },
   "CBRSBUSDT_4h_long__C6A-N_LOOSE": {
     "combo": "C6A-N",
     "dir": "long",

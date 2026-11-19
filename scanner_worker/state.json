@@ -111,12 +111,20 @@
     "symbol": "ADAUSDT",
     "tf": "4h"
   },
-  "AGPUBUSDT_4h_long__C6A-N_LOOSE": {
+  "AEROUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-11-19T12:53:00.794539+00:00",
+    "symbol": "AEROUSDT",
+    "tf": "4h"
+  },
+  "AEROUSDT_4h_short__C6A-N_RELAXED": {
     "combo": "C6A-N",
-    "dir": "long",
-    "level": "LOOSE",
-    "sent_at": "2026-11-12T07:01:15.326766+00:00",
-    "symbol": "AGPUBUSDT",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-11-19T12:53:00.258874+00:00",
+    "symbol": "AEROUSDT",
     "tf": "4h"
   },
   "AIGENSYNUSDT_4h_short__C5B-A_STRICT": {
@@ -701,6 +709,14 @@
     "level": "LOOSE",
     "sent_at": "2026-11-14T23:51:59.574728+00:00",
     "symbol": "CFXUSDT",
+    "tf": "4h"
+  },
+  "CHIPUSDT_4h_long__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "long",
+    "level": "RELAXED",
+    "sent_at": "2026-11-19T12:52:59.727406+00:00",
+    "symbol": "CHIPUSDT",
     "tf": "4h"
   },
   "COOKIEUSDT_1d_long__C6A-N_RELAXED": {
@@ -1469,6 +1485,14 @@
     "level": "RELAXED",
     "sent_at": "2026-11-16T18:22:41.469119+00:00",
     "symbol": "ICPUSDT",
+    "tf": "4h"
+  },
+  "INITUSDT_4h_short__CT2_LOOSE": {
+    "combo": "CT2",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-11-19T12:52:58.133212+00:00",
+    "symbol": "INITUSDT",
     "tf": "4h"
   },
   "IOSTUSDT_1d_short__C6A-A_LOOSE": {
@@ -2406,6 +2430,22 @@
     "sent_at": "2026-11-17T02:53:53.500583+00:00",
     "symbol": "SKYUSDT",
     "tf": "1d"
+  },
+  "SKYUSDT_4h_short__CT2_STRICT": {
+    "combo": "CT2",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-11-19T12:52:58.674524+00:00",
+    "symbol": "SKYUSDT",
+    "tf": "4h"
+  },
+  "SKYUSDT_4h_short__CT3_LOOSE": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-11-19T12:52:59.206226+00:00",
+    "symbol": "SKYUSDT",
+    "tf": "4h"
   },
   "SNDKBUSDT_4h_short__CT3_LOOSE": {
     "combo": "CT3",

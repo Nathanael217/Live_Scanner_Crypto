@@ -239,6 +239,14 @@
     "symbol": "AMDBUSDT",
     "tf": "4h"
   },
+  "AMZNBUSDT_4h_short__CT3_STRICT": {
+    "combo": "CT3",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-11-19T23:00:58.864706+00:00",
+    "symbol": "AMZNBUSDT",
+    "tf": "4h"
+  },
   "APEUSDT_1d_short__C5B-A_RELAXED": {
     "combo": "C5B-A",
     "dir": "short",
@@ -582,22 +590,6 @@
     "sent_at": "2026-11-15T06:15:37.129432+00:00",
     "symbol": "BOMEUSDT",
     "tf": "1d"
-  },
-  "BOMEUSDT_4h_short__CT2_LOOSE": {
-    "combo": "CT2",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-11-12T16:45:57.283299+00:00",
-    "symbol": "BOMEUSDT",
-    "tf": "4h"
-  },
-  "BOMEUSDT_4h_short__CT3_LOOSE": {
-    "combo": "CT3",
-    "dir": "short",
-    "level": "LOOSE",
-    "sent_at": "2026-11-12T16:45:57.815703+00:00",
-    "symbol": "BOMEUSDT",
-    "tf": "4h"
   },
   "BONKUSDT_4h_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
@@ -2535,6 +2527,22 @@
     "symbol": "SOXSBUSDT",
     "tf": "1d"
   },
+  "SPYBUSDT_4h_short__C6A-A_RELAXED": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-11-19T23:00:59.858726+00:00",
+    "symbol": "SPYBUSDT",
+    "tf": "4h"
+  },
+  "SPYBUSDT_4h_short__C6A-N_RELAXED": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-11-19T23:00:59.369356+00:00",
+    "symbol": "SPYBUSDT",
+    "tf": "4h"
+  },
   "SSVUSDT_1d_short__C5B-A_RELAXED": {
     "combo": "C5B-A",
     "dir": "short",
@@ -2678,6 +2686,22 @@
     "sent_at": "2026-11-14T00:51:39.091161+00:00",
     "symbol": "SYRUPUSDT",
     "tf": "1d"
+  },
+  "SYRUPUSDT_4h_short__C6A-A_STRICT": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-11-19T23:01:00.835242+00:00",
+    "symbol": "SYRUPUSDT",
+    "tf": "4h"
+  },
+  "SYRUPUSDT_4h_short__C6A-N_STRICT": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "STRICT",
+    "sent_at": "2026-11-19T23:01:00.339946+00:00",
+    "symbol": "SYRUPUSDT",
+    "tf": "4h"
   },
   "TAOUSDT_1d_short__C5B-A_LOOSE": {
     "combo": "C5B-A",

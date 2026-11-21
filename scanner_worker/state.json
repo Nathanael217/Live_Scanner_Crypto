@@ -575,14 +575,6 @@
     "symbol": "AXSUSDT",
     "tf": "4h"
   },
-  "BANANAS31USDT_4h_long__C5B-N_RELAXED": {
-    "combo": "C5B-N",
-    "dir": "long",
-    "level": "RELAXED",
-    "sent_at": "2026-11-14T11:23:28.078072+00:00",
-    "symbol": "BANANAS31USDT",
-    "tf": "4h"
-  },
   "BATUSDT_4h_short__CT2_STRICT": {
     "combo": "CT2",
     "dir": "short",
@@ -622,6 +614,22 @@
     "sent_at": "2026-11-20T07:01:03.483932+00:00",
     "symbol": "BFUSDUSDT",
     "tf": "4h"
+  },
+  "BICOUSDT_1d_short__C5B-A_RELAXED": {
+    "combo": "C5B-A",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-11-21T12:31:14.764731+00:00",
+    "symbol": "BICOUSDT",
+    "tf": "1d"
+  },
+  "BICOUSDT_1d_short__C5B-N_RELAXED": {
+    "combo": "C5B-N",
+    "dir": "short",
+    "level": "RELAXED",
+    "sent_at": "2026-11-21T12:31:15.438587+00:00",
+    "symbol": "BICOUSDT",
+    "tf": "1d"
   },
   "BIOUSDT_1d_short__C6A-A_LOOSE": {
     "combo": "C6A-A",
@@ -1047,6 +1055,14 @@
     "symbol": "DEXEUSDT",
     "tf": "4h"
   },
+  "DODOUSDT_4h_long__CT6_LOOSE": {
+    "combo": "CT6",
+    "dir": "long",
+    "level": "LOOSE",
+    "sent_at": "2026-11-21T12:31:13.398942+00:00",
+    "symbol": "DODOUSDT",
+    "tf": "4h"
+  },
   "DOGEUSDT_1d_short__C5B-A_LOOSE": {
     "combo": "C5B-A",
     "dir": "short",
@@ -1415,11 +1431,27 @@
     "symbol": "ETHUSDT",
     "tf": "1d"
   },
+  "ETHUSDT_1d_short__C6A-A_LOOSE": {
+    "combo": "C6A-A",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-11-21T12:31:12.725627+00:00",
+    "symbol": "ETHUSDT",
+    "tf": "1d"
+  },
   "ETHUSDT_1d_short__C6A-A_RELAXED": {
     "combo": "C6A-A",
     "dir": "short",
     "level": "RELAXED",
     "sent_at": "2026-11-15T06:14:42.768462+00:00",
+    "symbol": "ETHUSDT",
+    "tf": "1d"
+  },
+  "ETHUSDT_1d_short__C6A-N_LOOSE": {
+    "combo": "C6A-N",
+    "dir": "short",
+    "level": "LOOSE",
+    "sent_at": "2026-11-21T12:31:12.056700+00:00",
     "symbol": "ETHUSDT",
     "tf": "1d"
   },
@@ -3398,6 +3430,14 @@
     "sent_at": "2026-11-21T01:25:14.307738+00:00",
     "symbol": "TWTUSDT",
     "tf": "1d"
+  },
+  "TWTUSDT_4h_long__C5B-N_STRICT": {
+    "combo": "C5B-N",
+    "dir": "long",
+    "level": "STRICT",
+    "sent_at": "2026-11-21T12:31:14.085094+00:00",
+    "symbol": "TWTUSDT",
+    "tf": "4h"
   },
   "UNIUSDT_1d_short__C6A-A_STRICT": {
     "combo": "C6A-A",
